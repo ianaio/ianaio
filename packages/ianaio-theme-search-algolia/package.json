@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/theme-search-algolia",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Algolia search component for Ianaio.",
   "main": "lib/index.js",
   "sideEffects": [
@@ -34,13 +34,13 @@
   },
   "dependencies": {
     "@docsearch/react": "~3.3.3",
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/logger": "3.0.0-alpha.0",
-    "@ianaio/plugin-content-docs": "3.0.0-alpha.0",
-    "@ianaio/theme-common": "3.0.0-alpha.0",
-    "@ianaio/theme-translations": "3.0.0-alpha.0",
-    "@ianaio/utils": "3.0.0-alpha.0",
-    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/logger": "0.0.1",
+    "@ianaio/plugin-content-docs": "0.0.1",
+    "@ianaio/theme-common": "0.0.1",
+    "@ianaio/theme-translations": "0.0.1",
+    "@ianaio/utils": "0.0.1",
+    "@ianaio/utils-validation": "0.0.1",
     "algoliasearch": "^4.18.0",
     "algoliasearch-helper": "^3.13.3",
     "clsx": "^1.2.1",
@@ -51,7 +51,7 @@
     "utility-types": "^3.10.0"
   },
   "devDependencies": {
-    "@ianaio/module-type-aliases": "3.0.0-alpha.0"
+    "@ianaio/module-type-aliases": "0.0.1"
   },
   "peerDependencies": {
     "react": "^18.0.0",

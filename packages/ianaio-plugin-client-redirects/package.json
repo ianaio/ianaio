@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/plugin-client-redirects",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Client redirects plugin for Ianaio.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,18 +18,18 @@
   },
   "license": "Ianaio",
   "dependencies": {
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/logger": "3.0.0-alpha.0",
-    "@ianaio/utils": "3.0.0-alpha.0",
-    "@ianaio/utils-common": "3.0.0-alpha.0",
-    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/logger": "0.0.1",
+    "@ianaio/utils": "0.0.1",
+    "@ianaio/utils-common": "0.0.1",
+    "@ianaio/utils-validation": "0.0.1",
     "eta": "^2.2.0",
     "fs-extra": "^11.1.1",
     "lodash": "^4.17.21",
     "tslib": "^2.6.0"
   },
   "devDependencies": {
-    "@ianaio/types": "3.0.0-alpha.0"
+    "@ianaio/types": "0.0.1"
   },
   "peerDependencies": {
     "react": "^18.0.0",

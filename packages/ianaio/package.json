@@ -1,7 +1,7 @@
 {
   "name": "@ianaio/core",
   "description": "Easy to Maintain Open Source Documentation Websites",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "license": "Ianaio",
   "publishConfig": {
     "access": "public"
@@ -43,13 +43,13 @@
     "@babel/runtime": "^7.22.6",
     "@babel/runtime-corejs3": "^7.22.6",
     "@babel/traverse": "^7.22.8",
-    "@ianaio/cssnano-preset": "3.0.0-alpha.0",
-    "@ianaio/logger": "3.0.0-alpha.0",
-    "@ianaio/mdx-loader": "3.0.0-alpha.0",
+    "@ianaio/cssnano-preset": "0.0.1",
+    "@ianaio/logger": "0.0.1",
+    "@ianaio/mdx-loader": "0.0.1",
     "@ianaio/react-loadable": "5.5.2",
-    "@ianaio/utils": "3.0.0-alpha.0",
-    "@ianaio/utils-common": "3.0.0-alpha.0",
-    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@ianaio/utils": "0.0.1",
+    "@ianaio/utils-common": "0.0.1",
+    "@ianaio/utils-validation": "0.0.1",
     "@slorber/static-site-generator-webpack-plugin": "^4.0.7",
     "@svgr/webpack": "^6.5.1",
     "autoprefixer": "^10.4.14",
@@ -106,8 +106,8 @@
     "webpackbar": "^5.0.2"
   },
   "devDependencies": {
-    "@ianaio/module-type-aliases": "3.0.0-alpha.0",
-    "@ianaio/types": "3.0.0-alpha.0",
+    "@ianaio/module-type-aliases": "0.0.1",
+    "@ianaio/types": "0.0.1",
     "@types/detect-port": "^1.3.3",
     "@types/react-dom": "^18.2.7",
     "@types/react-router-config": "^5.0.7",

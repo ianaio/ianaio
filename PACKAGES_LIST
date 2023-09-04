@@ -1,0 +1,15 @@
+"@ianaio/core": "0.0.1"
+@ianaio/logger": "0.0.1"
+@ianaio/plugin-ideal-image
+@ianaio/plugin-pwa
+@ianaio/preset-classic
+ianaio/remark-plugin-npm2yarn
+@ianaio/theme-classic
+@ianaio/theme-common
+@ianaio/theme-live-codeblock
+@ianaio/theme-mermaid
+@ianaio/utils
+@ianaio/utils-common
+@ianaio/eslint-plugin
+@ianaio/tsconfig
+

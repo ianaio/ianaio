@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/theme-translations",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Ianaio theme translations.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -23,8 +23,8 @@
     "tslib": "^2.6.0"
   },
   "devDependencies": {
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/logger": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/logger": "0.0.1",
     "lodash": "^4.17.21"
   },
   "engines": {

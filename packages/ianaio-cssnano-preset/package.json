@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/cssnano-preset",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Advanced cssnano preset for maximum optimization.",
   "main": "lib/index.js",
   "license": "Ianaio",

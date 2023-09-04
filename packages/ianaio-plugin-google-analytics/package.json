@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/plugin-google-analytics",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Global analytics (analytics.js) plugin for Ianaio.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,9 +18,9 @@
   },
   "license": "Ianaio",
   "dependencies": {
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/types": "3.0.0-alpha.0",
-    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/types": "0.0.1",
+    "@ianaio/utils-validation": "0.0.1",
     "tslib": "^2.6.0"
   },
   "peerDependencies": {

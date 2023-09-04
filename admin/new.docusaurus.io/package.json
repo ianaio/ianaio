@@ -1,6 +1,6 @@
 {
   "name": "new.ianaio.io",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "npx --package netlify-cli netlify dev"

@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/remark-plugin-npm2yarn",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Remark plugin for converting npm commands to Yarn commands as tabs.",
   "main": "lib/index.js",
   "publishConfig": {

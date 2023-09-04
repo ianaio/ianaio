@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/utils-validation",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Node validation utility functions for Ianaio packages.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -18,8 +18,8 @@
   },
   "license": "Ianaio",
   "dependencies": {
-    "@ianaio/logger": "3.0.0-alpha.0",
-    "@ianaio/utils": "3.0.0-alpha.0",
+    "@ianaio/logger": "0.0.1",
+    "@ianaio/utils": "0.0.1",
     "joi": "^17.9.2",
     "js-yaml": "^4.1.0",
     "tslib": "^2.6.0"

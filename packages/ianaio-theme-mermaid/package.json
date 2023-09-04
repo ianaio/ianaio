@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/theme-mermaid",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Mermaid components for Ianaio.",
   "main": "lib/index.js",
   "types": "src/theme-mermaid.d.ts",
@@ -33,11 +33,11 @@
     "copy:watch": "node ../../admin/scripts/copyUntypedFiles.js --watch"
   },
   "dependencies": {
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/module-type-aliases": "3.0.0-alpha.0",
-    "@ianaio/theme-common": "3.0.0-alpha.0",
-    "@ianaio/types": "3.0.0-alpha.0",
-    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/module-type-aliases": "0.0.1",
+    "@ianaio/theme-common": "0.0.1",
+    "@ianaio/types": "0.0.1",
+    "@ianaio/utils-validation": "0.0.1",
     "mermaid": "^9.4.3",
     "tslib": "^2.6.0"
   },

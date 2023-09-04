@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/logger",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "An encapsulated logger for semantically formatting console messages.",
   "main": "./lib/index.js",
   "repository": {

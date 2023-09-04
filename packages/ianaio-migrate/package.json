@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/migrate",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "A CLI tool to migrate from older versions of Ianaio.",
   "license": "Ianaio",
   "engines": {
@@ -24,8 +24,8 @@
   "dependencies": {
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
-    "@ianaio/logger": "3.0.0-alpha.0",
-    "@ianaio/utils": "3.0.0-alpha.0",
+    "@ianaio/logger": "0.0.1",
+    "@ianaio/utils": "0.0.1",
     "@mapbox/hast-util-to-jsx": "^2.0.0",
     "color": "^4.2.3",
     "commander": "^5.1.0",

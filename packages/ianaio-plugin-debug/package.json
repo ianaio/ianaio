@@ -1,6 +1,6 @@
 {
   "name": "@ianaio/plugin-debug",
-  "version": "3.0.0-alpha.0",
+  "version": "0.0.1",
   "description": "Debug plugin for Ianaio.",
   "main": "lib/index.js",
   "types": "src/plugin-debug.d.ts",
@@ -20,9 +20,9 @@
   },
   "license": "Ianaio",
   "dependencies": {
-    "@ianaio/core": "3.0.0-alpha.0",
-    "@ianaio/types": "3.0.0-alpha.0",
-    "@ianaio/utils": "3.0.0-alpha.0",
+    "@ianaio/core": "0.0.1",
+    "@ianaio/types": "0.0.1",
+    "@ianaio/utils": "0.0.1",
     "@microlink/react-json-view": "^1.22.2",
     "fs-extra": "^11.1.1",
     "tslib": "^2.6.0"
