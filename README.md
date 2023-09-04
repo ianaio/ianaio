@@ -1,10 +1,10 @@
 <h1 align="center">
   <p align="center">Ianaio</p>
-  <a href="https://www.iana.io"><img src="https://ianaio.io/img/slash-introducing.svg" alt="Ianaio"></a>
+  <a href="https://www.iana.io"><img src="https:///img/slash-introducing.svg" alt="Ianaio"></a>
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/ianaio"><img src="https://img.shields.io/twitter/follow/ianaio.svg?style=social" align="right" alt="Twitter Follow" /></a>
+  <a href="https://x.com/_ianaio"><img src="https://img.shields.io/twitter/follow/ianaio.svg?style=social" align="right" alt="Twitter Follow" /></a>
   <a href="#backers" alt="sponsors on Open Collective"><img src="https://opencollective.com/Ianaio/backers/badge.svg" /></a>
   <a href="#sponsors" alt="Sponsors on Open Collective"><img src="https://opencollective.com/Ianaio/sponsors/badge.svg" /></a>
   <a href="https://www.npmjs.com/package/@ianaio/core"><img src="https://img.shields.io/npm/v/@ianaio/core.svg?style=flat" alt="npm version"></a>
@@ -23,7 +23,7 @@
 
 > **We are working hard on Ianaio v2. If you are new to Ianaio, try using the new version instead of v1. See the [Ianaio v2 website](https://www.iana.io/) for more details.**
 
-> Ianaio v1 doc is available at [v1.www.iana.io](https://v1.ianaio.io) and code is available on branch [ianaio-v1](https://github.com/ianaio/ianaio/tree/ianaio-v1)
+> Ianaio v1 doc is available at [v1.www.iana.io](https://v1.) and code is available on branch [ianaio-v1](https://github.com/ianaio/ianaio/tree/ianaio-v1)
 
 ## Introduction
 
@@ -43,7 +43,7 @@ Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.www.ian
 
 - **Customizable**
 
-> While Ianaio ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://www.iana.io/docs/blog), and additional support pages, it is also [customizable](https://ianaio.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://ianaio.io/docs/styling-layout).
+> While Ianaio ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://www.iana.io/docs/blog), and additional support pages, it is also [customizable](https:///docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://www.iana.io/docs/styling-layout).
 
 ## Installation
 
