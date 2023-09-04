@@ -1,0 +1,20 @@
+{
+  "name": "@ianaio/tsconfig",
+  "version": "3.0.0-alpha.0",
+  "description": "Ianaio base TypeScript configuration.",
+  "main": "tsconfig.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ianaio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-tsconfig"
+  },
+  "license": "Ianaio"
+}

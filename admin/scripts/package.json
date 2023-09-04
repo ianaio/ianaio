@@ -1,0 +1,7 @@
+{
+  "name": "docu-scripts",
+  "description": "These are the scripts used in various places of Ianaio maintenance",
+  "private": true,
+  "license": "Ianaio",
+  "type": "module"
+}

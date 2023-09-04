@@ -1,0 +1,28 @@
+---
+title: Blog post MDX require Feed tests
+authors:
+  - slorber
+tags:
+  [
+    paginated-tag,
+    blog,
+    ianaio,
+    long-long,
+    long-long-long,
+    long-long-long-long,
+  ]
+---
+
+Some MDX tests, mostly to test how the RSS feed render those
+
+{/* truncate */}
+
+Test MDX with require calls
+
+import useBaseUrl from '@ianaio/useBaseUrl';
+
+<img src={useBaseUrl('/img/ianaio.png')} />
+
+<img src={require('../../static/img/ianaio.png').default} />
+
+<img src={require('@site/static/img/ianaio.png').default} />

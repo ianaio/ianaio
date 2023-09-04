@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loadSiteMetadata warns about plugin version mismatch 1`] = `
+{
+  "ianaioVersion": "<CURRENT_VERSION>",
+  "pluginVersions": {
+    "ianaio-plugin-content-docs": {
+      "name": "@ianaio/plugin-content-docs",
+      "type": "package",
+      "version": "1.0.0",
+    },
+  },
+  "siteVersion": "random-version",
+}
+`;

@@ -1,0 +1,33 @@
+{
+  "name": "@ianaio/theme-translations",
+  "version": "3.0.0-alpha.0",
+  "description": "Ianaio theme translations.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-theme-translations"
+  },
+  "license": "Ianaio",
+  "scripts": {
+    "build": "tsc --build",
+    "watch": "tsc --build --watch",
+    "update": "node ./update.mjs"
+  },
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "tslib": "^2.6.0"
+  },
+  "devDependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/logger": "3.0.0-alpha.0",
+    "lodash": "^4.17.21"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

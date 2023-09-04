@@ -1,0 +1,38 @@
+{
+  "name": "@ianaio/plugin-sitemap",
+  "version": "3.0.0-alpha.0",
+  "description": "Simple sitemap generation plugin for Ianaio.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-plugin-sitemap"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/logger": "3.0.0-alpha.0",
+    "@ianaio/types": "3.0.0-alpha.0",
+    "@ianaio/utils": "3.0.0-alpha.0",
+    "@ianaio/utils-common": "3.0.0-alpha.0",
+    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "fs-extra": "^11.1.1",
+    "sitemap": "^7.1.1",
+    "tslib": "^2.6.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

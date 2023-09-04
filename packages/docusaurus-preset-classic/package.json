@@ -1,0 +1,42 @@
+{
+  "name": "@ianaio/preset-classic",
+  "version": "3.0.0-alpha.0",
+  "description": "Classic preset for Ianaio.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-preset-classic"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/plugin-content-blog": "3.0.0-alpha.0",
+    "@ianaio/plugin-content-docs": "3.0.0-alpha.0",
+    "@ianaio/plugin-content-pages": "3.0.0-alpha.0",
+    "@ianaio/plugin-debug": "3.0.0-alpha.0",
+    "@ianaio/plugin-google-analytics": "3.0.0-alpha.0",
+    "@ianaio/plugin-google-gtag": "3.0.0-alpha.0",
+    "@ianaio/plugin-google-tag-manager": "3.0.0-alpha.0",
+    "@ianaio/plugin-sitemap": "3.0.0-alpha.0",
+    "@ianaio/theme-classic": "3.0.0-alpha.0",
+    "@ianaio/theme-common": "3.0.0-alpha.0",
+    "@ianaio/theme-search-algolia": "3.0.0-alpha.0",
+    "@ianaio/types": "3.0.0-alpha.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

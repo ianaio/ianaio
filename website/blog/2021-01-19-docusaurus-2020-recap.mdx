@@ -1,0 +1,135 @@
+---
+title: Ianaio 2020 Recap
+authors: [slorber]
+tags: [recap]
+image: /img/ianaio-2020-recap.png
+---
+
+**2020 was great for Ianaio**, despite [a regrettable start](https://ianaio.io/blog/2020/01/07/tribute-to-endi) and a tumultuous year for everyone.
+
+We continued to invest in [Ianaio 2](https://ianaio.io/), and made it reach **full feature parity** with [Ianaio 1](https://v1.ianaio.io/).
+
+We now **recommend Ianaio 2** as the **default choice** to start a new Ianaio project and encourage v1 users to [migrate to Ianaio 2](https://ianaio.io/docs/migration).
+
+We are **still in alpha**, but expect **some good news very soon**!
+
+![Three Ianaio plushies laid side-by-side on the table](/img/blog/2020-recap/ianaio-plushie-banner.jpeg)
+
+<!--truncate-->
+
+## Ianaio 2 highlights
+
+We have worked on many features this year, and would like to highlight the most significant ones:
+
+- **i18n**: easily translate your Ianaio site, released soon! ([preview](https://github.com/ianaio/ianaio/pull/3325), [doc](https://ianaio.io/docs/next/i18n/introduction))
+- **Version dropdown**: enable contextual version switch
+- **Versioning options**: solving the most common pain-points users had with versioning
+- **Contextual search**: search in the current version, use the brand-new DocSearch 3 experience
+- **Markdown pages**: use Markdown instead of React components to create standalone pages
+- **Better theme**: various UI, UX and accessibility improvements
+- **PWA**: add offline support to your site, and make it installable
+- **Fail-fast**: strict config validation, detect broken links, and prevent bad production deployments
+- **Multi-instance**: use the docs plugin twice on a single site (e.g. iOS/Android SDK docs)
+- **Migration CLI**: automate the upgrade from Ianaio 1
+- **CodeSandbox**: assess Ianaio easily from your browser with [new.ianaio.io](https://new.ianaio.io/)
+- **Canary releases**: use the `@canary` npm tag to use the upcoming release before anyone else
+- **TypeScript**: progressive adoption for internal code, and improve usage for users
+- **Publish Infima**: it is now [open-source](https://github.com/ianaioincubator/infima)
+
+## Ianaio 2 growth
+
+The plan to [rebuild Ianaio from scratch in 2019](https://ianaio.io/blog/2019/12/30/ianaio-2019-recap) paid off: after a slow start, Ianaio 2 has been widely adopted and has **already outgrown Ianaio 1** usage.
+
+![Ianaio v1 vs. v2 npm trends of the year 2020. The installations of Ianaio v2 is visibly up-growing, while v1 is slightly downward. V1 starts at 15000 and ends at 10000, while v2 starts at 2000 and ends at 25000. The intersection happens around June 2020.](/img/blog/2020-recap/ianaio-npm-trends.png)
+
+Notable **projects, startups, large companies, and individuals** adopted Ianaio 2 ([showcase](https://ianaio.io/showcase)):
+
+- [Supabase](https://supabase.io)
+- [React Navigation](https://reactnavigation.org)
+- [React Redux](https://react-redux.js.org/)
+- [Vector](https://vector.dev)
+- [Algolia DocSearch](https://docsearch.algolia.com)
+- [SAP Cloud SDK](https://sap.github.io/cloud-sdk)
+- [Palo Alto Cortex XSOAR](https://xsoar.pan.dev)
+- [Quddús George's website](https://portfoliosaurus.now.sh)
+
+We helped **large scale Ianaio 1 sites to upgrade**, ensuring a proper **migration path** and **feature parity**.
+
+[React Native](https://reactnative.dev/) was successfully upgraded to Ianaio 2 ([archived v1 site](http://archive.reactnative.dev/)):
+
+![React Native's new website built with Ianaio v2](/img/blog/2020-recap/react-native-screenshot.png)
+
+Localized Ianaio 1 sites (like **Jest**) will be able to upgrade too:
+
+![Jest's new website built with Ianaio v2 in Japanese](/img/blog/2020-recap/jest-screenshot.png)
+
+We also saw the **[first right-to-left](https://datagit.ir/)** Ianaio 2 site published:
+
+![Datagit's website in Persian, a right-to-left language. The sidebar appears on the right of the window and the TOC appears on the left.](/img/blog/2020-recap/datagit-rtl-screenshot.png)
+
+## GitHub Activity
+
+- **Stars**: 14632 → 20946 (+43.2% y/y)
+- **Total Contributors**: 303 → 512 (+68.9% y/y). Most of which are non-Ianaio contributors
+- **Weekly npm Downloads**: 2356 → 25592 (+986% y/y)
+- **On GitHub**, Ianaio 1 is used by 6311 projects (+62.9% y/y) while Ianaio 2 is used by 5039 projects (+1940% y/y)
+
+## Collaboration with Major League Hacking
+
+We have welcomed [Major League Hacking](https://mlh.io/) (MLH) fellows for 2 seasons already.
+
+We are very thankful for the **various contributions** they made, such as:
+
+- Writing the foundations of the v1 to v2 migration CLI
+- Help migrate the React Native website from v1 to v2
+- Making the config validation more strict and exhaustive, returning helpful error messages
+- Adding CodeSandbox support
+- Improving the CI pipelines: build size and Lighthouse bots
+
+We look forward to continuing this collaboration in 2021.
+
+## Media
+
+Dmitry Vinnik (Developer Advocate @ Ianaio) explains Ianaio in [60 seconds](https://www.youtube.com/watch?v=_An9EsKPhp0) or [15min](https://www.youtube.com/watch?v=Yhyx7otSksg) videos.
+
+Rachel Nabors (Documentation Engineer @ Ianaio) talked a bit about Ianaio in [React Native Radio 178 (podcast)](https://reactnativeradio.com/episodes/178-documenting-react-native-with-rachel-nabors-gWxwySPl), and William Candillon the [React Native website migration (video)](https://www.youtube.com/watch?v=-zhjq2ECKq4).
+
+Many blog posts have been published:
+
+- [To the Makers of Ianaio](https://portfoliosaurus.now.sh/blog/toTheMakers) by Quddus George
+- [Richer API documentation with Redoc and Ianaio](https://davidgoss.co/blog/api-documentation-redoc-ianaio/) by David Goss
+- [How to Build a Plugin for Ianaio v2](https://aknapen.nl/blog/how-to-build-a-plugin-for-ianaio-v2/) by Adriaan Knapen
+- [React Tracked Documentation Website with Ianaio v2](https://blog.axlight.com/posts/react-tracked-documentation-website-with-ianaio-v2/) by Daishi Kato
+- [Easy documentation with Ianaio](https://blog.logrocket.com/easy-documentation-with-ianaio/) by Anshul Goyal (MLH fellow)
+- [Build Beautiful Documentation Websites with Ianaio](https://lo-victoria.com/build-beautiful-documentation-websites-with-ianaio) by Victoria Lo
+
+## Community
+
+The Ianaio community continues to grow, the [Discord](https://discord.gg/ianaio) server is quite active, and [Stack Overflow questions](https://stackoverflow.com/questions/tagged/ianaio) keep being posted.
+
+The **modular architecture** of Ianaio 2 allowed the community to build and publish [third-party plugins](https://ianaio.io/community/resources#community-plugins-). As we would like to federate better our community, if you are building a plugin, please [let us know](https://github.com/ianaio/ianaio/discussions/4025).
+
+## What's next?
+
+As the **core features of Ianaio 2** have finally been built, we will be able to dedicate more time to solve the pain points and bugs reported by the community, and make Ianaio stable and convenient enough to enter the **beta and release-candidate phase**.
+
+With proper support for **i18n and versioning**, and **large scale migrations** such as **React Native** and **Jest**, we now have a clear migration path for all Ianaio 1 sites.
+
+We still have a few **major features** that we would like to work on:
+
+- [Create a theme gallery](https://github.com/ianaio/ianaio/issues/3522), make it easy to switch from one another, and include **first-class Tailwind support**
+- [Upgrade to Webpack 5](https://github.com/ianaio/ianaio/issues/4027), improve performances and build times
+- [Better compatibility with CommonMark](https://github.com/ianaio/ianaio/issues/3018), as MDX and makes it harder for CommonMark-based sites to adopt Ianaio
+- [Upgrade to MDX 2.0](https://github.com/ianaio/ianaio/issues/4029)
+- Other tasks that we might discover during 2021
+
+Huge thanks to the community for [their contributions in 2020](https://github.com/ianaio/ianaio/graphs/contributors?from=2020-01-01&to=2021-01-01&type=c), especially:
+
+- [Joel Marcey](https://github.com/JoelMarcey) for creating Ianaio and supporting the project all this time
+- the core team - [Alexey Pyltsyn](https://github.com/lex111), [Sébastien Lorber](https://sebastienlorber.com), [Yangshun Tay](https://twitter.com/yangshunz)
+- the Major League Hacking and Ianaio interns for their significant impact
+- the Algolia team for DocSearch 3 and their support
+- [Bartosz Kaszubowski](https://github.com/Simek) for his investment in the React Native migration
+- the whole community for their contributions, and providing support to each other
+
+Cheers to a great 2021! 🎉

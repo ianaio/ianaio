@@ -1,0 +1,32 @@
+{
+  "name": "@ianaio/logger",
+  "version": "3.0.0-alpha.0",
+  "description": "An encapsulated logger for semantically formatting console messages.",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/ianaio/ianaio/issues"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "tslib": "^2.6.0"
+  },
+  "engines": {
+    "node": ">=16.14"
+  },
+  "devDependencies": {
+    "@types/supports-color": "^8.1.1"
+  }
+}

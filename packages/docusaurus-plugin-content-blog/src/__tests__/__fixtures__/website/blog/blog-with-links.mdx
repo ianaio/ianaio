@@ -1,0 +1,31 @@
+---
+title: test links
+date: 2023-07-23
+---
+
+import useBaseUrl from '@ianaio/useBaseUrl';
+import dino from '../static/img/test-image.png';
+
+[absolute full url](https://github.com/ianaio/ianaio)
+
+[absolute pathname](/blog/heading-as-title)
+
+[relative pathname](heading-as-title)
+
+[md link](heading-as-title.md)
+
+[anchor](#title)
+
+[relative pathname + anchor](heading-as-title#title)
+
+![](/img/test-image.png)
+
+![](https://ianaio.io/assets/images/slash-introducing-411a16dd05086935b8e9ddae38ae9b45.svg)
+
+<img
+  srcSet={`${useBaseUrl('/img/test-image.png 300w')},    ${useBaseUrl(
+    '/img/ianaio-social-card.png 500w',
+  )}`}
+/>
+
+<img src={useBaseUrl('/img/test-image.png')} />

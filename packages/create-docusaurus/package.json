@@ -1,0 +1,42 @@
+{
+  "name": "create-ianaio",
+  "version": "3.0.0-alpha.0",
+  "description": "Create Ianaio apps easily.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/create-ianaio"
+  },
+  "bugs": {
+    "url": "https://github.com/ianaio/ianaio/issues"
+  },
+  "scripts": {
+    "create-ianaio": "create-ianaio",
+    "build": "tsc --build",
+    "watch": "tsc --build --watch"
+  },
+  "bin": "bin/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/logger": "3.0.0-alpha.0",
+    "@ianaio/utils": "3.0.0-alpha.0",
+    "commander": "^5.1.0",
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21",
+    "prompts": "^2.4.2",
+    "semver": "^7.5.4",
+    "shelljs": "^0.8.5",
+    "supports-color": "^9.4.0",
+    "tslib": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/supports-color": "^8.1.1"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ianaio-1-website",
+  "version": "2.0.0-alpha.58",
+  "private": true,
+  "scripts": {
+    "start": "ianaio-start",
+    "build": "ianaio-build",
+    "publish-gh-pages": "ianaio-publish",
+    "examples": "ianaio-examples",
+    "write-translations": "ianaio-write-translations",
+    "ianaio-version": "ianaio-version",
+    "rename-version": "ianaio-rename-version",
+    "crowdin-upload": "crowdin --config ../crowdin.yaml upload sources --auto-update -b master",
+    "crowdin-download": "crowdin --config ../crowdin.yaml download -b master"
+  },
+  "dependencies": {
+    "ianaio": "*"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "@ianaio/plugin-google-gtag",
+  "version": "3.0.0-alpha.0",
+  "description": "Global Site Tag (gtag.js) plugin for Ianaio.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc --build",
+    "watch": "tsc --build --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-plugin-google-gtag"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/types": "3.0.0-alpha.0",
+    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@types/gtag.js": "^0.0.12",
+    "tslib": "^2.6.0"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

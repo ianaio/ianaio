@@ -1,0 +1,29 @@
+---
+sidebar_position: 3
+slug: /api/themes/@ianaio/theme-live-codeblock
+---
+
+# 📦 theme-live-codeblock
+
+This theme provides a `@theme/CodeBlock` component that is powered by react-live. You can read more on [interactive code editor](../../guides/markdown-features/markdown-features-code-blocks.mdx#interactive-code-editor) documentation.
+
+```bash npm2yarn
+npm install --save @ianaio/theme-live-codeblock
+```
+
+### Configuration {#configuration}
+
+```js title="ianaio.config.js"
+module.exports = {
+  plugins: ['@ianaio/theme-live-codeblock'],
+  themeConfig: {
+    liveCodeBlock: {
+      /**
+       * The position of the live playground, above or under the editor
+       * Possible values: "top" | "bottom"
+       */
+      playgroundPosition: 'bottom',
+    },
+  },
+};
+```

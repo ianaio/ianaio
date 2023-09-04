@@ -1,0 +1,52 @@
+{
+  "name": "@ianaio/plugin-ideal-image",
+  "version": "3.0.0-alpha.0",
+  "description": "Ianaio Plugin to generate an almost ideal image (responsive, lazy-loading, and low quality placeholder).",
+  "main": "lib/index.js",
+  "types": "src/plugin-ideal-image.d.ts",
+  "scripts": {
+    "build": "tsc --build && node ../../admin/scripts/copyUntypedFiles.js && prettier --config ../../.prettierrc --write \"lib/theme/**/*.js\"",
+    "watch": "run-p -c copy:watch build:watch",
+    "build:watch": "tsc --build --watch",
+    "copy:watch": "node ../../admin/scripts/copyUntypedFiles.js --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-plugin-ideal-image"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/lqip-loader": "3.0.0-alpha.0",
+    "@ianaio/responsive-loader": "^1.7.0",
+    "@ianaio/theme-translations": "3.0.0-alpha.0",
+    "@ianaio/types": "3.0.0-alpha.0",
+    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@slorber/react-ideal-image": "^0.0.12",
+    "react-waypoint": "^10.3.0",
+    "sharp": "^0.32.3",
+    "tslib": "^2.6.0",
+    "webpack": "^5.88.1"
+  },
+  "devDependencies": {
+    "@ianaio/module-type-aliases": "3.0.0-alpha.0",
+    "fs-extra": "^11.1.0"
+  },
+  "peerDependencies": {
+    "jimp": "*",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "peerDependenciesMeta": {
+    "jimp": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@ianaio/utils-common",
+  "version": "3.0.0-alpha.0",
+  "description": "Common (Node/Browser) utility functions for Ianaio packages.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-utils-common"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "tslib": "^2.6.0"
+  },
+  "peerDependencies": {
+    "@ianaio/types": "*"
+  },
+  "peerDependenciesMeta": {
+    "@ianaio/types": {
+      "optional": true
+    }
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@ianaio/module-type-aliases",
+  "version": "3.0.0-alpha.0",
+  "description": "Ianaio module type aliases.",
+  "types": "./src/index.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-module-type-aliases"
+  },
+  "dependencies": {
+    "@ianaio/react-loadable": "5.5.2",
+    "@ianaio/types": "3.0.0-alpha.0",
+    "@types/history": "^4.7.11",
+    "@types/react": "*",
+    "@types/react-router-config": "*",
+    "@types/react-router-dom": "*",
+    "react-helmet-async": "*",
+    "react-loadable": "npm:@ianaio/react-loadable@5.5.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "license": "Ianaio"
+}

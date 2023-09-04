@@ -1,0 +1,47 @@
+{
+  "name": "@ianaio/theme-live-codeblock",
+  "version": "3.0.0-alpha.0",
+  "description": "Ianaio live code block component.",
+  "main": "lib/index.js",
+  "types": "src/theme-live-codeblock.d.ts",
+  "sideEffects": [
+    "lib/theme/Playground/*"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc --build && node ../../admin/scripts/copyUntypedFiles.js && prettier --config ../../.prettierrc --write \"lib/theme/**/*.js\"",
+    "watch": "run-p -c copy:watch build:watch",
+    "build:watch": "tsc --build --watch",
+    "copy:watch": "node ../../admin/scripts/copyUntypedFiles.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaio/ianaio.git",
+    "directory": "packages/ianaio-theme-live-codeblock"
+  },
+  "license": "Ianaio",
+  "dependencies": {
+    "@ianaio/core": "3.0.0-alpha.0",
+    "@ianaio/theme-common": "3.0.0-alpha.0",
+    "@ianaio/theme-translations": "3.0.0-alpha.0",
+    "@ianaio/utils-validation": "3.0.0-alpha.0",
+    "@philpl/buble": "^0.19.7",
+    "clsx": "^1.2.1",
+    "fs-extra": "^11.1.1",
+    "react-live": "2.2.3",
+    "tslib": "^2.6.0"
+  },
+  "devDependencies": {
+    "@ianaio/types": "3.0.0-alpha.0",
+    "@types/buble": "^0.20.1"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "engines": {
+    "node": ">=16.14"
+  }
+}
