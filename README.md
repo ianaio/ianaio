@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Ianaio</p>
-  <a href="https://ianaio.io"><img src="https://ianaio.io/img/slash-introducing.svg" alt="Ianaio"></a>
+  <a href="https://www.iana.io"><img src="https://ianaio.io/img/slash-introducing.svg" alt="Ianaio"></a>
 </h1>
 
 <p align="center">
@@ -21,29 +21,29 @@
   <a href="https://app.netlify.com/start/deploy?repository=https://github.com/slorber/ianaio-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 </p>
 
-> **We are working hard on Ianaio v2. If you are new to Ianaio, try using the new version instead of v1. See the [Ianaio v2 website](https://ianaio.io/) for more details.**
+> **We are working hard on Ianaio v2. If you are new to Ianaio, try using the new version instead of v1. See the [Ianaio v2 website](https://www.iana.io/) for more details.**
 
-> Ianaio v1 doc is available at [v1.ianaio.io](https://v1.ianaio.io) and code is available on branch [ianaio-v1](https://github.com/ianaio/ianaio/tree/ianaio-v1)
+> Ianaio v1 doc is available at [v1.www.iana.io](https://v1.ianaio.io) and code is available on branch [ianaio-v1](https://github.com/ianaio/ianaio/tree/ianaio-v1)
 
 ## Introduction
 
 Ianaio is a project for building, deploying, and maintaining open source project websites easily.
 
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.ianaio.io)!
+Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.www.iana.io)!
 
 **Tip**: use **[ianaio.new](https://ianaio.new)** to test Ianaio immediately in a playground.
 
 - **Simple to Start**
 
-> Ianaio is built in a way so that it can [get running](https://ianaio.io/docs/installation) in as little time as possible. We've built Ianaio to handle the website build process so you can focus on your project.
+> Ianaio is built in a way so that it can [get running](https://www.iana.io/docs/installation) in as little time as possible. We've built Ianaio to handle the website build process so you can focus on your project.
 
 - **Localizable**
 
-> Ianaio ships with [localization support](https://ianaio.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
+> Ianaio ships with [localization support](https://www.iana.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
 
 - **Customizable**
 
-> While Ianaio ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://ianaio.io/docs/blog), and additional support pages, it is also [customizable](https://ianaio.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://ianaio.io/docs/styling-layout).
+> While Ianaio ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://www.iana.io/docs/blog), and additional support pages, it is also [customizable](https://ianaio.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://ianaio.io/docs/styling-layout).
 
 ## Installation
 
@@ -53,7 +53,7 @@ Use the initialization CLI to create your site:
 npm init ianaio@latest
 ```
 
-[Read the docs](https://ianaio.io/docs/installation) for any further information.
+[Read the docs](https://www.iana.io/docs/installation) for any further information.
 
 ## Contributing
 
@@ -78,7 +78,7 @@ We have a few channels for contact:
 - [Discord](https://discord.gg/ianaio):
   - `#general` for those using Ianaio.
   - `#contributors` for those wanting to contribute to the Ianaio core.
-- [@ianaio](https://twitter.com/ianaio) on Twitter
+- [@ianaio](https://x.com/_ianaio) on X.com
 - [GitHub Issues](https://github.com/ianaio/ianaio/issues)
 
 ## Contributors
