@@ -1,10 +1,10 @@
-JMarcey:
-  name: Joel Marcey
-  title: Developer Advocate at Meta
-  url: https://twitter.com/JoelMarcey
-  image_url: https://github.com/JoelMarcey.png
-  email: jimarcey@gmail.com
-  twitter: JoelMarcey
+cichy:
+  name: Jarek Cichon
+  title: Developer Advocate at Iana.io
+  url: https://x.com/ianaio
+  image_url: https://github.com/cichy.png
+  email: cichy@iana.io
+  x: ianaio
 
 zpao:
   name: Paul O’Shannessy
