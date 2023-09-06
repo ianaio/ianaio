@@ -41,5 +41,6 @@
   "engines": {
     "node": ">=16.14"
   },
-  "description": "Docusaurus example project"
+  "description": "IanaIo example project"
 }
+
