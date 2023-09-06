@@ -17,15 +17,16 @@
     "directory": "packages/ianaio-cssnano-preset"
   },
   "dependencies": {
-    "cssnano-preset-advanced": "^5.3.10",
-    "postcss": "^8.4.26",
-    "postcss-sort-media-queries": "^4.4.1",
+    "cssnano-preset-advanced": "^6.0.1",
+    "postcss": "^8.4.29",
+    "postcss-sort-media-queries": "^5.2.1",
     "tslib": "^2.6.0"
   },
   "devDependencies": {
     "to-vfile": "^6.1.0"
   },
   "engines": {
-    "node": ">=16.14"
+    "node": ">=20.5.1"
   }
 }
+
