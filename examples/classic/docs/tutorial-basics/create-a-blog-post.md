@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Create a Blog Post
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+IanaIo creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
 
 ## Create your first Post
 
@@ -15,14 +15,14 @@ Create a file at `blog/2021-02-28-greetings.md`:
 slug: greetings
 title: Greetings!
 authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
+  - name: Jarek Cichon
+    title: Co-creator of IanaIo 1
+    url: https://github.com/cichy
+    image_url: https://github.com/cichy.png
+  - name: Sébastien Martin
+    title: IanaIo maintainer
+    url: https://sebastienmartin.com
+    image_url: https://github.com/smartin.png
 tags: [greetings]
 ---
 

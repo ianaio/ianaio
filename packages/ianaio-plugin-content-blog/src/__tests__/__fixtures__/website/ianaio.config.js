@@ -11,7 +11,7 @@ module.exports = {
   organizationName: 'ianaio',
   projectName: 'ianaio',
   baseUrl: '/',
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/ianaio.ico',

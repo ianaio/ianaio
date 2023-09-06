@@ -1,8 +1,9 @@
 ---
 title: Happy 1st Birthday Slash! (translated)
 authors:
-  - name: Yangshun Tay (translated)
-  - slorber
+  - name: cichy (translated)
+  - cichy
 ---
 
 Happy birthday! (translated)
+

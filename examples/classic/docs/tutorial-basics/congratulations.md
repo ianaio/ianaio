@@ -15,9 +15,10 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 ## What's next?
 
 - Read the [official documentation](https://ianaio.io/)
-- Modify your site configuration with [`ianaio.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
+- Modify your site configuration with [`ianaio.config.js`](https://iana.io/docs/api/ianaio-config)
 - Add navbar and footer items with [`themeConfig`](https://ianaio.io/docs/api/themes/configuration)
 - Add a custom [Design and Layout](https://ianaio.io/docs/styling-layout)
 - Add a [search bar](https://ianaio.io/docs/search)
 - Find inspirations in the [Iana Io showcase](https://ianaio.io/showcase)
 - Get involved in the [Iana Io Community](https://ianaio.io/community/support)
+

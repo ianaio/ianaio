@@ -1,17 +1,18 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+cichy:
+  name: Jarek Cichon
+  title: Maintainer of IanaIo
+  url: https://github.com/cichy
+  image_url: https://github.com/cichy.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+yangt:
+  name: Yang Thao
+  title: Front End Engineer @ IanaIo
+  url: https://github.com/yang
+  image_url: https://github.com/yangt.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+smartin:
+  name: Sébastien Martin
+  title: IanaIo maintainer
+  url: https://sebastienmartin.com
+  image_url: https://github.com/smartin.png
+

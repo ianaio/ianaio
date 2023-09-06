@@ -11,8 +11,8 @@ module.exports = {
   organizationName: 'endiliey',
   projectName: 'site',
   baseUrl: '/site/',
-  url: 'https://ianaio.io',
-  favicon: 'img/ianaio.ico',
+  url: 'https://iana.io',
+  favicon: 'img/iana.ico',
   plugins: [
     [
       '@ianaio/plugin-content-docs',
@@ -24,3 +24,4 @@ module.exports = {
     '@ianaio/plugin-content-pages',
   ],
 };
+
