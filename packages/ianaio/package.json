@@ -100,7 +100,7 @@
     "url-loader": "^4.1.1",
     "wait-on": "^7.0.1",
     "webpack": "^5.88.1",
-    "webpack-bundle-analyzer": "^4.9.0",
+    "webpack-bundle-analyzer": "^4.9.1",
     "webpack-dev-server": "^4.15.1",
     "webpack-merge": "^5.9.0",
     "webpackbar": "^5.0.2"
@@ -121,8 +121,8 @@
     "tree-node-cli": "^1.6.0"
   },
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "engines": {
     "node": ">=20.5.1"
