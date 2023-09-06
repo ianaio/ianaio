@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "ianaio": "docusaurus",
+    "ianaio": "ianaio",
     "start": "ianaio start",
     "build": "ianaio build",
     "swizzle": "ianaio swizzle",

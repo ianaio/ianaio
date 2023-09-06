@@ -8,9 +8,9 @@ Let's translate `docs/intro.md` to French.
 
 ## Configure i18n
 
-Modify `docusaurus.config.js` to add support for the `fr` locale:
+Modify `ianaio.config.js` to add support for the `fr` locale:
 
-```js title="docusaurus.config.js"
+```js title="ianaio.config.js"
 module.exports = {
   i18n: {
     defaultLocale: 'en',
@@ -24,12 +24,12 @@ module.exports = {
 Copy the `docs/intro.md` file to the `i18n/fr` folder:
 
 ```bash
-mkdir -p i18n/fr/docusaurus-plugin-content-docs/current/
+mkdir -p i18n/fr/ianaio-plugin-content-docs/current/
 
-cp docs/intro.md i18n/fr/docusaurus-plugin-content-docs/current/intro.md
+cp docs/intro.md i18n/fr/ianaio-plugin-content-docs/current/intro.md
 ```
 
-Translate `i18n/fr/docusaurus-plugin-content-docs/current/intro.md` in French.
+Translate `i18n/fr/ianaio-plugin-content-docs/current/intro.md` in French.
 
 ## Start your localized site
 
@@ -51,9 +51,9 @@ In development, you can only use one locale at a same time.
 
 To navigate seamlessly across languages, add a locale dropdown.
 
-Modify the `docusaurus.config.js` file:
+Modify the `ianaio.config.js` file:
 
-```js title="docusaurus.config.js"
+```js title="ianaio.config.js"
 module.exports = {
   themeConfig: {
     navbar: {

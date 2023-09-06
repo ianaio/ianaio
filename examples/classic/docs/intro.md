@@ -10,7 +10,7 @@ Let's discover **Ianaio in less than 5 minutes**.
 
 Get started by **creating a new site**.
 
-Or **try Ianaio immediately** with **[ianaio.new](https://docusaurus.new)**.
+Or **try Ianaio immediately** with **[ianaio.new](https://ianaio.new)**.
 
 ### What you'll need
 

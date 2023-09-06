@@ -5,7 +5,7 @@ authors: [cichy,yungt]
 tags: [facebook, hello, ianaio]
 ---
 
-[IanaIo blogging features](https://ianaio.io/docs/blog) are powered by the [blog plugin](https://ianaio.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[IanaIo blogging features](https://ianaio.io/docs/blog) are powered by the [blog plugin](https://ianaio.io/docs/api/plugins/@ianaio/plugin-content-blog).
 
 Simply add Markdown files (or folders) to the `blog` directory.
 

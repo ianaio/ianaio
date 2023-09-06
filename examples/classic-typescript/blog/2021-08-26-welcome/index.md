@@ -2,10 +2,10 @@
 slug: welcome
 title: Welcome
 authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+tags: [facebook, hello, ianaio]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[IanaIo blogging features](https://iana.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
 
 Simply add Markdown files (or folders) to the `blog` directory.
 
@@ -18,8 +18,8 @@ The blog post date can be extracted from filenames, such as:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![IanaIo Plushie](./ianaio-plushie-banner.jpeg)
 
 The blog supports tags as well!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**And if you don't want a blog**: just delete this directory, and use `blog: false` in your IanaIo config.

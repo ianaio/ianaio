@@ -2,9 +2,10 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": true,
   "view": "browser",
-  "template": "docusaurus",
+  "template": "ianaio",
   "node": "16",
   "container": {
     "node": "16"
   }
 }
+

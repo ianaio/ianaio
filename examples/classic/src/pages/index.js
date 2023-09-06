@@ -1,7 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@ianaio/Link';
-import useIanaioContext from '@ianaio/useDocusaurusContext';
+import useIanaioContext from '@ianaio/useIanaioContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Ianaio Tutorial - 5min ⏱️
+            IanaIo Tutorial - 7min ⏱️
           </Link>
         </div>
       </div>
