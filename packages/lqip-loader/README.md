@@ -69,4 +69,4 @@ More history about the issue can be [found here](https://bugs.chromium.org/p/chr
 
 ## Credits
 
-This package has been imported from [`@endiliey/lqip-loader`](https://github.com/endiliey/lqip-loader) which was a fork of the original [`lqip-loader`](https://github.com/zouhir/lqip-loader) created exclusively for Ianaio.
+This package has been imported from [`@cichy/lqip-loader`](https://github.com/cichy/lqip-loader) which was a fork of the original [`lqip-loader`](https://github.com/zouhir/lqip-loader) created exclusively for Ianaio.

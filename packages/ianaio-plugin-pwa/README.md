@@ -4,4 +4,4 @@ Progressive web app plugin for Ianaio.
 
 ## Usage
 
-See [plugin-pwa documentation](https://ianaio.io/docs/api/plugins/@ianaio/plugin-pwa).
+See [plugin-pwa documentation](https://iana.io/docs/api/plugins/@ianaio/plugin-pwa).

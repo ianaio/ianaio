@@ -57,7 +57,7 @@ function VersionNotice() {
               id="upgradeGuide.archivedVersion.notice"
               values={{
                 mainSiteLink: (
-                  <Link href="https://ianaio.io/docs/installation">
+                  <Link href="https://iana.io/docs/installation">
                     <Translate id="upgradeGuide.archivedVersion.notice.mainSiteLink.label">
                       main site
                     </Translate>

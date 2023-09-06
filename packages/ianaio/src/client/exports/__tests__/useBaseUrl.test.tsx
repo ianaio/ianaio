@@ -26,7 +26,7 @@ describe('useBaseUrl', () => {
     const mockUseBaseUrl = createUseBaseUrlMock({
       siteConfig: {
         baseUrl: '/',
-        url: 'https://ianaio.io',
+        url: 'https://iana.io',
       },
     } as IanaioContext);
 
@@ -45,7 +45,7 @@ describe('useBaseUrl', () => {
       'https://site.com',
     );
     expect(mockUseBaseUrl('/hello/foo', {absolute: true})).toBe(
-      'https://ianaio.io/hello/foo',
+      'https://iana.io/hello/foo',
     );
     expect(mockUseBaseUrl('#hello')).toBe('#hello');
   });
@@ -54,7 +54,7 @@ describe('useBaseUrl', () => {
     const mockUseBaseUrl = createUseBaseUrlMock({
       siteConfig: {
         baseUrl: '/ianaio/',
-        url: 'https://ianaio.io',
+        url: 'https://iana.io',
       },
     } as IanaioContext);
 
@@ -75,7 +75,7 @@ describe('useBaseUrl', () => {
       'https://site.com',
     );
     expect(mockUseBaseUrl('/hello/foo', {absolute: true})).toBe(
-      'https://ianaio.io/ianaio/hello/foo',
+      'https://iana.io/ianaio/hello/foo',
     );
     expect(mockUseBaseUrl('/ianaio')).toBe('/ianaio/');
     expect(mockUseBaseUrl('/ianaio/')).toBe('/ianaio/');
@@ -95,7 +95,7 @@ describe('useBaseUrlUtils().withBaseUrl()', () => {
     const {withBaseUrl} = mockUseBaseUrlUtils({
       siteConfig: {
         baseUrl: '/',
-        url: 'https://ianaio.io',
+        url: 'https://iana.io',
       },
     } as IanaioContext);
 
@@ -114,7 +114,7 @@ describe('useBaseUrlUtils().withBaseUrl()', () => {
       'https://site.com',
     );
     expect(withBaseUrl('/hello/foo', {absolute: true})).toBe(
-      'https://ianaio.io/hello/foo',
+      'https://iana.io/hello/foo',
     );
     expect(withBaseUrl('#hello')).toBe('#hello');
   });
@@ -123,7 +123,7 @@ describe('useBaseUrlUtils().withBaseUrl()', () => {
     const {withBaseUrl} = mockUseBaseUrlUtils({
       siteConfig: {
         baseUrl: '/ianaio/',
-        url: 'https://ianaio.io',
+        url: 'https://iana.io',
       },
     } as IanaioContext);
 
@@ -142,7 +142,7 @@ describe('useBaseUrlUtils().withBaseUrl()', () => {
       'https://site.com',
     );
     expect(withBaseUrl('/hello/foo', {absolute: true})).toBe(
-      'https://ianaio.io/ianaio/hello/foo',
+      'https://iana.io/ianaio/hello/foo',
     );
     expect(withBaseUrl('/ianaio')).toBe('/ianaio/');
     expect(withBaseUrl('/ianaio/')).toBe('/ianaio/');

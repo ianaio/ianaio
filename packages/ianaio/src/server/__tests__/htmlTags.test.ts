@@ -175,7 +175,7 @@ describe('loadHtmlTags', () => {
           injectHtmlTags() {
             return {
               headTags: {
-                tagName: 'endiliey',
+                tagName: 'cichy',
                 attributes: {
                   this: 'is invalid',
                 },
@@ -185,7 +185,7 @@ describe('loadHtmlTags', () => {
         },
       ]),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"Error loading {"tagName":"endiliey","attributes":{"this":"is invalid"}}, "endiliey" is not a valid HTML tag."`,
+      `"Error loading {"tagName":"cichy","attributes":{"this":"is invalid"}}, "cichy" is not a valid HTML tag."`,
     );
   });
 

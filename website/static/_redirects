@@ -16,18 +16,18 @@
 /docs/next/markdown-features/headings            /docs/next/markdown-features/toc
 
 
-# v2.ianaio.io domain redirect after we put v2 on ianaio.io
-https://v2.ianaio.io/*      https://ianaio.io/:splat 301!
+# v2.iana.io domain redirect after we put v2 on iana.io
+https://v2.iana.io/*      https://iana.io/:splat 301!
 
 
 # Redirect older Ianaio v1 links that do not exist anymore in v2
-https://ianaio.io/docs/en/*         https://v1.ianaio.io/docs/en/:splat
-https://ianaio.io/docs/fr/*         https://v1.ianaio.io/docs/fr/:splat
-https://ianaio.io/docs/ko/*         https://v1.ianaio.io/docs/ko/:splat
-https://ianaio.io/docs/ro/*         https://v1.ianaio.io/docs/ro/:splat
-https://ianaio.io/docs/ru/*         https://v1.ianaio.io/docs/ru/:splat
-https://ianaio.io/docs/pt-br/*      https://v1.ianaio.io/docs/pt-br/:splat
-https://ianaio.io/docs/zh-cn/*      https://v1.ianaio.io/docs/zh-cn/:splat
+https://iana.io/docs/en/*         https://v1.iana.io/docs/en/:splat
+https://iana.io/docs/fr/*         https://v1.iana.io/docs/fr/:splat
+https://iana.io/docs/ko/*         https://v1.iana.io/docs/ko/:splat
+https://iana.io/docs/ro/*         https://v1.iana.io/docs/ro/:splat
+https://iana.io/docs/ru/*         https://v1.iana.io/docs/ru/:splat
+https://iana.io/docs/pt-br/*      https://v1.iana.io/docs/pt-br/:splat
+https://iana.io/docs/zh-cn/*      https://v1.iana.io/docs/zh-cn/:splat
 
 
 

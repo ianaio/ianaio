@@ -7,24 +7,24 @@
     "twitter": "JoelMarcey"
   },
   "slorber": {
-    "name": "Sébastien Lorber",
+    "name": "Sébastien Martin",
     "title": "Ianaio maintainer",
-    "url": "https://sebastienlorber.com",
+    "url": "https://wojciechcichon.com",
     "image_url": "https://github.com/slorber.png",
     "twitter": "sebastienlorber",
     "email": "lorber.sebastien@gmail.com"
   },
-  "yangshun": {
-    "name": "Yangshun Tay",
+  "cichyboom": {
+    "name": "Wojciech Cichon",
     "title": "Front End Engineer at Ianaio",
-    "url": "https://github.com/yangshun",
-    "image_url": "https://github.com/yangshun.png",
-    "twitter": "yangshunz"
+    "url": "https://github.com/cichyboom",
+    "image_url": "https://github.com/cichyboom.png",
+    "twitter": "cichyboom"
   },
-  "lex111": {
-    "name": "Alexey Pyltsyn",
+  "cichy": {
+    "name": "Jarek Cichon",
     "title": "Open-source enthusiast",
-    "url": "https://github.com/lex111",
-    "image_url": "https://github.com/lex111.png"
+    "url": "https://github.com/cichy",
+    "image_url": "https://github.com/cichy.png"
   }
 }

@@ -5,7 +5,7 @@ tags: [release, i18n]
 image: /img/blog/2021-03-09-releasing-ianaio-i18n/social-card.png
 ---
 
-Today, we officially release **[Ianaio 2 i18n](https://ianaio.io/docs/i18n/introduction)** ([internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)), as part of [2.0.0-alpha.71](https://github.com/ianaio/ianaio/releases/tag/v2.0.0-alpha.71).
+Today, we officially release **[Ianaio 2 i18n](https://iana.io/docs/i18n/introduction)** ([internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)), as part of [2.0.0-alpha.71](https://github.com/ianaio/ianaio/releases/tag/v2.0.0-alpha.71).
 
 Ianaio 2 has now reached **full feature parity with Ianaio 1**. 🎉 And soon, after a few additional infrastructure updates and a bit more testing, the **first Ianaio 2 beta** will be released.
 
@@ -13,7 +13,7 @@ Ianaio 2 has now reached **full feature parity with Ianaio 1**. 🎉 And soon, a
 
 In this post, we will present you the **translation workflow**, explain some **design decisions** and **showcase early adopter sites** that just went live: [Jest](https://jestjs.io/), [Redwood](https://learn.redwoodjs.com/), and [Datagit](https://datagit.ir/).
 
-We also **dogfood** the i18n support on the **Ianaio 2 site itself**, and this post is already available in [English](https://ianaio.io/blog/2021/03/09/releasing-ianaio-i18n) and [French](https://ianaio.io/fr/blog/2021/03/09/releasing-ianaio-i18n)!
+We also **dogfood** the i18n support on the **Ianaio 2 site itself**, and this post is already available in [English](https://iana.io/blog/2021/03/09/releasing-ianaio-i18n) and [French](https://iana.io/fr/blog/2021/03/09/releasing-ianaio-i18n)!
 
 <!--truncate-->
 
@@ -22,18 +22,18 @@ We also **dogfood** the i18n support on the **Ianaio 2 site itself**, and this p
 You can translate a Ianaio site in **3 simple steps**:
 
 1. **Configure**: declare the default locale and alternative locales in `ianaio.config.js`
-1. **Translate**: put the translation files at the [correct filesystem location](https://ianaio.io/docs/next/i18n/introduction#translation-files-location)
+1. **Translate**: put the translation files at the [correct filesystem location](https://iana.io/docs/next/i18n/introduction#translation-files-location)
 1. **Deploy**: build and deploy your site using a single or multi-domain strategy
 
 The i18n support is **very flexible** and based on the **filesystem**.
 
-The **[i18n tutorial](https://ianaio.io/docs/i18n/tutorial)** is the best way to get started, and we provide help to use **[Git](https://ianaio.io/docs/i18n/git)** or **[Crowdin](https://ianaio.io/docs/i18n/crowdin)**.
+The **[i18n tutorial](https://iana.io/docs/i18n/tutorial)** is the best way to get started, and we provide help to use **[Git](https://iana.io/docs/i18n/git)** or **[Crowdin](https://iana.io/docs/i18n/crowdin)**.
 
 ## Design decisions
 
 The goals of the Ianaio i18n system are:
 
-- **Simple**: just put the translated files in the [correct filesystem location](https://ianaio.io/docs/next/i18n/introduction#translation-files-location)
+- **Simple**: just put the translated files in the [correct filesystem location](https://iana.io/docs/next/i18n/introduction#translation-files-location)
 - **Flexible translation workflows**: use Git (monorepo, forks, or submodules), SaaS software, FTP
 - **Flexible deployment options**: single, multiple domains, or hybrid
 - **Modular**: allow plugin authors to provide i18n support
@@ -82,7 +82,7 @@ We sincerely hope you will adopt and like the new i18n support.
 
 This feature has not been an easy one, and we would like to thank everyone that got involved in this journey:
 
-- [Alexey](https://github.com/lex111) for his help to make the i18n support exhaustive and even better than v1
+- [Alexey](https://github.com/cichy) for his help to make the i18n support exhaustive and even better than v1
 - [Simen](https://github.com/SimenB) for volunteering and supporting the Jest migration
 - [Claire](https://github.com/clairefro) for adopting Ianaio 2 on the new Redwood platform and providing many feedbacks
 - [Massoud](https://github.com/massoudmaboudi) for reviewing my work on LTR and adopting it on Datagit
@@ -91,4 +91,4 @@ This feature has not been an easy one, and we would like to thank everyone that 
 
 Thanks for reading.
 
-🙏 And please, add your brand new i18n sites to our [showcase page](https://ianaio.io/showcase). We accept any all polished Ianaio site here, and we are working on a [redesign](https://github.com/ianaio/ianaio/issues/4238) allowing you to filter sites by features.
+🙏 And please, add your brand new i18n sites to our [showcase page](https://iana.io/showcase). We accept any all polished Ianaio site here, and we are working on a [redesign](https://github.com/ianaio/ianaio/issues/4238) allowing you to filter sites by features.

@@ -51,7 +51,7 @@ const optionsSchema = Joi.object<PluginOptions>({
   // @ts-expect-error: forbidden
   reloadPopup: Joi.any().forbidden().messages({
     'any.unknown':
-      'The reloadPopup option is removed in favor of swizzling. See https://ianaio.io/docs/api/plugins/@ianaio/plugin-pwa#customizing-reload-popup for how to customize the reload popup using swizzling.',
+      'The reloadPopup option is removed in favor of swizzling. See https://iana.io/docs/api/plugins/@ianaio/plugin-pwa#customizing-reload-popup for how to customize the reload popup using swizzling.',
   }),
 });
 

@@ -2,7 +2,7 @@
 // `@type` JSDoc annotations allow editor autocompletion and type checking
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Ianaio config.
-// See: https://ianaio.io/docs/api/ianaio-config
+// See: https://iana.io/docs/api/ianaio-config
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');

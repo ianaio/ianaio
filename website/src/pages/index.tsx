@@ -83,7 +83,7 @@ function MigrationAnnouncement() {
         <Translate
           values={{
             ianaioV1Link: (
-              <Link to="https://v1.ianaio.io/">
+              <Link to="https://v1.iana.io/">
                 <Translate>Ianaio v1</Translate>
               </Link>
             ),

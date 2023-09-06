@@ -15,8 +15,8 @@ describe('formatters', () => {
     );
   });
   it('url', () => {
-    expect(logger.url('https://ianaio.io/keepAnsi')).toMatchInlineSnapshot(
-      `"<cyan><underline>https://ianaio.io/keepAnsi</underline></color>"`,
+    expect(logger.url('https://iana.io/keepAnsi')).toMatchInlineSnapshot(
+      `"<cyan><underline>https://iana.io/keepAnsi</underline></color>"`,
     );
   });
   it('id', () => {

@@ -116,14 +116,14 @@ exports.dogfoodingRedirects = [
   },
   {
     from: ['/home/absolute'],
-    to: 'https://ianaio.io/',
+    to: 'https://iana.io/',
   },
   {
     from: ['/home/absolute/qs'],
-    to: 'https://ianaio.io/?a=1',
+    to: 'https://iana.io/?a=1',
   },
   {
     from: ['/home/absolute/anchor'],
-    to: 'https://ianaio.io/#anchor',
+    to: 'https://iana.io/#anchor',
   },
 ];

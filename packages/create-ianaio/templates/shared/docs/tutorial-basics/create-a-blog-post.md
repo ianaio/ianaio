@@ -19,9 +19,9 @@ authors:
     title: Co-creator of Ianaio 1
     url: https://github.com/JoelMarcey
     image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
+  - name: Sébastien Martin
     title: Ianaio maintainer
-    url: https://sebastienlorber.com
+    url: https://wojciechcichon.com
     image_url: https://github.com/slorber.png
 tags: [greetings]
 ---

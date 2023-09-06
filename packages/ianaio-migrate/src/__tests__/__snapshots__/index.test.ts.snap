@@ -34,7 +34,7 @@ exports[`migration CLI migrates complex website: write 1`] = `
     "module.exports={
   "title": "Ianaio",
   "tagline": "Easy to Maintain Open Source Documentation Websites",
-  "url": "https://ianaio.io",
+  "url": "https://iana.io",
   "baseUrl": "/",
   "organizationName": "ianaio",
   "projectName": "ianaio",
@@ -217,7 +217,7 @@ exports[`migration CLI migrates missing versions: write 1`] = `
     "module.exports={
   "title": "Ianaio",
   "tagline": "Easy to Maintain Open Source Documentation Websites",
-  "url": "https://ianaio.io",
+  "url": "https://iana.io",
   "baseUrl": "/",
   "organizationName": "ianaio",
   "projectName": "ianaio",
@@ -396,7 +396,7 @@ exports[`migration CLI migrates simple website: write 1`] = `
     "module.exports={
   "title": "Ianaio",
   "tagline": "Easy to Maintain Open Source Documentation Websites",
-  "url": "https://ianaio.io",
+  "url": "https://iana.io",
   "baseUrl": "/",
   "organizationName": "ianaio",
   "projectName": "ianaio",

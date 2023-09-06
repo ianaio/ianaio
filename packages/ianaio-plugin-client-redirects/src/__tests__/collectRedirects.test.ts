@@ -20,7 +20,7 @@ function createTestPluginContext(
 ): PluginContext {
   return {
     outDir: '/tmp',
-    baseUrl: 'https://ianaio.io',
+    baseUrl: 'https://iana.io',
     relativeRoutesPaths,
     options: validateOptions({validate: normalizePluginOptions, options}),
     siteConfig: {onDuplicateRoutes: 'warn', ...siteConfig} as IanaioConfig,
@@ -123,19 +123,19 @@ describe('collectRedirects', () => {
 
               {
                 from: '/absolute',
-                to: 'https://ianaio.io/somePath',
+                to: 'https://iana.io/somePath',
               },
               {
                 from: '/absoluteQS',
-                to: 'https://ianaio.io/somePath?a=1&b=2',
+                to: 'https://iana.io/somePath?a=1&b=2',
               },
               {
                 from: '/absoluteAnchor',
-                to: 'https://ianaio.io/somePath#anchor',
+                to: 'https://iana.io/somePath#anchor',
               },
               {
                 from: '/absoluteQSAnchor',
-                to: 'https://ianaio.io/somePath?a=1&b=2#anchor',
+                to: 'https://iana.io/somePath?a=1&b=2#anchor',
               },
             ],
           },
@@ -179,19 +179,19 @@ describe('collectRedirects', () => {
 
       {
         from: '/absolute',
-        to: 'https://ianaio.io/somePath',
+        to: 'https://iana.io/somePath',
       },
       {
         from: '/absoluteQS',
-        to: 'https://ianaio.io/somePath?a=1&b=2',
+        to: 'https://iana.io/somePath?a=1&b=2',
       },
       {
         from: '/absoluteAnchor',
-        to: 'https://ianaio.io/somePath#anchor',
+        to: 'https://iana.io/somePath#anchor',
       },
       {
         from: '/absoluteQSAnchor',
-        to: 'https://ianaio.io/somePath?a=1&b=2#anchor',
+        to: 'https://iana.io/somePath?a=1&b=2#anchor',
       },
     ]);
   });

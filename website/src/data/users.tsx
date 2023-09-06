@@ -21,7 +21,7 @@ import {sortBy} from '@site/src/utils/jsUtils';
  * - `title` is the project's name (no need for the "Docs" suffix)
  * - A short (≤120 characters) description of the project
  * - Use relevant tags to categorize the site (read the tag descriptions on the
- *   https://ianaio.io/showcase page and some further clarifications below)
+ *   https://iana.io/showcase page and some further clarifications below)
  * - Add a local image preview (decent screenshot of the Ianaio site)
  * - The image MUST be added to the GitHub repository, and use `require("img")`
  * - The image has to have minimum width 640 and an aspect of no wider than 2:1
@@ -2540,7 +2540,7 @@ const Users: User[] = [
     description: 'Free curated tech interview preparation materials for busy software engineers.',
     preview: null,
     website: 'https://www.techinterviewhandbook.org/',
-    source: 'https://github.com/yangshun/tech-interview-handbook',
+    source: 'https://github.com/cichyboom/tech-interview-handbook',
     tags: ['opensource','personal'],
   },
   {
@@ -2548,7 +2548,7 @@ const Users: User[] = [
     description: 'Free curated tech interview preparation materials for busy software engineers',
     preview: null,
     website: 'https://www.frontendinterviewhandbook.com/',
-    source: 'https://github.com/yangshun/front-end-interview-handbook',
+    source: 'https://github.com/cichyboom/front-end-interview-handbook',
     tags: ['opensource','personal'],
   },
   {

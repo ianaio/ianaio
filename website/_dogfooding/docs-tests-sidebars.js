@@ -36,7 +36,7 @@ const sidebars = {
         {
           type: 'link',
           label: 'External Link test',
-          href: 'https://ianaio.io',
+          href: 'https://iana.io',
         },
         {
           type: 'category',
@@ -48,12 +48,12 @@ const sidebars = {
             {
               type: 'link',
               label: 'Link without description',
-              href: 'https://ianaio.io',
+              href: 'https://iana.io',
             },
             {
               type: 'link',
               label: 'Link with description',
-              href: 'https://ianaio.io',
+              href: 'https://iana.io',
               description: 'Some link description',
             },
             {
@@ -63,7 +63,7 @@ const sidebars = {
                 {
                   type: 'link',
                   label: 'Link ',
-                  href: 'https://ianaio.io',
+                  href: 'https://iana.io',
                 },
               ],
             },
@@ -75,7 +75,7 @@ const sidebars = {
                 {
                   type: 'link',
                   label: 'Link ',
-                  href: 'https://ianaio.io',
+                  href: 'https://iana.io',
                 },
               ],
             },

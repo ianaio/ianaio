@@ -113,7 +113,7 @@ module.exports = async function createConfigAsync() {
     projectName: 'ianaio',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://ianaio.io',
+    url: 'https://iana.io',
     // Dogfood both settings:
     // - force trailing slashes for deploy previews
     // - avoid trailing slashes in prod
@@ -564,7 +564,7 @@ module.exports = async function createConfigAsync() {
                   }),
                 ),
                 {
-                  href: 'https://v1.ianaio.io',
+                  href: 'https://v1.iana.io',
                   label: '1.x.x',
                 },
                 {

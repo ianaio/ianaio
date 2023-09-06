@@ -14,10 +14,10 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 
 ## What's next?
 
-- Read the [official documentation](https://ianaio.io/)
-- Modify your site configuration with [`ianaio.config.js`](https://ianaio.io/docs/api/ianaio-config)
-- Add navbar and footer items with [`themeConfig`](https://ianaio.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://ianaio.io/docs/styling-layout)
-- Add a [search bar](https://ianaio.io/docs/search)
-- Find inspirations in the [Ianaio showcase](https://ianaio.io/showcase)
-- Get involved in the [Ianaio Community](https://ianaio.io/community/support)
+- Read the [official documentation](https://iana.io/)
+- Modify your site configuration with [`ianaio.config.js`](https://iana.io/docs/api/ianaio-config)
+- Add navbar and footer items with [`themeConfig`](https://iana.io/docs/api/themes/configuration)
+- Add a custom [Design and Layout](https://iana.io/docs/styling-layout)
+- Add a [search bar](https://iana.io/docs/search)
+- Find inspirations in the [Ianaio showcase](https://iana.io/showcase)
+- Get involved in the [Ianaio Community](https://iana.io/community/support)

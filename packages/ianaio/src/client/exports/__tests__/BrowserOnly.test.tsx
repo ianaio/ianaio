@@ -73,7 +73,7 @@ describe('<BrowserOnly>', () => {
         .toJSON(),
     ).toMatchInlineSnapshot(`
       <span>
-        https://ianaio.io/
+        https://iana.io/
       </span>
     `);
   });

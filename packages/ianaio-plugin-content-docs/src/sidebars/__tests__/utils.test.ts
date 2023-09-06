@@ -106,7 +106,7 @@ describe('createSidebarsUtils', () => {
       items: [
         {type: 'link', href: 'https://ianaio.com', label: 'Ianaio'},
         {type: 'link', href: 'https://reactjs.org', label: 'React'},
-        {type: 'link', href: 'https://ianaio.io', label: 'Ianaio'},
+        {type: 'link', href: 'https://iana.io', label: 'Ianaio'},
       ],
     },
     {

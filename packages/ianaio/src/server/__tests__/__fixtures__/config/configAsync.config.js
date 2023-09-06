@@ -8,8 +8,8 @@
 module.exports = Promise.resolve({
   title: 'Hello',
   tagline: 'Hello World',
-  organizationName: 'endiliey',
+  organizationName: 'cichy',
   projectName: 'hello',
   baseUrl: '/',
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
 });

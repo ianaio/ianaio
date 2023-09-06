@@ -191,7 +191,7 @@ export function useColorMode(): ContextValue {
   if (context == null) {
     throw new ReactContextError(
       'ColorModeProvider',
-      'Please see https://ianaio.io/docs/api/themes/configuration#use-color-mode.',
+      'Please see https://iana.io/docs/api/themes/configuration#use-color-mode.',
     );
   }
   return context;

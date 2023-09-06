@@ -51,7 +51,7 @@ export type MarkdownConfig = {
    * - `false` | `undefined` (default): code blocks with language mermaid
    * will be left as code blocks.
    *
-   * @see https://ianaio.io/docs/markdown-features/diagrams/
+   * @see https://iana.io/docs/markdown-features/diagrams/
    * @default false
    */
   mermaid: boolean;
@@ -78,16 +78,16 @@ export type IanaioConfig = {
   /**
    * Title for your website. Will be used in metadata and as browser tab title.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#title
+   * @see https://iana.io/docs/api/ianaio-config#title
    */
   title: string;
   /**
    * URL for your website. This can also be considered the top-level hostname.
    * For example, `https://ianaio.github.io` is the URL of
-   * https://ianaio.github.io/metro/, and `https://ianaio.io` is the URL
-   * for https://ianaio.io.
+   * https://ianaio.github.io/metro/, and `https://iana.io` is the URL
+   * for https://iana.io.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#url
+   * @see https://iana.io/docs/api/ianaio-config#url
    */
   url: string;
   /**
@@ -95,13 +95,13 @@ export type IanaioConfig = {
    * base URL of https://ianaio.github.io/metro/. For URLs that have no path,
    * it should be set to `/`. Always has both leading and trailing slash.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#baseUrl
+   * @see https://iana.io/docs/api/ianaio-config#baseUrl
    */
   baseUrl: string;
   /**
    * Path to your site favicon; must be a URL that can be used in link's href.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#favicon
+   * @see https://iana.io/docs/api/ianaio-config#favicon
    */
   favicon?: string;
   /**
@@ -116,15 +116,15 @@ export type IanaioConfig = {
    *   `/docs/myDoc.html` for `/docs/myDoc.md`
    *
    * @see https://github.com/slorber/trailing-slash-guide
-   * @see https://ianaio.io/docs/api/ianaio-config#trailingSlash
+   * @see https://iana.io/docs/api/ianaio-config#trailingSlash
    * @default undefined
    */
   trailingSlash: boolean | undefined;
   /**
    * The i18n configuration object to [localize your
-   * site](https://ianaio.io/docs/i18n/introduction).
+   * site](https://iana.io/docs/i18n/introduction).
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#i18n
+   * @see https://iana.io/docs/api/ianaio-config#i18n
    */
   i18n: I18nConfig;
   /**
@@ -132,36 +132,36 @@ export type IanaioConfig = {
    * every page to tell search engines to avoid indexing your site.
    *
    * @see https://moz.com/learn/seo/robots-meta-directives
-   * @see https://ianaio.io/docs/api/ianaio-config#noIndex
+   * @see https://iana.io/docs/api/ianaio-config#noIndex
    * @default false
    */
   noIndex: boolean;
   /**
    * The behavior of Ianaio when it detects any broken link.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#onBrokenLinks
+   * @see https://iana.io/docs/api/ianaio-config#onBrokenLinks
    * @default "throw"
    */
   onBrokenLinks: ReportingSeverity;
   /**
    * The behavior of Ianaio when it detects any broken markdown link.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#onBrokenMarkdownLinks
+   * @see https://iana.io/docs/api/ianaio-config#onBrokenMarkdownLinks
    * @default "warn"
    */
   onBrokenMarkdownLinks: ReportingSeverity;
   /**
    * The behavior of Ianaio when it detects any [duplicate
-   * routes](https://ianaio.io/docs/creating-pages#duplicate-routes).
+   * routes](https://iana.io/docs/creating-pages#duplicate-routes).
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#onDuplicateRoutes
+   * @see https://iana.io/docs/api/ianaio-config#onDuplicateRoutes
    * @default "warn"
    */
   onDuplicateRoutes: ReportingSeverity;
   /**
    * The tagline for your website.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#tagline
+   * @see https://iana.io/docs/api/ianaio-config#tagline
    * @default ""
    */
   tagline: string;
@@ -169,63 +169,63 @@ export type IanaioConfig = {
    * The GitHub user or organization that owns the repository. You don't need
    * this if you are not using the `ianaio deploy` command.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#organizationName
+   * @see https://iana.io/docs/api/ianaio-config#organizationName
    */
   organizationName?: string;
   /**
    * The name of the GitHub repository. You don't need this if you are not using
    * the `ianaio deploy` command.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#projectName
+   * @see https://iana.io/docs/api/ianaio-config#projectName
    */
   projectName?: string;
   /**
    * The name of the branch to deploy the static files to. You don't need this
    * if you are not using the `ianaio deploy` command.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#deploymentBranch
+   * @see https://iana.io/docs/api/ianaio-config#deploymentBranch
    */
   deploymentBranch?: string;
   /**
    * The hostname of your server. Useful if you are using GitHub Enterprise. You
    * don't need this if you are not using the `ianaio deploy` command.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#githubHost
+   * @see https://iana.io/docs/api/ianaio-config#githubHost
    */
   githubHost?: string;
   /**
    * The port of your server. Useful if you are using GitHub Enterprise. You
    * don't need this if you are not using the `ianaio deploy` command.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#githubPort
+   * @see https://iana.io/docs/api/ianaio-config#githubPort
    */
   githubPort?: string;
   /**
-   * The [theme configuration](https://ianaio.io/docs/api/themes/configuration)
+   * The [theme configuration](https://iana.io/docs/api/themes/configuration)
    * object to customize your site UI like navbar and footer.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#themeConfig
+   * @see https://iana.io/docs/api/ianaio-config#themeConfig
    * @default {}
    */
   themeConfig: ThemeConfig;
   /**
    * List of plugins.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#plugins
+   * @see https://iana.io/docs/api/ianaio-config#plugins
    * @default []
    */
   plugins: PluginConfig[];
   /**
    * List of themes.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#themes
+   * @see https://iana.io/docs/api/ianaio-config#themes
    * @default []
    */
   themes: PluginConfig[];
   /**
    * List of presets.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#presets
+   * @see https://iana.io/docs/api/ianaio-config#presets
    * @default []
    */
   presets: PresetConfig[];
@@ -233,7 +233,7 @@ export type IanaioConfig = {
    * Ianaio guards `ianaio.config.js` from unknown fields. To add a
    * custom field, define it on `customFields`.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#customFields
+   * @see https://iana.io/docs/api/ianaio-config#customFields
    * @default {}
    */
   customFields?: {
@@ -243,14 +243,14 @@ export type IanaioConfig = {
    * An array of paths, relative to the site's directory or absolute. Files
    * under these paths will be copied to the build output as-is.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#staticDirectories
+   * @see https://iana.io/docs/api/ianaio-config#staticDirectories
    * @default ["static"]
    */
   staticDirectories: string[];
   /**
    * An array of tags that will be inserted in the HTML `<head>`.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#head
+   * @see https://iana.io/docs/api/ianaio-config#head
    * @default []
    */
   headTags: HtmlTagObject[];
@@ -262,7 +262,7 @@ export type IanaioConfig = {
    * Note that `<script>` added here are render-blocking, so you might want to
    * add `async: true`/`defer: true` to the objects.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#scripts
+   * @see https://iana.io/docs/api/ianaio-config#scripts
    * @default []
    */
   scripts: (
@@ -277,7 +277,7 @@ export type IanaioConfig = {
    * objects of attribute-value maps. The `<link>` tags will be inserted in the
    * HTML `<head>`.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#stylesheets
+   * @see https://iana.io/docs/api/ianaio-config#stylesheets
    * @default []
    */
   stylesheets: (
@@ -288,10 +288,10 @@ export type IanaioConfig = {
       }
   )[];
   /**
-   * An array of [client modules](https://ianaio.io/docs/advanced/client#client-modules)
+   * An array of [client modules](https://iana.io/docs/advanced/client#client-modules)
    * to load globally on your site.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#clientModules
+   * @see https://iana.io/docs/api/ianaio-config#clientModules
    * @default []
    */
   clientModules: string[];
@@ -304,13 +304,13 @@ export type IanaioConfig = {
    * customize it, you will have to make sure that your template is compliant
    * with the requirements from upstream.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#ssrTemplate
+   * @see https://iana.io/docs/api/ianaio-config#ssrTemplate
    */
   ssrTemplate?: string;
   /**
    * Will be used as title delimiter in the generated `<title>` tag.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#titleDelimiter
+   * @see https://iana.io/docs/api/ianaio-config#titleDelimiter
    * @default "|"
    */
   titleDelimiter: string;
@@ -319,7 +319,7 @@ export type IanaioConfig = {
    * JavaScript files, which is a very common issue, often related to a wrong
    * `baseUrl` in site config.
    *
-   * @see https://ianaio.io/docs/api/ianaio-config#baseUrlIssueBanner
+   * @see https://iana.io/docs/api/ianaio-config#baseUrlIssueBanner
    * @default true
    */
   baseUrlIssueBanner: boolean;
@@ -339,7 +339,7 @@ export type IanaioConfig = {
 /**
  * Ianaio config, as provided by the user (partial/unnormalized). This type
  * is used to provide type-safety / IDE auto-complete on the config file.
- * @see https://ianaio.io/docs/typescript-support
+ * @see https://iana.io/docs/typescript-support
  */
 export type Config = RequireKeys<
   DeepPartial<IanaioConfig>,

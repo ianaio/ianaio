@@ -8,7 +8,7 @@
 module.exports = {
   title: 'Site',
   tagline: 'This is not an ordinary site',
-  organizationName: 'endiliey',
+  organizationName: 'cichy',
   projectName: 'site',
   baseUrl: '/site/',
   url: 'https://iana.io',

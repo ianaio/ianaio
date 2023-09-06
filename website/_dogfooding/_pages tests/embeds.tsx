@@ -21,8 +21,8 @@ export default function Embeds(): JSX.Element {
           <IframeWindow url="/?ianaio-theme=dark" />
           <IframeWindow url="/?ianaio-theme=unexpected-value" />
           <IframeWindow url="/" />
-          <IframeWindow url="https://ianaio.io/" />
-          <IframeWindow url="https://tutorial.ianaio.io/" />
+          <IframeWindow url="https://iana.io/" />
+          <IframeWindow url="https://tutorial.iana.io/" />
         </div>
       </div>
     </Layout>

@@ -73,7 +73,7 @@ describe('loadSiteConfig', () => {
     ).rejects.toThrowErrorMatchingInlineSnapshot(`
             "These field(s) ("useLessField",) are not recognized in wrong.config.js.
             If you still want these fields to be in your configuration, put them in the "customFields" field.
-            See https://ianaio.io/docs/api/ianaio-config/#customfields"
+            See https://iana.io/docs/api/ianaio-config/#customfields"
           `);
   });
 

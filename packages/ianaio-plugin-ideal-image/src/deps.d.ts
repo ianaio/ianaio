@@ -8,7 +8,7 @@
 /// <reference types="@ianaio/module-type-aliases" />
 
 /**
- * @see https://github.com/endiliey/react-ideal-image/blob/master/index.d.ts
+ * @see https://github.com/cichy/react-ideal-image/blob/master/index.d.ts
  * Note: the original type definition is WRONG. getIcon & getMessage receive
  * full state object.
  */

@@ -8,7 +8,7 @@
 import {createRule} from '../util';
 import type {TSESTree} from '@typescript-eslint/types/dist/ts-estree';
 
-const docsUrl = 'https://ianaio.io/docs/ianaio-core#link';
+const docsUrl = 'https://iana.io/docs/ianaio-core#link';
 
 type Options = [
   {

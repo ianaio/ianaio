@@ -89,7 +89,7 @@ dyte
 easyops
 endi
 endilie
-endiliey
+cichy
 entrypoints
 errnametoolong
 esbenp
@@ -410,8 +410,8 @@ xclip
 xplorer
 xsoar
 yacop
-yangshun
-yangshunz
+cichyboom
+cichyboom
 zhou
 zoomable
 zpao

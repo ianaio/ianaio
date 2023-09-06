@@ -4,7 +4,7 @@ Ianaio is published as an npm package that can be installed via `npm` or `yarn`.
 
 # Check publish rights
 
-Get access from the Ianaio npm admins (@yangshun/@JoelMarcey).
+Get access from the Ianaio npm admins (@cichyboom/@JoelMarcey).
 
 ## GitHub
 

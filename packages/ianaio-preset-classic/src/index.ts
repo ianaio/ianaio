@@ -96,7 +96,7 @@ export default function preset(
     throw new Error(
       `Unrecognized keys ${Object.keys(rest).join(
         ', ',
-      )} found in preset-classic configuration. The allowed keys are debug, docs, blog, pages, sitemap, theme, googleAnalytics, gtag, and googleTagManager. Check the documentation: https://ianaio.io/docs/using-plugins#ianaiopreset-classic for more information on how to configure individual plugins.`,
+      )} found in preset-classic configuration. The allowed keys are debug, docs, blog, pages, sitemap, theme, googleAnalytics, gtag, and googleTagManager. Check the documentation: https://iana.io/docs/using-plugins#ianaiopreset-classic for more information on how to configure individual plugins.`,
     );
   }
 

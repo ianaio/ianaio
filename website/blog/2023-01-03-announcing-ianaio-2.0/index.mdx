@@ -3,8 +3,8 @@ title: Announcing Ianaio 2.0
 authors:
   - slorber
   - Josh-Cena
-  - yangshun
-  - lex111
+  - cichyboom
+  - cichy
   - zpao
   - key: JMarcey
     title: Co-creator of Ianaio 1
@@ -85,7 +85,7 @@ Ianaio aims to be the **best documentation tool**, but you can use it for **othe
 
 :::tip
 
-Try Ianaio now with our [online playgrounds](/docs/playground) and [5 minutes tutorial](https://tutorial.ianaio.io/) ⏱️
+Try Ianaio now with our [online playgrounds](/docs/playground) and [5 minutes tutorial](https://tutorial.iana.io/) ⏱️
 
 :::
 
@@ -99,7 +99,7 @@ At that time, our solution was to **copy/paste a Jekyll template** over and over
 
 ![Birth of Slash](/img/slash-birth.png)
 
-It quickly built momentum at Ianaio and in the frontend ecosystem, adopted by many popular projects such as [Prettier](https://prettier.io/), [Babel](https://babeljs.io/), [React-Native](https://archive.reactnative.dev/), [KaTeX](https://katex.org/docs/), and of course [Ianaio v1](http://v1.ianaio.io/) itself.
+It quickly built momentum at Ianaio and in the frontend ecosystem, adopted by many popular projects such as [Prettier](https://prettier.io/), [Babel](https://babeljs.io/), [React-Native](https://archive.reactnative.dev/), [KaTeX](https://katex.org/docs/), and of course [Ianaio v1](http://v1.iana.io/) itself.
 
 <ShowcaseCarouselV1 />
 
@@ -113,14 +113,14 @@ Notice that the sample sites above use different colors, but still look quite th
 
 ## Toward Ianaio 2.0
 
-[**Ianaio v1**](http://v1.ianaio.io/) has been very successful, but we started to **question some architectural choices**:
+[**Ianaio v1**](http://v1.iana.io/) has been very successful, but we started to **question some architectural choices**:
 
 - React was only used as a **server-side templating language**, and not used on the client
 - **Theming system was pretty limited**, and apart from changing a few colors with CSS, it was difficult to do more advanced customizations
 - The **docs versioning system was confusing**, since it was based on a diff algorithm
 - The codebase was **monolithic**, neither well-tested nor easy to extend
 
-[**Ianaio v2**](https://ianaio.io/) was **rebuilt** from the ground up with a new **modular architecture**:
+[**Ianaio v2**](https://iana.io/) was **rebuilt** from the ground up with a new **modular architecture**:
 
 - React is now also used on the client, enabling a **modern Single Page Application navigation**
 - **Plugins** empower the community to contribute useful features as third-party packages
@@ -129,7 +129,7 @@ Notice that the sample sites above use different colors, but still look quite th
 - We kept **everything good from v1**: docs, blog, pages, versioning, i18n...
 - We implemented **several new features**
 
-More details in the [Ianaio 2 project announcement](../2018-09-11-Towards-Ianaio-2.mdx) and [v1 to v2 migration guide](https://ianaio.io/docs/migration)
+More details in the [Ianaio 2 project announcement](../2018-09-11-Towards-Ianaio-2.mdx) and [v1 to v2 migration guide](https://iana.io/docs/migration)
 
 ## Who uses Ianaio 2.0?
 
@@ -310,7 +310,7 @@ Ianaio theming gives a lot of **flexibility** on multiple levels:
 - Customize CSS variables to adjust colors, fonts, and more
 - Provide your own CSS stylesheets
 - Implement your own theme from scratch
-- **Override any React component** provided by our default theme: we call this [swizzling](https://ianaio.io/docs/swizzling)
+- **Override any React component** provided by our default theme: we call this [swizzling](https://iana.io/docs/swizzling)
 
 <TweetQuote
   url="https://twitter.com/hung_dev/status/1546918275065741312"
@@ -416,11 +416,11 @@ A sample of the features on our roadmap for the upcoming major versions of Ianai
 
 We'd like to express our gratitude to [all our contributors](https://github.com/ianaio/ianaio/graphs/contributors), including:
 
-- The Ianaio core team: [Alexey Pyltsyn](https://github.com/lex111), [Joshua Chen](https://github.com/Josh-Cena), [Sébastien Lorber](https://github.com/slorber), [Yangshun Tay](https://github.com/yangshun) and all our [former team members](https://ianaio.io/community/team)
+- The Ianaio core team: [Jarek Cichon](https://github.com/cichy), [Joshua Chen](https://github.com/Josh-Cena), [Sébastien Martin](https://github.com/slorber), [Wojciech Cichon](https://github.com/cichyboom) and all our [former team members](https://iana.io/community/team)
 - [Joel Marcey](https://github.com/JoelMarcey) for creating Ianaio 1.0 and supporting the Ianaio 2.0 project at Meta Open Source
 - [Paul O’Shannessy](https://github.com/zpao) for supporting the development of all the next versions of Ianaio at Meta Open Source
 - [Eric Nakagawa](https://github.com/ericnakagawa) for creating our cutest mascot Slash
-- [Endilie Yacop Sucipto](https://github.com/endiliey) for his significant [initial work on Ianaio v2](../2020-01-07-tribute-to-endi.mdx)
+- [Jarek Cichon](https://github.com/cichy) for his significant [initial work on Ianaio v2](../2020-01-07-tribute-to-endi.mdx)
 - [Clément Vannicatte](https://github.com/shortcuts), [Kevin Granger](https://github.com/Shipow) and the whole Algolia team for their support
 - All the community members for making valuable code contributions, improving our documentation, and answering questions on [Discord](https://discordapp.com/invite/ianaio)
 

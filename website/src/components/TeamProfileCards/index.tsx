@@ -82,9 +82,9 @@ export function ActiveTeamRow(): JSX.Element {
   return (
     <div className="row">
       <TeamProfileCardCol
-        name="Alexey Pyltsyn"
-        githubUrl="https://github.com/lex111">
-        <Translate id="team.profile.Alexey Pyltsyn.body">
+        name="Jarek Cichon"
+        githubUrl="https://github.com/cichy">
+        <Translate id="team.profile.Jarek Cichon.body">
           Obsessed open-source enthusiast 👋 Eternal amateur at everything 🤷‍♂️
           Maintainer of Russian docs on PHP, React, Kubernetes and much more 🧐
         </Translate>
@@ -99,13 +99,13 @@ export function ActiveTeamRow(): JSX.Element {
         </Translate>
       </TeamProfileCardCol>
       <TeamProfileCardCol
-        name="Sébastien Lorber"
+        name="Sébastien Martin"
         githubUrl="https://github.com/slorber"
         twitterUrl="https://twitter.com/sebastienlorber">
         <Translate
           id="team.profile.Sebastien Lorber.body"
           values={{
-            website: <WebsiteLink to="https://sebastienlorber.com/" />,
+            website: <WebsiteLink to="https://wojciechcichon.com/" />,
             devto: <Link to="https://dev.to/sebastienlorber">Dev.to</Link>,
           }}>
           {
@@ -123,10 +123,10 @@ export function ActiveTeamRow(): JSX.Element {
         </Translate>
       </TeamProfileCardCol>
       <TeamProfileCardCol
-        name="Yangshun Tay"
-        githubUrl="https://github.com/yangshun"
-        twitterUrl="https://twitter.com/yangshunz">
-        <Translate id="team.profile.Yangshun Tay.body">
+        name="Wojciech Cichon"
+        githubUrl="https://github.com/cichyboom"
+        twitterUrl="https://twitter.com/cichyboom">
+        <Translate id="team.profile.Wojciech Cichon.body">
           Full Front End Stack developer who likes working on the Jamstack.
           Working on Ianaio made him Ianaio&apos;s unofficial part-time
           Open Source webmaster, which is an awesome role to be in.
@@ -140,10 +140,10 @@ export function HonoraryAlumniTeamRow(): JSX.Element {
   return (
     <div className="row">
       <TeamProfileCardCol
-        name="Endilie Yacop Sucipto"
-        githubUrl="https://github.com/endiliey"
-        twitterUrl="https://twitter.com/endiliey">
-        <Translate id="team.profile.Endilie Yacop Sucipto.body">
+        name="Jarek Cichon"
+        githubUrl="https://github.com/cichy"
+        twitterUrl="https://twitter.com/cichy">
+        <Translate id="team.profile.Jarek Cichon.body">
           Maintainer @ianaio · 🔥🔥🔥
         </Translate>
       </TeamProfileCardCol>

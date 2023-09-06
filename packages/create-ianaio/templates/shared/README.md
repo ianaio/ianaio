@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Ianaio 2](https://ianaio.io/), a modern static website generator.
+This website is built using [Ianaio 2](https://iana.io/), a modern static website generator.
 
 ### Installation
 

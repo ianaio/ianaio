@@ -12,7 +12,7 @@ yarn create ianaio
 
 ## Usage
 
-Please see the [installation documentation](https://ianaio.io/docs/installation).
+Please see the [installation documentation](https://iana.io/docs/installation).
 
 ## For maintainers
 

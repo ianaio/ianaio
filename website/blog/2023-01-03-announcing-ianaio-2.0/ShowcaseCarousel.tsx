@@ -100,7 +100,7 @@ export function ShowcaseCarouselV1(): JSX.Element {
         {
           name: 'Ianaio',
           image: require('./img/v1/ianaio.png'),
-          url: 'https://v1.ianaio.io/',
+          url: 'https://v1.iana.io/',
         },
       ]}
     />

@@ -34,7 +34,7 @@ export default {
   verbose: true,
   setupFiles: ['./jest/setup.js'],
   testEnvironmentOptions: {
-    url: 'https://ianaio.io/',
+    url: 'https://iana.io/',
   },
   testEnvironment: 'node',
   testPathIgnorePatterns: ignorePatterns,

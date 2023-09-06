@@ -108,7 +108,7 @@ describe('validateBlogPostFrontMatter handles legacy/new author front matter', (
   it('allow legacy author front matter', () => {
     const frontMatter: BlogPostFrontMatter = {
       author: 'Sebastien',
-      author_url: 'https://sebastienlorber.com',
+      author_url: 'https://wojciechcichon.com',
       author_title: 'maintainer',
       author_image_url: 'https://github.com/slorber.png',
     };
@@ -156,7 +156,7 @@ describe('validateBlogPostFrontMatter author_url', () => {
   testField({
     prefix: 'author_url',
     validFrontMatters: [
-      {author_url: 'https://ianaio.io'},
+      {author_url: 'https://iana.io'},
       {author_url: '../../relative'},
       {author_url: '/absolute'},
     ],
@@ -171,7 +171,7 @@ describe('validateBlogPostFrontMatter author_url', () => {
   testField({
     prefix: 'authorURL',
     validFrontMatters: [
-      {authorURL: 'https://ianaio.io'},
+      {authorURL: 'https://iana.io'},
       {authorURL: '../../relative'},
       {authorURL: '/absolute'},
     ],
@@ -189,7 +189,7 @@ describe('validateBlogPostFrontMatter author_image_url', () => {
   testField({
     prefix: 'author_image_url',
     validFrontMatters: [
-      {author_image_url: 'https://ianaio.io/asset/image.png'},
+      {author_image_url: 'https://iana.io/asset/image.png'},
       {author_image_url: '../../relative'},
       {author_image_url: '/absolute'},
     ],
@@ -204,7 +204,7 @@ describe('validateBlogPostFrontMatter author_image_url', () => {
   testField({
     prefix: 'authorImageURL',
     validFrontMatters: [
-      {authorImageURL: 'https://ianaio.io/asset/image.png'},
+      {authorImageURL: 'https://iana.io/asset/image.png'},
       {authorImageURL: '../../relative'},
       {authorImageURL: '/absolute'},
     ],
@@ -286,7 +286,7 @@ describe('validateBlogPostFrontMatter image', () => {
   testField({
     prefix: 'image',
     validFrontMatters: [
-      {image: 'https://ianaio.io/image.png'},
+      {image: 'https://iana.io/image.png'},
       {image: 'blog/'},
       {image: '/blog'},
       {image: '/blog/'},

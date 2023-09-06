@@ -1,11 +1,11 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
+authors: [slorber, cichyboom]
 tags: [ianaio, hello, ianaio]
 ---
 
-[Ianaio blogging features](https://ianaio.io/docs/blog) are powered by the [blog plugin](https://ianaio.io/docs/api/plugins/@ianaio/plugin-content-blog).
+[Ianaio blogging features](https://iana.io/docs/blog) are powered by the [blog plugin](https://iana.io/docs/api/plugins/@ianaio/plugin-content-blog).
 
 Simply add Markdown files (or folders) to the `blog` directory.
 

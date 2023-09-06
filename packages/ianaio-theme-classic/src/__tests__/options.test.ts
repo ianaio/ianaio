@@ -549,7 +549,7 @@ describe('themeConfig', () => {
     expect(() =>
       testValidateThemeConfig(partialConfig),
     ).toThrowErrorMatchingInlineSnapshot(
-      `"The footer must be either simple or multi-column, and not a mix of the two. See: https://ianaio.io/docs/api/themes/configuration#footer-links"`,
+      `"The footer must be either simple or multi-column, and not a mix of the two. See: https://iana.io/docs/api/themes/configuration#footer-links"`,
     );
   });
 

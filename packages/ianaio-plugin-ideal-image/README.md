@@ -4,4 +4,4 @@ Ianaio Plugin to generate an almost ideal image (responsive, lazy-loading, and l
 
 ## Usage
 
-See [plugin-ideal-image documentation](https://ianaio.io/docs/api/plugins/@ianaio/plugin-ideal-image).
+See [plugin-ideal-image documentation](https://iana.io/docs/api/plugins/@ianaio/plugin-ideal-image).

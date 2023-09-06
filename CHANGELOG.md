@@ -34,7 +34,7 @@
 - Armano ([@armano2](https://github.com/armano2))
 - MetuMortis ([@LiberaTeMetuMortis](https://github.com/LiberaTeMetuMortis))
 - Sachin Nanayakkara ([@SACHINnANYAKKARA](https://github.com/SACHINnANYAKKARA))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tarun Chauhan ([@tarunrajput](https://github.com/tarunrajput))
 
 ## 2.4.0 (2023-03-23)
@@ -95,7 +95,7 @@
 - Moritz Stückler ([@pReya](https://github.com/pReya))
 - Mysterious_Dev ([@Mysterious-Dev](https://github.com/Mysterious-Dev))
 - Petter Drønnen ([@dr0nn1](https://github.com/dr0nn1))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tanner Dolby ([@tannerdolby](https://github.com/tannerdolby))
 - TrueQAP ([@trueqap](https://github.com/trueqap))
 - Vishruta Patil ([@Vishruta-Patil](https://github.com/Vishruta-Patil))
@@ -130,7 +130,7 @@
 
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Sébastien Castiel ([@scastiel](https://github.com/scastiel))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 
 ## 2.3.0 (2023-01-26)
 
@@ -210,7 +210,7 @@
 - Muhammad Hammad ([@mhnaeem](https://github.com/mhnaeem))
 - Riccardo ([@3v0k4](https://github.com/3v0k4))
 - Stefan Norberg ([@stnor](https://github.com/stnor))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Thomas.CA ([@Thomascogez](https://github.com/Thomascogez))
 - [@mturoci](https://github.com/mturoci)
 - 宋锦丰 ([@SJFCS](https://github.com/SJFCS))
@@ -231,7 +231,7 @@
 #### :bug: Bug Fix
 
 - `ianaio-plugin-ideal-image`
-  - [#8250](https://github.com/ianaio/ianaio/pull/8250) fix(ideal-image): do not pass down `img` prop ([@lex111](https://github.com/lex111))
+  - [#8250](https://github.com/ianaio/ianaio/pull/8250) fix(ideal-image): do not pass down `img` prop ([@cichy](https://github.com/cichy))
 - `ianaio-theme-common`
   - [#8246](https://github.com/ianaio/ianaio/pull/8246) fix(mdx-loader): properly unwrap mdxAdmonitionTitle placeholder ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-content-docs`
@@ -260,7 +260,7 @@
 #### :nail_care: Polish
 
 - `ianaio-theme-translations`
-  - [#8253](https://github.com/ianaio/ianaio/pull/8253) chore(theme-translations): complete ru translations ([@lex111](https://github.com/lex111))
+  - [#8253](https://github.com/ianaio/ianaio/pull/8253) chore(theme-translations): complete ru translations ([@cichy](https://github.com/cichy))
   - [#8243](https://github.com/ianaio/ianaio/pull/8243) chore(theme-translations): complete French translations ([@forresst](https://github.com/forresst))
   - [#8075](https://github.com/ianaio/ianaio/pull/8075) fix(theme-translation): complete Japanese theme default translation ([@pasora](https://github.com/pasora))
 - `ianaio`
@@ -275,7 +275,7 @@
 #### Committers: 22
 
 - Adnan Hashmi ([@adnanhashmi09](https://github.com/adnanhashmi09))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Forresst ([@forresst](https://github.com/forresst))
 - Jan Peer Stöcklmair ([@JPeer264](https://github.com/JPeer264))
 - Jeferson S. Brito ([@jeferson-sb](https://github.com/jeferson-sb))
@@ -291,7 +291,7 @@
 - Sam Wall ([@sjwall](https://github.com/sjwall))
 - Sanjaiyan Parthipan ([@sanjaiyan-dev](https://github.com/sanjaiyan-dev))
 - Shanmughapriyan S ([@shanpriyan](https://github.com/shanpriyan))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Xabier Lahuerta Vazquez ([@Xabilahu](https://github.com/Xabilahu))
 - [@forgeRW](https://github.com/forgeRW)
 - [@mturoci](https://github.com/mturoci)
@@ -352,7 +352,7 @@
 - Kevin Østerkilde ([@Kosai106](https://github.com/Kosai106))
 - Morgane Dubus ([@mdubus](https://github.com/mdubus))
 - Ngô Quốc Đạt ([@datlechin](https://github.com/datlechin))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Yoni Chechik ([@YoniChechik](https://github.com/YoniChechik))
 - [@whiteand](https://github.com/whiteand)
 - [@yzhe819](https://github.com/yzhe819)
@@ -364,7 +364,7 @@ Fix bad npm publish of 2.0.0
 
 #### Committers: 1
 
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 
 ## 2.0.0 (2022-08-01)
 
@@ -378,7 +378,7 @@ Bad npm publish, please use 2.0.1
 #### Committers: 2
 
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 
 ## 2.0.0-rc.1 (2022-07-14)
 
@@ -422,7 +422,7 @@ Bad npm publish, please use 2.0.1
 - Jeffrey Aven ([@jeffreyaven](https://github.com/jeffreyaven))
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Sunghyun Cho ([@anaclumos](https://github.com/anaclumos))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - The Nguyen ([@treoden](https://github.com/treoden))
 - Wes McNamee ([@ghostsquad](https://github.com/ghostsquad))
 - [@LichLord91](https://github.com/LichLord91)
@@ -443,7 +443,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-logger`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-types`, `ianaio-utils`, `ianaio`
   - [#7642](https://github.com/ianaio/ianaio/pull/7642) refactor: remove "error" reporting level, move reportMessage to logger ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-utils-validation`, `ianaio`
-  - [#7152](https://github.com/ianaio/ianaio/pull/7152) refactor: handle all admonitions via JSX component ([@lex111](https://github.com/lex111))
+  - [#7152](https://github.com/ianaio/ianaio/pull/7152) refactor: handle all admonitions via JSX component ([@cichy](https://github.com/cichy))
 
 #### :rocket: New Feature
 
@@ -501,7 +501,7 @@ Bad npm publish, please use 2.0.1
   - [#7633](https://github.com/ianaio/ianaio/pull/7633) chore(theme-translations): complete ko translations ([@HyunseungLee-Travis](https://github.com/HyunseungLee-Travis))
 - `ianaio`
   - [#7702](https://github.com/ianaio/ianaio/pull/7702) feat(deploy): copy local git config to tmp repo ([@ghostsquad](https://github.com/ghostsquad))
-  - [#7600](https://github.com/ianaio/ianaio/pull/7600) fix: force refresh on chunk preload error ([@yangshun](https://github.com/yangshun))
+  - [#7600](https://github.com/ianaio/ianaio/pull/7600) fix: force refresh on chunk preload error ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-plugin-content-docs`
   - [#7673](https://github.com/ianaio/ianaio/pull/7673) fix(content-docs): format last update date as "Jun 19, 2020" ([@sigwinch28](https://github.com/sigwinch28))
 - `ianaio-theme-common`, `ianaio-theme-search-algolia`
@@ -555,7 +555,7 @@ Bad npm publish, please use 2.0.1
 - 7Wate ([@7Wate](https://github.com/7Wate))
 - Ahmed Altomy ([@Altomy](https://github.com/Altomy))
 - Alexander Nestorov ([@alexandernst](https://github.com/alexandernst))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ben Myers ([@BenDMyers](https://github.com/BenDMyers))
 - Benjamin Cabanes ([@bcabanes](https://github.com/bcabanes))
 - Boulet ([@Boulet-](https://github.com/Boulet-))
@@ -588,11 +588,11 @@ Bad npm publish, please use 2.0.1
 - Steven Serrata ([@sserrata](https://github.com/sserrata))
 - Sunghyun Cho ([@anaclumos](https://github.com/anaclumos))
 - Szilárd Dóró ([@szilarddoro](https://github.com/szilarddoro))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tom Mrazauskas ([@mrazauskas](https://github.com/mrazauskas))
 - Webber Takken ([@webbertakken](https://github.com/webbertakken))
 - Wes McNamee ([@ghostsquad](https://github.com/ghostsquad))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@SheetJSDev](https://github.com/SheetJSDev)
 - [@alewolf](https://github.com/alewolf)
 - [@dpang314](https://github.com/dpang314)
@@ -711,7 +711,7 @@ Bad npm publish, please use 2.0.1
 - Ori Shalom ([@ori-shalom](https://github.com/ori-shalom))
 - Pranab Das ([@pranabdas](https://github.com/pranabdas))
 - Rui Peres ([@RuiAAPeres](https://github.com/RuiAAPeres))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - 凱恩 Kane ([@Gary50613](https://github.com/Gary50613))
 
 ## 2.0.0-beta.20 (2022-05-05)
@@ -734,12 +734,12 @@ Bad npm publish, please use 2.0.1
 
 #### Committers: 6
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Reece Dunham ([@RDIL](https://github.com/RDIL))
 - Sergey Gromkov ([@sgromkov](https://github.com/sgromkov))
 - Steven Hicks ([@pepopowitz](https://github.com/pepopowitz))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 
 ## 2.0.0-beta.19 (2022-05-04)
 
@@ -747,7 +747,7 @@ Bad npm publish, please use 2.0.1
 
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#7178](https://github.com/ianaio/ianaio/pull/7178) feat(theme-classic): extensible code block magic comment system ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#7007](https://github.com/ianaio/ianaio/pull/7007) feat(theme-classic): code block showLineNumbers ([@lex111](https://github.com/lex111))
+  - [#7007](https://github.com/ianaio/ianaio/pull/7007) feat(theme-classic): code block showLineNumbers ([@cichy](https://github.com/cichy))
   - [#7012](https://github.com/ianaio/ianaio/pull/7012) feat(theme-classic): show blog sidebar on mobile ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio`, `eslint-plugin`
   - [#7206](https://github.com/ianaio/ianaio/pull/7206) feat: Ianaio ESLint plugin to enforce best Ianaio practices ([@elias-pap](https://github.com/elias-pap))
@@ -755,10 +755,10 @@ Bad npm publish, please use 2.0.1
   - [#6732](https://github.com/ianaio/ianaio/pull/6732) feat(core): rework client modules lifecycles, officially make API public ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
   - [#7231](https://github.com/ianaio/ianaio/pull/7231) feat: allow custom navbarItem types to pass through validation ([@slorber](https://github.com/slorber))
-  - [#7058](https://github.com/ianaio/ianaio/pull/7058) feat(theme-classic): new 'html' type navbar item ([@lex111](https://github.com/lex111))
-  - [#7079](https://github.com/ianaio/ianaio/pull/7079) feat: allow using pure HTML as label in navbar links ([@lex111](https://github.com/lex111))
+  - [#7058](https://github.com/ianaio/ianaio/pull/7058) feat(theme-classic): new 'html' type navbar item ([@cichy](https://github.com/cichy))
+  - [#7079](https://github.com/ianaio/ianaio/pull/7079) feat: allow using pure HTML as label in navbar links ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-translations`
-  - [#7036](https://github.com/ianaio/ianaio/pull/7036) feat(theme-classic): toggle code wrap button ([@lex111](https://github.com/lex111))
+  - [#7036](https://github.com/ianaio/ianaio/pull/7036) feat(theme-classic): toggle code wrap button ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#6457](https://github.com/ianaio/ianaio/pull/6457) feat(content-docs): draft docs excluded from build & sidebars ([@jodyheavener](https://github.com/jodyheavener))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-types`, `ianaio`
@@ -782,7 +782,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-theme-classic`, `ianaio-types`, `ianaio`
   - [#6732](https://github.com/ianaio/ianaio/pull/6732) feat(core): rework client modules lifecycles, officially make API public ([@Josh-Cena](https://github.com/Josh-Cena))
 - `create-ianaio`, `ianaio-theme-classic`
-  - [#7176](https://github.com/ianaio/ianaio/pull/7176) refactor: customize code block line highlight color via CSS var ([@lex111](https://github.com/lex111))
+  - [#7176](https://github.com/ianaio/ianaio/pull/7176) refactor: customize code block line highlight color via CSS var ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-types`, `ianaio-utils-validation`, `ianaio-utils`
   - [#7117](https://github.com/ianaio/ianaio/pull/7117) refactor(content-{blog,docs}): unify handling of tags ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
@@ -794,8 +794,8 @@ Bad npm publish, please use 2.0.1
   - [#7304](https://github.com/ianaio/ianaio/pull/7304) fix(theme-classic): remove breadcrumb items without href from microdata ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7179](https://github.com/ianaio/ianaio/pull/7179) fix(theme-classic): do not add microdata item prop to trailing breadcrumb ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7173](https://github.com/ianaio/ianaio/pull/7173) fix(theme-classic): admonition title: disable text-transform on inline code blocks ([@chelproc](https://github.com/chelproc))
-  - [#7048](https://github.com/ianaio/ianaio/pull/7048) fix(theme-classic): add caret for dropdown on mobile ([@lex111](https://github.com/lex111))
-  - [#7025](https://github.com/ianaio/ianaio/pull/7025) fix: make docs page wrapper take full height ([@lex111](https://github.com/lex111))
+  - [#7048](https://github.com/ianaio/ianaio/pull/7048) fix(theme-classic): add caret for dropdown on mobile ([@cichy](https://github.com/cichy))
+  - [#7025](https://github.com/ianaio/ianaio/pull/7025) fix: make docs page wrapper take full height ([@cichy](https://github.com/cichy))
   - [#7013](https://github.com/ianaio/ianaio/pull/7013) fix(theme-classic): adjust shadow on code block ([@chernodub](https://github.com/chernodub))
   - [#7015](https://github.com/ianaio/ianaio/pull/7015) fix(theme-classic): do not add caret for non-collapsible categories ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-sitemap`, `ianaio-preset-classic`, `ianaio-theme-classic`
@@ -820,7 +820,7 @@ Bad npm publish, please use 2.0.1
   - [#7222](https://github.com/ianaio/ianaio/pull/7222) fix(theme-translations): fix invalid pluralization in cs ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7166](https://github.com/ianaio/ianaio/pull/7166) fix(theme-translations): always try all possible locale resolutions ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#7164](https://github.com/ianaio/ianaio/pull/7164) fix: adjust spacing for custom search properly ([@lex111](https://github.com/lex111))
+  - [#7164](https://github.com/ianaio/ianaio/pull/7164) fix: adjust spacing for custom search properly ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-debug`, `ianaio-plugin-sitemap`, `ianaio-preset-classic`, `ianaio-types`, `ianaio`
   - [#7143](https://github.com/ianaio/ianaio/pull/7143) fix(sitemap): exclude pages with robots noindex from sitemap ([@Josh-Cena](https://github.com/Josh-Cena))
 - `create-ianaio`, `ianaio-types`
@@ -835,26 +835,26 @@ Bad npm publish, please use 2.0.1
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`, `ianaio-theme-translations`
-  - [#7299](https://github.com/ianaio/ianaio/pull/7299) refactor: minor improvements for breadcrumbs ([@lex111](https://github.com/lex111))
+  - [#7299](https://github.com/ianaio/ianaio/pull/7299) refactor: minor improvements for breadcrumbs ([@cichy](https://github.com/cichy))
 - `create-ianaio`
   - [#7290](https://github.com/ianaio/ianaio/pull/7290) refactor(create): add i18n config in init template ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7286](https://github.com/ianaio/ianaio/pull/7286) refactor(create): update screenshots in quick start tutorial ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7223](https://github.com/ianaio/ianaio/pull/7223) refactor: use generated-index in init templates ([@slorber](https://github.com/slorber))
   - [#7118](https://github.com/ianaio/ianaio/pull/7118) refactor(create): mention that the edit links can be removed ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-debug`, `ianaio-theme-classic`
-  - [#7306](https://github.com/ianaio/ianaio/pull/7306) chore: upgrade Infima to alpha.39 ([@lex111](https://github.com/lex111))
+  - [#7306](https://github.com/ianaio/ianaio/pull/7306) chore: upgrade Infima to alpha.39 ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-debug`, `ianaio-types`, `ianaio`
   - [#7291](https://github.com/ianaio/ianaio/pull/7291) feat(types): JSDoc for ianaio config fields ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#7267](https://github.com/ianaio/ianaio/pull/7267) fix(theme-common): allow details to not provide a summary ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#7172](https://github.com/ianaio/ianaio/pull/7172) refactor: control base styling of code blocks via CSS vars ([@lex111](https://github.com/lex111))
-  - [#7129](https://github.com/ianaio/ianaio/pull/7129) refactor(theme-classic): fix a few margin inconsistencies ([@lex111](https://github.com/lex111))
+  - [#7172](https://github.com/ianaio/ianaio/pull/7172) refactor: control base styling of code blocks via CSS vars ([@cichy](https://github.com/cichy))
+  - [#7129](https://github.com/ianaio/ianaio/pull/7129) refactor(theme-classic): fix a few margin inconsistencies ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-utils`
   - [#7248](https://github.com/ianaio/ianaio/pull/7248) refactor: normalize Markdown linkification behavior, elaborate in documentation ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
   - [#7244](https://github.com/ianaio/ianaio/pull/7244) refactor: semantic markup improvement, fix validation warnings ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7183](https://github.com/ianaio/ianaio/pull/7183) refactor: use SVG icon for home breadcrumb ([@Dr-Electron](https://github.com/Dr-Electron))
-  - [#7139](https://github.com/ianaio/ianaio/pull/7139) fix: proper spacing between generated card items on mobiles ([@lex111](https://github.com/lex111))
+  - [#7139](https://github.com/ianaio/ianaio/pull/7139) fix: proper spacing between generated card items on mobiles ([@cichy](https://github.com/cichy))
   - [#7134](https://github.com/ianaio/ianaio/pull/7134) fix(theme-classic): fix docs sidebar layout shifts when expanding categories ([@slorber](https://github.com/slorber))
   - [#7068](https://github.com/ianaio/ianaio/pull/7068) refactor(theme-classic): blog mobile secondary menu use consistent styles ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7004](https://github.com/ianaio/ianaio/pull/7004) fix(theme-classic): shrink title size on mobile ([@Pierre-Gilles](https://github.com/Pierre-Gilles))
@@ -862,23 +862,23 @@ Bad npm publish, please use 2.0.1
   - [#7214](https://github.com/ianaio/ianaio/pull/7214) chore(theme-translations): complete Polish translations ([@rev4324](https://github.com/rev4324))
   - [#7031](https://github.com/ianaio/ianaio/pull/7031) chore(theme-translations): complete German translations ([@deployn](https://github.com/deployn))
 - `create-ianaio`, `ianaio-theme-classic`
-  - [#7176](https://github.com/ianaio/ianaio/pull/7176) refactor: customize code block line highlight color via CSS var ([@lex111](https://github.com/lex111))
+  - [#7176](https://github.com/ianaio/ianaio/pull/7176) refactor: customize code block line highlight color via CSS var ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#7218](https://github.com/ianaio/ianaio/pull/7218) fix(cli): always show error stack to unhandled rejection ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7142](https://github.com/ianaio/ianaio/pull/7142) refactor(core): lower timeout before rendering progress bar to 200ms ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#7103](https://github.com/ianaio/ianaio/pull/7103) fix(core): preserve Interpolate children semantics ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#7029](https://github.com/ianaio/ianaio/pull/7029) refactor: console output improvements ([@lex111](https://github.com/lex111))
-  - [#7017](https://github.com/ianaio/ianaio/pull/7017) refactor: remove copyright comment from swizzled components ([@lex111](https://github.com/lex111))
+  - [#7029](https://github.com/ianaio/ianaio/pull/7029) refactor: console output improvements ([@cichy](https://github.com/cichy))
+  - [#7017](https://github.com/ianaio/ianaio/pull/7017) refactor: remove copyright comment from swizzled components ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-preset-classic`, `ianaio-theme-classic`
   - [#7148](https://github.com/ianaio/ianaio/pull/7148) feat(preset-classic, content-docs/client): JSDoc ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-debug`, `ianaio-preset-classic`
-  - [#7122](https://github.com/ianaio/ianaio/pull/7122) feat(preset-classic): exclude debug plugin routes from sitemap ([@lex111](https://github.com/lex111))
+  - [#7122](https://github.com/ianaio/ianaio/pull/7122) feat(preset-classic): exclude debug plugin routes from sitemap ([@cichy](https://github.com/cichy))
 - `ianaio-theme-common`, `ianaio-utils`, `ianaio`
   - [#7113](https://github.com/ianaio/ianaio/pull/7113) test: improve test coverage ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-module-type-aliases`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-ideal-image`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`, `ianaio-types`, `ianaio-utils-validation`, `ianaio`
   - [#7080](https://github.com/ianaio/ianaio/pull/7080) refactor: replace non-prop interface with type; allow plugin lifecycles to have sync type ([@Josh-Cena](https://github.com/Josh-Cena))
 - `create-ianaio`, `ianaio-logger`, `ianaio-plugin-content-docs`, `ianaio`
-  - [#7019](https://github.com/ianaio/ianaio/pull/7019) feat(logger): new "url" format, add double quotes around paths ([@lex111](https://github.com/lex111))
+  - [#7019](https://github.com/ianaio/ianaio/pull/7019) feat(logger): new "url" format, add double quotes around paths ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#7006](https://github.com/ianaio/ianaio/pull/7006) refactor: split and cleanup theme/DocPage ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
@@ -921,7 +921,7 @@ Bad npm publish, please use 2.0.1
 
 - Other
   - [#7309](https://github.com/ianaio/ianaio/pull/7309) chore: use "Maintenance" instead of "Internal" in changelog ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#7300](https://github.com/ianaio/ianaio/pull/7300) misc: check doc page by Lighthouse CI ([@lex111](https://github.com/lex111))
+  - [#7300](https://github.com/ianaio/ianaio/pull/7300) misc: check doc page by Lighthouse CI ([@cichy](https://github.com/cichy))
   - [#7266](https://github.com/ianaio/ianaio/pull/7266) misc: add links section to PR template ([@slorber](https://github.com/slorber))
   - [#7224](https://github.com/ianaio/ianaio/pull/7224) chore: GitHub Actions cancel-in-progress ([@slorber](https://github.com/slorber))
   - [#7216](https://github.com/ianaio/ianaio/pull/7216) chore: remove netlify-cli from devDependencies ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -983,7 +983,7 @@ Bad npm publish, please use 2.0.1
 
 - Aaron Nwabuoku ([@aerovulpe](https://github.com/aerovulpe))
 - AkiraVoid ([@AkiraVoid](https://github.com/AkiraVoid))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Andrei Canta ([@deiucanta](https://github.com/deiucanta))
 - Andrew Lyons ([@andrewnicols](https://github.com/andrewnicols))
 - ApsarasX ([@ApsarasX](https://github.com/ApsarasX))
@@ -1010,7 +1010,7 @@ Bad npm publish, please use 2.0.1
 - Pablo Cordon ([@pcordon](https://github.com/pcordon))
 - Pierre-Gilles Leymarie ([@Pierre-Gilles](https://github.com/Pierre-Gilles))
 - Qi Zhang ([@zzzhangqi](https://github.com/zzzhangqi))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Viktor Chernodub ([@chernodub](https://github.com/chernodub))
 - Zac A ([@sandypockets](https://github.com/sandypockets))
 - [@Dr-Electron](https://github.com/Dr-Electron)
@@ -1055,13 +1055,13 @@ Bad npm publish, please use 2.0.1
   - [#6925](https://github.com/ianaio/ianaio/pull/6925) refactor(theme-{classic,common}): refactor site/page/search metadata + apply className on html element ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#6895](https://github.com/ianaio/ianaio/pull/6895) refactor(theme-{classic,common}): split navbar into smaller components + cleanup + swizzle config ([@slorber](https://github.com/slorber))
-  - [#6930](https://github.com/ianaio/ianaio/pull/6930) refactor(theme-{classic,common}): refactor ColorModeToggle + useColorMode() hook ([@lex111](https://github.com/lex111))
+  - [#6930](https://github.com/ianaio/ianaio/pull/6930) refactor(theme-{classic,common}): refactor ColorModeToggle + useColorMode() hook ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio`
   - [#6993](https://github.com/ianaio/ianaio/pull/6993) fix(core): prevent useBaseUrl returning /base/base when on /base ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#6936](https://github.com/ianaio/ianaio/pull/6936) fix: remove semicolon from HTML output ([@lex111](https://github.com/lex111))
+  - [#6936](https://github.com/ianaio/ianaio/pull/6936) fix: remove semicolon from HTML output ([@cichy](https://github.com/cichy))
   - [#6849](https://github.com/ianaio/ianaio/pull/6849) fix(cli): write-heading-id should not generate colliding slugs when not overwriting ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
   - [#6983](https://github.com/ianaio/ianaio/pull/6983) fix(search): bump Infima, fix search issue due to broken CSS selector ([@slorber](https://github.com/slorber))
@@ -1085,15 +1085,15 @@ Bad npm publish, please use 2.0.1
 - `ianaio-plugin-content-docs`, `ianaio-utils-validation`, `ianaio`
   - [#6997](https://github.com/ianaio/ianaio/pull/6997) fix(validation): improve error messages for a few schemas ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#6971](https://github.com/ianaio/ianaio/pull/6971) refactor: improve a11y of dropdown menu ([@lex111](https://github.com/lex111))
-  - [#6987](https://github.com/ianaio/ianaio/pull/6987) refactor(theme-classic): cleanup of code blocks ([@lex111](https://github.com/lex111))
-  - [#6950](https://github.com/ianaio/ianaio/pull/6950) refactor(theme-classic): clean up CSS of doc cards ([@lex111](https://github.com/lex111))
-  - [#6994](https://github.com/ianaio/ianaio/pull/6994) refactor: better external link icon positioning ([@lex111](https://github.com/lex111))
+  - [#6971](https://github.com/ianaio/ianaio/pull/6971) refactor: improve a11y of dropdown menu ([@cichy](https://github.com/cichy))
+  - [#6987](https://github.com/ianaio/ianaio/pull/6987) refactor(theme-classic): cleanup of code blocks ([@cichy](https://github.com/cichy))
+  - [#6950](https://github.com/ianaio/ianaio/pull/6950) refactor(theme-classic): clean up CSS of doc cards ([@cichy](https://github.com/cichy))
+  - [#6994](https://github.com/ianaio/ianaio/pull/6994) refactor: better external link icon positioning ([@cichy](https://github.com/cichy))
   - [#6989](https://github.com/ianaio/ianaio/pull/6989) refactor: extract MDX components ([@slorber](https://github.com/slorber))
-  - [#6985](https://github.com/ianaio/ianaio/pull/6985) refactor(theme-classic): remove span wrappers from layout links ([@lex111](https://github.com/lex111))
+  - [#6985](https://github.com/ianaio/ianaio/pull/6985) refactor(theme-classic): remove span wrappers from layout links ([@cichy](https://github.com/cichy))
   - [#6986](https://github.com/ianaio/ianaio/pull/6986) fix(theme-classic): minor code copy button improvements ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#6964](https://github.com/ianaio/ianaio/pull/6964) refactor: replace text-based copy code button with icons ([@lex111](https://github.com/lex111))
-  - [#6932](https://github.com/ianaio/ianaio/pull/6932) refactor(theme-classic): little breadcrumbs improvements ([@lex111](https://github.com/lex111))
+  - [#6964](https://github.com/ianaio/ianaio/pull/6964) refactor: replace text-based copy code button with icons ([@cichy](https://github.com/cichy))
+  - [#6932](https://github.com/ianaio/ianaio/pull/6932) refactor(theme-classic): little breadcrumbs improvements ([@cichy](https://github.com/cichy))
   - [#6914](https://github.com/ianaio/ianaio/pull/6914) feat(theme-classic): set aria-expanded on expandable sidebar categories ([@pkowaluk](https://github.com/pkowaluk))
   - [#6844](https://github.com/ianaio/ianaio/pull/6844) refactor(theme-classic): split sidebar into smaller parts ([@slorber](https://github.com/slorber))
   - [#6846](https://github.com/ianaio/ianaio/pull/6846) refactor(theme-classic): consistently add span wrapper for layout links ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -1113,7 +1113,7 @@ Bad npm publish, please use 2.0.1
   - [#6925](https://github.com/ianaio/ianaio/pull/6925) refactor(theme-{classic,common}): refactor site/page/search metadata + apply className on html element ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#6895](https://github.com/ianaio/ianaio/pull/6895) refactor(theme-{classic,common}): split navbar into smaller components + cleanup + swizzle config ([@slorber](https://github.com/slorber))
-  - [#6930](https://github.com/ianaio/ianaio/pull/6930) refactor(theme-{classic,common}): refactor ColorModeToggle + useColorMode() hook ([@lex111](https://github.com/lex111))
+  - [#6930](https://github.com/ianaio/ianaio/pull/6930) refactor(theme-{classic,common}): refactor ColorModeToggle + useColorMode() hook ([@cichy](https://github.com/cichy))
   - [#6894](https://github.com/ianaio/ianaio/pull/6894) refactor(theme-classic): split theme footer into smaller components + swizzle config ([@slorber](https://github.com/slorber))
 - `ianaio-types`, `ianaio`
   - [#6929](https://github.com/ianaio/ianaio/pull/6929) refactor(core): minor routes type improvement ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -1221,7 +1221,7 @@ Bad npm publish, please use 2.0.1
 
 - Afonso Jorge Ramos ([@afonsojramos](https://github.com/afonsojramos))
 - Alessandro Festa ([@alefesta](https://github.com/alefesta))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Alois Klink ([@aloisklink](https://github.com/aloisklink))
 - Ariful Alam ([@arifszn](https://github.com/arifszn))
 - Begula ([@vedantmgoyal2009](https://github.com/vedantmgoyal2009))
@@ -1239,7 +1239,7 @@ Bad npm publish, please use 2.0.1
 - Pawel Kowaluk ([@pkowaluk](https://github.com/pkowaluk))
 - Roberto Vidal ([@jrvidal](https://github.com/jrvidal))
 - Sam Gutentag ([@samgutentag](https://github.com/samgutentag))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tsz W. TAM ([@rccttwd](https://github.com/rccttwd))
 - WonChul Heo ([@heowc](https://github.com/heowc))
 - Yorkie Liu ([@yorkie](https://github.com/yorkie))
@@ -1320,7 +1320,7 @@ Bad npm publish, please use 2.0.1
 - Dmitry Vinnik ([@dmitryvinn](https://github.com/dmitryvinn))
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Nayan Patel ([@PatelN123](https://github.com/PatelN123))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Vaibhav Shinde ([@vaibhavshn](https://github.com/vaibhavshn))
 
 ## 2.0.0-beta.16 (2022-02-25)
@@ -1333,9 +1333,9 @@ Bad npm publish, please use 2.0.1
   - [#6750](https://github.com/ianaio/ianaio/pull/6750) feat(create): new --package-manager option; interactive package manager selection ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6610](https://github.com/ianaio/ianaio/pull/6610) feat(create): allow specifying a git clone strategy ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#6723](https://github.com/ianaio/ianaio/pull/6723) feat: sync color mode between browser tabs ([@lex111](https://github.com/lex111))
+  - [#6723](https://github.com/ianaio/ianaio/pull/6723) feat: sync color mode between browser tabs ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#6692](https://github.com/ianaio/ianaio/pull/6692) feat(search-algolia): allow disabling search page and configuring path ([@lex111](https://github.com/lex111))
+  - [#6692](https://github.com/ianaio/ianaio/pull/6692) feat(search-algolia): allow disabling search page and configuring path ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#6517](https://github.com/ianaio/ianaio/pull/6517) feat(docs,theme-classic): docs breadcrumbs ([@jodyheavener](https://github.com/jodyheavener))
   - [#6519](https://github.com/ianaio/ianaio/pull/6519) feat(content-docs): sidebar item type "html" for rendering pure markup ([@jodyheavener](https://github.com/jodyheavener))
@@ -1367,7 +1367,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-theme-common`
   - [#6758](https://github.com/ianaio/ianaio/pull/6758) fix(theme-common): isSamePath should be case-insensitive ([@slorber](https://github.com/slorber))
   - [#6748](https://github.com/ianaio/ianaio/pull/6748) fix(theme-classic): temporarily disable toc heading autoscrolling ([@slorber](https://github.com/slorber))
-  - [#6696](https://github.com/ianaio/ianaio/pull/6696) fix(theme-common): do not run useLocationChange when hot reloading ([@lex111](https://github.com/lex111))
+  - [#6696](https://github.com/ianaio/ianaio/pull/6696) fix(theme-common): do not run useLocationChange when hot reloading ([@cichy](https://github.com/cichy))
   - [#6490](https://github.com/ianaio/ianaio/pull/6490) fix(theme-classic): do not switch color modes when printing ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-module-type-aliases`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#6749](https://github.com/ianaio/ianaio/pull/6749) fix(theme-classic): fix breadcrumb home link bug with new useHomePageRoute() hook ([@slorber](https://github.com/slorber))
@@ -1383,10 +1383,10 @@ Bad npm publish, please use 2.0.1
   - [#6500](https://github.com/ianaio/ianaio/pull/6500) fix(cli): allow passing a list of file names to write-heading-ids ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6496](https://github.com/ianaio/ianaio/pull/6496) fix(core): configValidation should allow inline theme functions ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#6652](https://github.com/ianaio/ianaio/pull/6652) fix(theme-classic): minor BTT button fixes ([@lex111](https://github.com/lex111))
+  - [#6652](https://github.com/ianaio/ianaio/pull/6652) fix(theme-classic): minor BTT button fixes ([@cichy](https://github.com/cichy))
   - [#6612](https://github.com/ianaio/ianaio/pull/6612) fix(theme-classic): make Prism additional languages properly server-side rendered ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6599](https://github.com/ianaio/ianaio/pull/6599) fix(theme-classic): add docSidebar as allowed item in dropdown ([@homotechsual](https://github.com/homotechsual))
-  - [#6531](https://github.com/ianaio/ianaio/pull/6531) fix(theme-classic): highlight active collapsible doc category properly ([@lex111](https://github.com/lex111))
+  - [#6531](https://github.com/ianaio/ianaio/pull/6531) fix(theme-classic): highlight active collapsible doc category properly ([@cichy](https://github.com/cichy))
   - [#6515](https://github.com/ianaio/ianaio/pull/6515) fix(theme-classic): add key prop for SimpleLinks map ([@kgajera](https://github.com/kgajera))
   - [#6508](https://github.com/ianaio/ianaio/pull/6508) fix(theme-classic): apply width/height for footer logos without href ([@kgajera](https://github.com/kgajera))
 - `ianaio-utils`
@@ -1401,7 +1401,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-common`, `ianaio-theme-search-algolia`, `ianaio-utils`, `ianaio`, `lqip-loader`
   - [#6755](https://github.com/ianaio/ianaio/pull/6755) refactor: unify error handling behavior ([@Josh-Cena](https://github.com/Josh-Cena))
 - `create-ianaio`
-  - [#6679](https://github.com/ianaio/ianaio/pull/6679) feat(create): better detection of package manager preference ([@lex111](https://github.com/lex111))
+  - [#6679](https://github.com/ianaio/ianaio/pull/6679) feat(create): better detection of package manager preference ([@cichy](https://github.com/cichy))
   - [#6481](https://github.com/ianaio/ianaio/pull/6481) refactor(init): promote good practices; use site alias ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-content-docs`
   - [#6745](https://github.com/ianaio/ianaio/pull/6745) fix(content-docs): improve sidebar shorthand normalization error message ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -1419,7 +1419,7 @@ Bad npm publish, please use 2.0.1
 - `create-ianaio`, `ianaio-theme-classic`
   - [#6668](https://github.com/ianaio/ianaio/pull/6668) refactor: recommend using data-theme without html element selector ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#6622](https://github.com/ianaio/ianaio/pull/6622) refactor(theme-classic): clean up CSS of doc sidebar item ([@lex111](https://github.com/lex111))
+  - [#6622](https://github.com/ianaio/ianaio/pull/6622) refactor(theme-classic): clean up CSS of doc sidebar item ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#6644](https://github.com/ianaio/ianaio/pull/6644) fix(core): forward ref to Link's anchor element ([@koistya](https://github.com/koistya))
   - [#6646](https://github.com/ianaio/ianaio/pull/6646) fix(cli): make ianaio clear also remove .yarn/.cache folder ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -1448,7 +1448,7 @@ Bad npm publish, please use 2.0.1
   - [#6721](https://github.com/ianaio/ianaio/pull/6721) docs: add Butterfly Documentation to showcase ([@CodeDoctorDE](https://github.com/CodeDoctorDE))
   - [#6710](https://github.com/ianaio/ianaio/pull/6710) docs(website): Add techharvesting to showcase ([@NaseelNiyas](https://github.com/NaseelNiyas))
   - [#6708](https://github.com/ianaio/ianaio/pull/6708) docs: add doc for generated-index keyword/image metadata ([@slorber](https://github.com/slorber))
-  - [#6709](https://github.com/ianaio/ianaio/pull/6709) docs(website): fix video responsiveness ([@lex111](https://github.com/lex111))
+  - [#6709](https://github.com/ianaio/ianaio/pull/6709) docs(website): fix video responsiveness ([@cichy](https://github.com/cichy))
   - [#6687](https://github.com/ianaio/ianaio/pull/6687) docs: add deep dive video for Ianaio ([@dmitryvinn](https://github.com/dmitryvinn))
   - [#6704](https://github.com/ianaio/ianaio/pull/6704) docs(website): search doc typo searchParameters ([@slorber](https://github.com/slorber))
   - [#6682](https://github.com/ianaio/ianaio/pull/6682) docs: add redux-cool site to showcase ([@Ruben-Arushanyan](https://github.com/Ruben-Arushanyan))
@@ -1458,13 +1458,13 @@ Bad npm publish, please use 2.0.1
   - [#6673](https://github.com/ianaio/ianaio/pull/6673) docs: mention about blog date in front matter ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6672](https://github.com/ianaio/ianaio/pull/6672) refactor(website): extract homepage data from UI; feature text updates ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6670](https://github.com/ianaio/ianaio/pull/6670) docs: add CyberDrain Improved Partner Portal (CIPP) to showcase ([@homotechsual](https://github.com/homotechsual))
-  - [#6667](https://github.com/ianaio/ianaio/pull/6667) fix(website): make YT iframe responsive ([@lex111](https://github.com/lex111))
+  - [#6667](https://github.com/ianaio/ianaio/pull/6667) fix(website): make YT iframe responsive ([@cichy](https://github.com/cichy))
   - [#6659](https://github.com/ianaio/ianaio/pull/6659) docs: add eli5 video to home page ([@dmitryvinn-fb](https://github.com/dmitryvinn-fb))
   - [#6633](https://github.com/ianaio/ianaio/pull/6633) docs: improve wording of using Markdown file paths ([@BigDataWriter](https://github.com/BigDataWriter))
   - [#6624](https://github.com/ianaio/ianaio/pull/6624) docs: add Resoto & Some Engineering Inc. to showcase ([@TheCatLady](https://github.com/TheCatLady))
   - [#6611](https://github.com/ianaio/ianaio/pull/6611) docs: fix bad anchor link syntax ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6591](https://github.com/ianaio/ianaio/pull/6591) docs: improve GitHub Actions example jobs ([@ebarojas](https://github.com/ebarojas))
-  - [#6426](https://github.com/ianaio/ianaio/pull/6426) feat(website): add Tweets section ([@yangshun](https://github.com/yangshun))
+  - [#6426](https://github.com/ianaio/ianaio/pull/6426) feat(website): add Tweets section ([@cichyboom](https://github.com/cichyboom))
   - [#6532](https://github.com/ianaio/ianaio/pull/6532) docs: add SAP Cloud SDK to showcase ([@artemkovalyov](https://github.com/artemkovalyov))
   - [#6513](https://github.com/ianaio/ianaio/pull/6513) docs: clean up CONTRIBUTING ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6501](https://github.com/ianaio/ianaio/pull/6501) docs: add Cloudflare pages deployment guide ([@apidev234](https://github.com/apidev234))
@@ -1537,7 +1537,7 @@ Bad npm publish, please use 2.0.1
 
 #### Committers: 38
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Artem Kovalov ([@artemkovalyov](https://github.com/artemkovalyov))
 - Balthasar Hofer ([@lebalz](https://github.com/lebalz))
 - Clement Demonchy ([@cdemonchy-pro](https://github.com/cdemonchy-pro))
@@ -1565,9 +1565,9 @@ Bad npm publish, please use 2.0.1
 - Nick Schonning ([@nschonni](https://github.com/nschonni))
 - Pranab Das ([@pranabdas](https://github.com/pranabdas))
 - Ruben Arushanyan ([@Ruben-Arushanyan](https://github.com/Ruben-Arushanyan))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tamal Web ([@tamalweb](https://github.com/tamalweb))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@BigDataWriter](https://github.com/BigDataWriter)
 - [@CookieJarApps](https://github.com/CookieJarApps)
 - [@TheCatLady](https://github.com/TheCatLady)
@@ -1876,7 +1876,7 @@ Bad npm publish, please use 2.0.1
 - Rishi Raj Jain ([@rishi-raj-jain](https://github.com/rishi-raj-jain))
 - Sanjay Soundarajan ([@megasanjay](https://github.com/megasanjay))
 - Shun Wakatsuki ([@shwaka](https://github.com/shwaka))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tapan Chudasama ([@tapanchudasama](https://github.com/tapanchudasama))
 - Vaibhav Shinde ([@vaibhavshn](https://github.com/vaibhavshn))
 - Vandré Leal ([@vandreleal](https://github.com/vandreleal))
@@ -1910,7 +1910,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-migrate`
   - [#6146](https://github.com/ianaio/ianaio/pull/6146) fix(migrate): do not modify non-MD files ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#6128](https://github.com/ianaio/ianaio/pull/6128) fix: do not use aria-hidden in heading anchor links ([@lex111](https://github.com/lex111))
+  - [#6128](https://github.com/ianaio/ianaio/pull/6128) fix: do not use aria-hidden in heading anchor links ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
   - [#6124](https://github.com/ianaio/ianaio/pull/6124) fix(content-docs): restore behavior when pagination front matter is null ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#6085](https://github.com/ianaio/ianaio/pull/6085) fix(content-docs): getMainDocId should return doc with both versioned or unversioned id ([@slorber](https://github.com/slorber))
@@ -1926,7 +1926,7 @@ Bad npm publish, please use 2.0.1
 - `ianaio-theme-classic`
   - [#6053](https://github.com/ianaio/ianaio/pull/6053) feat(theme-classic): allow stylizing doc paginator arrows ([@noomorph](https://github.com/noomorph))
   - [#6121](https://github.com/ianaio/ianaio/pull/6121) fix(theme-classic): add outline to focused code blocks ([@christopherklint97](https://github.com/christopherklint97))
-  - [#6118](https://github.com/ianaio/ianaio/pull/6118) refactor: remove some useless code ([@lex111](https://github.com/lex111))
+  - [#6118](https://github.com/ianaio/ianaio/pull/6118) refactor: remove some useless code ([@cichy](https://github.com/cichy))
 - `create-ianaio`, `ianaio-logger`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-theme-translations`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`
   - [#5994](https://github.com/ianaio/ianaio/pull/5994) refactor: unify log format with new logger utility ([@Josh-Cena](https://github.com/Josh-Cena))
 - `create-ianaio`
@@ -1940,7 +1940,7 @@ Bad npm publish, please use 2.0.1
 - [#6138](https://github.com/ianaio/ianaio/pull/6138) docs: add Smart Docs to showcase ([@wowtvds](https://github.com/wowtvds))
 - [#6137](https://github.com/ianaio/ianaio/pull/6137) docs: add ToolJet to showcase ([@withshubh](https://github.com/withshubh))
 - [#6141](https://github.com/ianaio/ianaio/pull/6141) docs: add WoodpeckerCI to showcase ([@6543](https://github.com/6543))
-- [#6135](https://github.com/ianaio/ianaio/pull/6135) docs: mention admonition quirks with Prettier ([@yangshun](https://github.com/yangshun))
+- [#6135](https://github.com/ianaio/ianaio/pull/6135) docs: mention admonition quirks with Prettier ([@cichyboom](https://github.com/cichyboom))
 - [#6131](https://github.com/ianaio/ianaio/pull/6131) docs: elaborate on "docs-only" and "blog-only" ([@himanshu007-creator](https://github.com/himanshu007-creator))
 - [#6134](https://github.com/ianaio/ianaio/pull/6134) docs: update link to init template README.md ([@cmpadden](https://github.com/cmpadden))
 - [#6130](https://github.com/ianaio/ianaio/pull/6130) docs: refactor docs sidebar doc ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -1968,7 +1968,7 @@ Bad npm publish, please use 2.0.1
 #### Committers: 17
 
 - 6543 ([@6543](https://github.com/6543))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Christopher Klint ([@christopherklint97](https://github.com/christopherklint97))
 - Harsh Mishra ([@HarshCasper](https://github.com/HarshCasper))
 - Himanshu ([@himanshu007-creator](https://github.com/himanshu007-creator))
@@ -1976,9 +1976,9 @@ Bad npm publish, please use 2.0.1
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Kristoffer K. ([@merceyz](https://github.com/merceyz))
 - Shubhendra Singh Chauhan ([@withshubh](https://github.com/withshubh))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Wout Vandesompele ([@wowtvds](https://github.com/wowtvds))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - Yaroslav Serhieiev ([@noomorph](https://github.com/noomorph))
 - Ziv ([@wewoor](https://github.com/wewoor))
 - [@Drylozu](https://github.com/Drylozu)
@@ -2003,7 +2003,7 @@ Bad npm publish, use beta.13 instead
 #### Committers: 2
 
 - Pranab Das ([@pranabdas](https://github.com/pranabdas))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 
 ## 2.0.0-beta.10 (2021-12-09)
 
@@ -2027,9 +2027,9 @@ Bad npm publish, use beta.13 instead
 - `ianaio-plugin-content-blog`
   - [#6061](https://github.com/ianaio/ianaio/pull/6061) fix(content-blog): make post ID unique ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-migrate`, `ianaio-plugin-content-docs`
-  - [#6065](https://github.com/ianaio/ianaio/pull/6065) refactor: remove deprecated docs homePageId option ([@lex111](https://github.com/lex111))
+  - [#6065](https://github.com/ianaio/ianaio/pull/6065) refactor: remove deprecated docs homePageId option ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#6056](https://github.com/ianaio/ianaio/pull/6056) refactor: remove unused metadata field for homepage ([@lex111](https://github.com/lex111))
+  - [#6056](https://github.com/ianaio/ianaio/pull/6056) refactor: remove unused metadata field for homepage ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-translations`, `ianaio-utils`, `ianaio`
   - [#5830](https://github.com/ianaio/ianaio/pull/5830) feat(content-docs): sidebar category linking to document or auto-generated index page ([@slorber](https://github.com/slorber))
 - `ianaio-module-type-aliases`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-preset-classic`
@@ -2051,7 +2051,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio`
   - [#5983](https://github.com/ianaio/ianaio/pull/5983) fix(core): do not apply theme-init alias to user component ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5798](https://github.com/ianaio/ianaio/pull/5798) fix(cli): update notifier should be shown if current is less than latest ([@semoal](https://github.com/semoal))
-  - [#5864](https://github.com/ianaio/ianaio/pull/5864) fix: respect base URL when serving content by webpack dev server ([@lex111](https://github.com/lex111))
+  - [#5864](https://github.com/ianaio/ianaio/pull/5864) fix: respect base URL when serving content by webpack dev server ([@cichy](https://github.com/cichy))
 - `ianaio-module-type-aliases`
   - [#5945](https://github.com/ianaio/ianaio/pull/5945) fix(module-type-aliases): add svg declaration ([@MisterFISHUP](https://github.com/MisterFISHUP))
 - `ianaio-theme-classic`
@@ -2064,22 +2064,22 @@ Bad npm publish, use beta.13 instead
   - [#6000](https://github.com/ianaio/ianaio/pull/6000) fix(theme-classic): make hash link in heading not selectable ([@JararvisQ](https://github.com/JararvisQ))
   - [#5944](https://github.com/ianaio/ianaio/pull/5944) fix: translate all remaining english sentence in French ([@StanKocken](https://github.com/StanKocken))
 - `ianaio-theme-classic`, `ianaio`
-  - [#6048](https://github.com/ianaio/ianaio/pull/6048) refactor: capitalize locales when creating i18n config ([@lex111](https://github.com/lex111))
+  - [#6048](https://github.com/ianaio/ianaio/pull/6048) refactor: capitalize locales when creating i18n config ([@cichy](https://github.com/cichy))
 - `ianaio-theme-translations`
   - [#5976](https://github.com/ianaio/ianaio/pull/5976) feat(theme-translations): add extra Korean translation, fix typo ([@revi](https://github.com/revi))
   - [#6060](https://github.com/ianaio/ianaio/pull/6060) chore(theme-translations): complete Chinese translations ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-migrate`, `ianaio-plugin-content-docs`
-  - [#6065](https://github.com/ianaio/ianaio/pull/6065) refactor: remove deprecated docs homePageId option ([@lex111](https://github.com/lex111))
+  - [#6065](https://github.com/ianaio/ianaio/pull/6065) refactor: remove deprecated docs homePageId option ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#6056](https://github.com/ianaio/ianaio/pull/6056) refactor: remove unused metadata field for homepage ([@lex111](https://github.com/lex111))
+  - [#6056](https://github.com/ianaio/ianaio/pull/6056) refactor: remove unused metadata field for homepage ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#6049](https://github.com/ianaio/ianaio/pull/6049) refactor: simplify Toggle component ([@lex111](https://github.com/lex111))
+  - [#6049](https://github.com/ianaio/ianaio/pull/6049) refactor: simplify Toggle component ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-theme-translations`, `ianaio-types`
   - [#5981](https://github.com/ianaio/ianaio/pull/5981) refactor: minor ESLint improvements ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-pwa`
   - [#5995](https://github.com/ianaio/ianaio/pull/5995) chore(plugin-pwa): change core-js version in package.json to v3 ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-pwa`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-theme-translations`, `ianaio-utils`
-  - [#5849](https://github.com/ianaio/ianaio/pull/5849) refactor: define own translations in other themes ([@lex111](https://github.com/lex111))
+  - [#5849](https://github.com/ianaio/ianaio/pull/5849) refactor: define own translations in other themes ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-types`
   - [#5959](https://github.com/ianaio/ianaio/pull/5959) refactor(types): correct HtmlTags types ([@armano2](https://github.com/armano2))
 - `ianaio`
@@ -2105,14 +2105,14 @@ Bad npm publish, use beta.13 instead
   - [#5845](https://github.com/ianaio/ianaio/pull/5845) docs(admin): update repo testing instructions to reflect v2 ([@wpyoga](https://github.com/wpyoga))
   - [#6019](https://github.com/ianaio/ianaio/pull/6019) docs: update Netlify url config option in deployment instructions ([@rsapkf](https://github.com/rsapkf))
   - [#6015](https://github.com/ianaio/ianaio/pull/6015) docs: add Tremor website to showcase page ([@skoech](https://github.com/skoech))
-  - [#5997](https://github.com/ianaio/ianaio/pull/5997) refactor(website): various fixes and improvements on Showcase page ([@lex111](https://github.com/lex111))
+  - [#5997](https://github.com/ianaio/ianaio/pull/5997) refactor(website): various fixes and improvements on Showcase page ([@cichy](https://github.com/cichy))
   - [#6008](https://github.com/ianaio/ianaio/pull/6008) docs: improve algolia integration instructions ([@shafy](https://github.com/shafy))
   - [#6006](https://github.com/ianaio/ianaio/pull/6006) docs: improve explanation for url config in GH Pages ([@Martinsos](https://github.com/Martinsos))
   - [#6001](https://github.com/ianaio/ianaio/pull/6001) docs: add Dime.Scheduler SDK to showcase ([@hbulens](https://github.com/hbulens))
   - [#5984](https://github.com/ianaio/ianaio/pull/5984) docs: add PREFS website to showcase ([@Patitotective](https://github.com/Patitotective))
   - [#5967](https://github.com/ianaio/ianaio/pull/5967) docs(website): Add docsearch migration blog post ([@slorber](https://github.com/slorber))
   - [#5968](https://github.com/ianaio/ianaio/pull/5968) refactor(website): shadow on showcase toggle ([@dsmmcken](https://github.com/dsmmcken))
-  - [#5979](https://github.com/ianaio/ianaio/pull/5979) docs: update links to default translations dir ([@lex111](https://github.com/lex111))
+  - [#5979](https://github.com/ianaio/ianaio/pull/5979) docs: update links to default translations dir ([@cichy](https://github.com/cichy))
   - [#5969](https://github.com/ianaio/ianaio/pull/5969) refactor(website): polish on Showcase page ([@slorber](https://github.com/slorber))
   - [#5966](https://github.com/ianaio/ianaio/pull/5966) docs: add Darklang to showcase ([@pbiggar](https://github.com/pbiggar))
   - [#5970](https://github.com/ianaio/ianaio/pull/5970) docs: add Remirror to showcase ([@ronnyroeller](https://github.com/ronnyroeller))
@@ -2139,7 +2139,7 @@ Bad npm publish, use beta.13 instead
   - [#5759](https://github.com/ianaio/ianaio/pull/5759) docs: create SEO documentation page ([@cerkiewny](https://github.com/cerkiewny))
   - [#5869](https://github.com/ianaio/ianaio/pull/5869) docs: remove duplicated appId property ([@juzhiyuan](https://github.com/juzhiyuan))
   - [#5868](https://github.com/ianaio/ianaio/pull/5868) docs: fix a typo in using-themes.md ([@fishmandev](https://github.com/fishmandev))
-  - [#5862](https://github.com/ianaio/ianaio/pull/5862) misc: show only latest archive alpha/beta versions dropdown ([@lex111](https://github.com/lex111))
+  - [#5862](https://github.com/ianaio/ianaio/pull/5862) misc: show only latest archive alpha/beta versions dropdown ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#5742](https://github.com/ianaio/ianaio/pull/5742) feat(website): redesign of showcase page ([@chimailo](https://github.com/chimailo))
 
@@ -2167,7 +2167,7 @@ Bad npm publish, use beta.13 instead
 - `create-ianaio`, `ianaio`
   - [#5958](https://github.com/ianaio/ianaio/pull/5958) chore: update @svgr/webpack to version 6 ([@ludofischer](https://github.com/ludofischer))
 - `ianaio`
-  - [#5998](https://github.com/ianaio/ianaio/pull/5998) chore: upgrade webpack-dev-server to v4.5.0 ([@lex111](https://github.com/lex111))
+  - [#5998](https://github.com/ianaio/ianaio/pull/5998) chore: upgrade webpack-dev-server to v4.5.0 ([@cichy](https://github.com/cichy))
   - [#5965](https://github.com/ianaio/ianaio/pull/5965) fix(core): apply staticDirectories to base webpack config ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-mdx-loader`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-ideal-image`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-utils-common`, `ianaio-utils`, `ianaio`
   - [#5985](https://github.com/ianaio/ianaio/pull/5985) chore: cleanup dependency declaration in package.json ([@armano2](https://github.com/armano2))
@@ -2198,7 +2198,7 @@ Bad npm publish, use beta.13 instead
 #### Committers: 48
 
 - Afshin Mehrabani ([@afshinm](https://github.com/afshinm))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Armano ([@armano2](https://github.com/armano2))
 - Brennan Kinney ([@polarathene](https://github.com/polarathene))
 - Can Olcer ([@shafy](https://github.com/shafy))
@@ -2237,7 +2237,7 @@ Bad npm publish, use beta.13 instead
 - Stan Kocken ([@StanKocken](https://github.com/StanKocken))
 - Swalah Amani ([@swalahamani](https://github.com/swalahamani))
 - Swapnil M Mane ([@swapnilmmane](https://github.com/swapnilmmane))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Varun Sivapalan ([@sivapalan](https://github.com/sivapalan))
 - William Poetra Yoga ([@wpyoga](https://github.com/wpyoga))
 - Yongmin Hong ([@revi](https://github.com/revi))
@@ -2283,7 +2283,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio-preset-classic`
   - [#5831](https://github.com/ianaio/ianaio/pull/5831) feat(preset-classic): guard against unknown keys in options ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio`
-  - [#5815](https://github.com/ianaio/ianaio/pull/5815) refactor: some improvements for webpack-dev-server ([@lex111](https://github.com/lex111))
+  - [#5815](https://github.com/ianaio/ianaio/pull/5815) refactor: some improvements for webpack-dev-server ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-utils`, `ianaio`
   - [#5788](https://github.com/ianaio/ianaio/pull/5788) refactor: fix a few type inconsistencies ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
@@ -2305,7 +2305,7 @@ Bad npm publish, use beta.13 instead
   - [#5797](https://github.com/ianaio/ianaio/pull/5797) docs: use "npx create-ianaio" for init ([@slorber](https://github.com/slorber))
   - [#5771](https://github.com/ianaio/ianaio/pull/5771) docs: Minor update to grammar in plugins overview page ([@robbieaverill](https://github.com/robbieaverill))
   - [#5774](https://github.com/ianaio/ianaio/pull/5774) docs: update ssrTemplate ([@juzhiyuan](https://github.com/juzhiyuan))
-  - [#5784](https://github.com/ianaio/ianaio/pull/5784) docs: fix link for apply to DocSearch program ([@lex111](https://github.com/lex111))
+  - [#5784](https://github.com/ianaio/ianaio/pull/5784) docs: fix link for apply to DocSearch program ([@cichy](https://github.com/cichy))
 - `create-ianaio`
   - [#5792](https://github.com/ianaio/ianaio/pull/5792) docs: fix typo ([@wingclover](https://github.com/wingclover))
 
@@ -2313,7 +2313,7 @@ Bad npm publish, use beta.13 instead
 
 - Other
   - [#5842](https://github.com/ianaio/ianaio/pull/5842) misc: add "name" field for root package.json ([@wpyoga](https://github.com/wpyoga))
-  - [#5836](https://github.com/ianaio/ianaio/pull/5836) chore: switch to GitHub issue forms ([@lex111](https://github.com/lex111))
+  - [#5836](https://github.com/ianaio/ianaio/pull/5836) chore: switch to GitHub issue forms ([@cichy](https://github.com/cichy))
   - [#5834](https://github.com/ianaio/ianaio/pull/5834) chore(issue templ): add "self service" section in templates ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5833](https://github.com/ianaio/ianaio/pull/5833) chore(workflow): remove v2 prefix from titles ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5697](https://github.com/ianaio/ianaio/pull/5697) chore(workflow): add cache to workflows using actions/setup-node ([@oscard0m](https://github.com/oscard0m))
@@ -2331,7 +2331,7 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 18
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Avi Vahl ([@AviVahl](https://github.com/AviVahl))
 - Devtato ([@cerkiewny](https://github.com/cerkiewny))
 - Dmitriy Fishman ([@fishmandev](https://github.com/fishmandev))
@@ -2343,7 +2343,7 @@ Bad npm publish, use beta.13 instead
 - Oscar Dominguez ([@oscard0m](https://github.com/oscard0m))
 - Robbie Averill ([@robbieaverill](https://github.com/robbieaverill))
 - Sergio Moreno ([@semoal](https://github.com/semoal))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Varun Sivapalan ([@sivapalan](https://github.com/sivapalan))
 - Vladimir Tasic ([@utajum](https://github.com/utajum))
 - William Poetra Yoga ([@wpyoga](https://github.com/wpyoga))
@@ -2372,7 +2372,7 @@ Bad npm publish, use beta.13 instead
   - [#5760](https://github.com/ianaio/ianaio/pull/5760) fix(ideal-image): fix IdealImage in dev not handling ES import images properly ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
   - [#5732](https://github.com/ianaio/ianaio/pull/5732) fix(theme-classic): allow tabs with number as value ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#5721](https://github.com/ianaio/ianaio/pull/5721) fix: handle rubber band scrolling in hideable navbar ([@lex111](https://github.com/lex111))
+  - [#5721](https://github.com/ianaio/ianaio/pull/5721) fix: handle rubber band scrolling in hideable navbar ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
   - [#5751](https://github.com/ianaio/ianaio/pull/5751) fix: stable callbacks in useSearchQuery + refactor ([@slorber](https://github.com/slorber))
 
@@ -2404,10 +2404,10 @@ Bad npm publish, use beta.13 instead
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-search-algolia`, `ianaio`
   - [#5714](https://github.com/ianaio/ianaio/pull/5714) chore: Enable ESLint rules of hooks + fix new lint errors ([@slorber](https://github.com/slorber))
 - Other
-  - [#5722](https://github.com/ianaio/ianaio/pull/5722) chore: fix gen script to support TS template ([@lex111](https://github.com/lex111))
+  - [#5722](https://github.com/ianaio/ianaio/pull/5722) chore: fix gen script to support TS template ([@cichy](https://github.com/cichy))
   - [#5730](https://github.com/ianaio/ianaio/pull/5730) chore: fix typos / casing in issue template ([@johnnyreilly](https://github.com/johnnyreilly))
-  - [#5720](https://github.com/ianaio/ianaio/pull/5720) chore: regenerate beta.7 examples ([@lex111](https://github.com/lex111))
-  - [#5719](https://github.com/ianaio/ianaio/pull/5719) chore: remove beta.5 docs ([@lex111](https://github.com/lex111))
+  - [#5720](https://github.com/ianaio/ianaio/pull/5720) chore: regenerate beta.7 examples ([@cichy](https://github.com/cichy))
+  - [#5719](https://github.com/ianaio/ianaio/pull/5719) chore: remove beta.5 docs ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
@@ -2416,7 +2416,7 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 13
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Andrew Taft ([@ataft](https://github.com/ataft))
 - Caner Canbaz ([@canercanbaz](https://github.com/canercanbaz))
 - Dimi Mikadze ([@DimiMikadze](https://github.com/DimiMikadze))
@@ -2425,7 +2425,7 @@ Bad npm publish, use beta.13 instead
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Nathaniel Furniss ([@nlfurniss](https://github.com/nlfurniss))
 - Ngô Quốc Đạt ([@datlechin](https://github.com/datlechin))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Thanasis Katsadas ([@thanasis00](https://github.com/thanasis00))
 - Xuqian ([@zxuqian](https://github.com/zxuqian))
 - [@philipp985](https://github.com/philipp985)
@@ -2435,7 +2435,7 @@ Bad npm publish, use beta.13 instead
 #### :rocket: New Feature
 
 - `ianaio-module-type-aliases`, `ianaio`
-  - [#5683](https://github.com/ianaio/ianaio/pull/5683) feat: make Translate children optional ([@lex111](https://github.com/lex111))
+  - [#5683](https://github.com/ianaio/ianaio/pull/5683) feat: make Translate children optional ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#5674](https://github.com/ianaio/ianaio/pull/5674) polish(theme-classic): guard against potential definition mistakes in Tabs ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5618](https://github.com/ianaio/ianaio/pull/5618) feat: maintain page position for clicked grouped tabs ([@Shrugsy](https://github.com/Shrugsy))
@@ -2452,7 +2452,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio`
   - [#5498](https://github.com/ianaio/ianaio/pull/5498) feat: make Webpack url-loader limit configurable (env variable) ([@stnor](https://github.com/stnor))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`
-  - [#5545](https://github.com/ianaio/ianaio/pull/5545) feat: make tags route path configurable ([@lex111](https://github.com/lex111))
+  - [#5545](https://github.com/ianaio/ianaio/pull/5545) feat: make tags route path configurable ([@cichy](https://github.com/cichy))
 
 #### :boom: Breaking Change
 
@@ -2464,58 +2464,58 @@ Bad npm publish, use beta.13 instead
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-types`, `ianaio-utils-validation`
   - [#5578](https://github.com/ianaio/ianaio/pull/5578) feat(v2): allow specifying TOC max depth (themeConfig + frontMatter) ([@erickzhao](https://github.com/erickzhao))
 - `ianaio-theme-classic`
-  - [#5592](https://github.com/ianaio/ianaio/pull/5592) refactor: use CSS Modules for toggle styles ([@lex111](https://github.com/lex111))
+  - [#5592](https://github.com/ianaio/ianaio/pull/5592) refactor: use CSS Modules for toggle styles ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-common`
-  - [#5694](https://github.com/ianaio/ianaio/pull/5694) fix: proper collapsing of long element ([@lex111](https://github.com/lex111))
+  - [#5694](https://github.com/ianaio/ianaio/pull/5694) fix: proper collapsing of long element ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#5684](https://github.com/ianaio/ianaio/pull/5684) fix: use realpath for site dir to resolve symlink ([@lex111](https://github.com/lex111))
-  - [#5645](https://github.com/ianaio/ianaio/pull/5645) fix: place root route at the end ([@lex111](https://github.com/lex111))
+  - [#5684](https://github.com/ianaio/ianaio/pull/5684) fix: use realpath for site dir to resolve symlink ([@cichy](https://github.com/cichy))
+  - [#5645](https://github.com/ianaio/ianaio/pull/5645) fix: place root route at the end ([@cichy](https://github.com/cichy))
   - [#5629](https://github.com/ianaio/ianaio/pull/5629) fix: text/link hydration bug ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#5699](https://github.com/ianaio/ianaio/pull/5699) fix: apply announcement bar class if only needed ([@lex111](https://github.com/lex111))
+  - [#5699](https://github.com/ianaio/ianaio/pull/5699) fix: apply announcement bar class if only needed ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#5667](https://github.com/ianaio/ianaio/pull/5667) fix: expand tag column on truncated post ([@lex111](https://github.com/lex111))
-  - [#5668](https://github.com/ianaio/ianaio/pull/5668) fix: preserve line breaks when copy code in Firefox ([@lex111](https://github.com/lex111))
+  - [#5667](https://github.com/ianaio/ianaio/pull/5667) fix: expand tag column on truncated post ([@cichy](https://github.com/cichy))
+  - [#5668](https://github.com/ianaio/ianaio/pull/5668) fix: preserve line breaks when copy code in Firefox ([@cichy](https://github.com/cichy))
   - [#5647](https://github.com/ianaio/ianaio/pull/5647) feat(theme-classic): make first tab the default tab ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5652](https://github.com/ianaio/ianaio/pull/5652) fix: restore duplicate Tabs rendering to fix hydration issue ([@slorber](https://github.com/slorber))
   - [#5643](https://github.com/ianaio/ianaio/pull/5643) fix(theme-classic): reset default style for task lists ([@EkaterinaMozheiko](https://github.com/EkaterinaMozheiko))
-  - [#5571](https://github.com/ianaio/ianaio/pull/5571) fix: highlight active item in recent post list ([@lex111](https://github.com/lex111))
-  - [#5481](https://github.com/ianaio/ianaio/pull/5481) fix: use heading itself as anchor for better crawling ([@lex111](https://github.com/lex111))
+  - [#5571](https://github.com/ianaio/ianaio/pull/5571) fix: highlight active item in recent post list ([@cichy](https://github.com/cichy))
+  - [#5481](https://github.com/ianaio/ianaio/pull/5481) fix: use heading itself as anchor for better crawling ([@cichy](https://github.com/cichy))
 - `ianaio-theme-live-codeblock`
   - [#5677](https://github.com/ianaio/ianaio/pull/5677) fix: Don't ignore options.transforms for buble ([@ntucker](https://github.com/ntucker))
-  - [#5556](https://github.com/ianaio/ianaio/pull/5556) fix: pin react-live due to possible mismatch React ([@lex111](https://github.com/lex111))
+  - [#5556](https://github.com/ianaio/ianaio/pull/5556) fix: pin react-live due to possible mismatch React ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`
-  - [#5690](https://github.com/ianaio/ianaio/pull/5690) fix: preserve hash in asset link ([@lex111](https://github.com/lex111))
+  - [#5690](https://github.com/ianaio/ianaio/pull/5690) fix: preserve hash in asset link ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-ideal-image`
-  - [#5540](https://github.com/ianaio/ianaio/pull/5540) fix: do not use ideal image plugin in dev env ([@lex111](https://github.com/lex111))
+  - [#5540](https://github.com/ianaio/ianaio/pull/5540) fix: do not use ideal image plugin in dev env ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#5606](https://github.com/ianaio/ianaio/pull/5606) fix(docs): create tags route if only tags exists ([@lex111](https://github.com/lex111))
+  - [#5606](https://github.com/ianaio/ianaio/pull/5606) fix(docs): create tags route if only tags exists ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `ianaio-module-type-aliases`, `ianaio-types`
   - [#5601](https://github.com/ianaio/ianaio/pull/5601) fix(module-type-aliases): move @type packages to dependencies ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-utils`
-  - [#5495](https://github.com/ianaio/ianaio/pull/5495) fix: ignore code block lines when creating excerpt ([@lex111](https://github.com/lex111))
+  - [#5495](https://github.com/ianaio/ianaio/pull/5495) fix: ignore code block lines when creating excerpt ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#5490](https://github.com/ianaio/ianaio/pull/5490) fix: install deps for new project via Yarn on Windows properly ([@lex111](https://github.com/lex111))
+  - [#5490](https://github.com/ianaio/ianaio/pull/5490) fix: install deps for new project via Yarn on Windows properly ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-utils-validation`
   - [#5479](https://github.com/ianaio/ianaio/pull/5479) fix: add docs tag validation to solve #5478 ([@sw-yx](https://github.com/sw-yx))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#5709](https://github.com/ianaio/ianaio/pull/5709) refactor: cleanup scroll handlers ([@lex111](https://github.com/lex111))
-  - [#5627](https://github.com/ianaio/ianaio/pull/5627) refactor: various TOC improvements ([@lex111](https://github.com/lex111))
+  - [#5709](https://github.com/ianaio/ianaio/pull/5709) refactor: cleanup scroll handlers ([@cichy](https://github.com/cichy))
+  - [#5627](https://github.com/ianaio/ianaio/pull/5627) refactor: various TOC improvements ([@cichy](https://github.com/cichy))
   - [#5469](https://github.com/ianaio/ianaio/pull/5469) refactor: Adjust styling of back top top button ([@dsmmcken](https://github.com/dsmmcken))
 - `ianaio-theme-classic`
-  - [#5708](https://github.com/ianaio/ianaio/pull/5708) refactor: hide hash link from crawlers ([@lex111](https://github.com/lex111))
+  - [#5708](https://github.com/ianaio/ianaio/pull/5708) refactor: hide hash link from crawlers ([@cichy](https://github.com/cichy))
   - [#5649](https://github.com/ianaio/ianaio/pull/5649) refactor: improve pt-BR translation for classic theme ([@printf-ana](https://github.com/printf-ana))
   - [#5646](https://github.com/ianaio/ianaio/pull/5646) refactor: complete missing and fix ES translations ([@caleeli](https://github.com/caleeli))
   - [#5640](https://github.com/ianaio/ianaio/pull/5640) style: update Persian language translations ([@MrTechHunter](https://github.com/MrTechHunter))
-  - [#5630](https://github.com/ianaio/ianaio/pull/5630) refactor: standardize using media queries ([@lex111](https://github.com/lex111))
-  - [#5487](https://github.com/ianaio/ianaio/pull/5487) refactor: use only one close SVG icon ([@lex111](https://github.com/lex111))
-  - [#5592](https://github.com/ianaio/ianaio/pull/5592) refactor: use CSS Modules for toggle styles ([@lex111](https://github.com/lex111))
+  - [#5630](https://github.com/ianaio/ianaio/pull/5630) refactor: standardize using media queries ([@cichy](https://github.com/cichy))
+  - [#5487](https://github.com/ianaio/ianaio/pull/5487) refactor: use only one close SVG icon ([@cichy](https://github.com/cichy))
+  - [#5592](https://github.com/ianaio/ianaio/pull/5592) refactor: use CSS Modules for toggle styles ([@cichy](https://github.com/cichy))
   - [#5485](https://github.com/ianaio/ianaio/pull/5485) polish: prevent pop navigation on back if navbar sidebar is open ([@slorber](https://github.com/slorber))
   - [#5472](https://github.com/ianaio/ianaio/pull/5472) polish(theme-classic): add Chinese translations ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-module-type-aliases`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-theme-classic`, `ianaio-types`, `ianaio`
@@ -2525,7 +2525,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio`
   - [#5580](https://github.com/ianaio/ianaio/pull/5580) refactor(core): type improvements for `PendingNavigation` ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`, `ianaio`
-  - [#5496](https://github.com/ianaio/ianaio/pull/5496) refactor: remove deprecated createRequireFromPath ([@lex111](https://github.com/lex111))
+  - [#5496](https://github.com/ianaio/ianaio/pull/5496) refactor: remove deprecated createRequireFromPath ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -2545,7 +2545,7 @@ Bad npm publish, use beta.13 instead
 - [#5574](https://github.com/ianaio/ianaio/pull/5574) docs: add Pipeline UI to showcase ([@headline-design](https://github.com/headline-design))
 - [#5585](https://github.com/ianaio/ianaio/pull/5585) docs: fix more references to Discord channels ([@Josh-Cena](https://github.com/Josh-Cena))
 - [#5572](https://github.com/ianaio/ianaio/pull/5572) docs: add Blogasaurus to showcase ([@BattleOfPlassey](https://github.com/BattleOfPlassey))
-- [#5575](https://github.com/ianaio/ianaio/pull/5575) docs: clarify MDX version used ([@lex111](https://github.com/lex111))
+- [#5575](https://github.com/ianaio/ianaio/pull/5575) docs: clarify MDX version used ([@cichy](https://github.com/cichy))
 - [#5581](https://github.com/ianaio/ianaio/pull/5581) docs(website): update all Discord links ([@Josh-Cena](https://github.com/Josh-Cena))
 - [#5566](https://github.com/ianaio/ianaio/pull/5566) docs: fix code example ([@ChrisChinchilla](https://github.com/ChrisChinchilla))
 - [#5559](https://github.com/ianaio/ianaio/pull/5559) docs: minor grammatical correction ([@jkhaui](https://github.com/jkhaui))
@@ -2561,12 +2561,12 @@ Bad npm publish, use beta.13 instead
 - `create-ianaio`, `ianaio-plugin-content-docs`
   - [#5678](https://github.com/ianaio/ianaio/pull/5678) refactor(content-docs): refactor sidebars, Joi validation, generator rework, expose config types ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#5666](https://github.com/ianaio/ianaio/pull/5666) chore: upgrade Infima to alpha.34 ([@lex111](https://github.com/lex111))
-  - [#5639](https://github.com/ianaio/ianaio/pull/5639) misc: update base translation + remove extra char ([@lex111](https://github.com/lex111))
+  - [#5666](https://github.com/ianaio/ianaio/pull/5666) chore: upgrade Infima to alpha.34 ([@cichy](https://github.com/cichy))
+  - [#5639](https://github.com/ianaio/ianaio/pull/5639) misc: update base translation + remove extra char ([@cichy](https://github.com/cichy))
 - Other
   - [#5669](https://github.com/ianaio/ianaio/pull/5669) fix: allow ColorGenerator to parse colors with prefix `#` ([@Andrewnt219](https://github.com/Andrewnt219))
   - [#5632](https://github.com/ianaio/ianaio/pull/5632) chore: prepare Algolia migration ([@slorber](https://github.com/slorber))
-  - [#5628](https://github.com/ianaio/ianaio/pull/5628) chore: fix warning after build ([@lex111](https://github.com/lex111))
+  - [#5628](https://github.com/ianaio/ianaio/pull/5628) chore: fix warning after build ([@cichy](https://github.com/cichy))
   - [#5573](https://github.com/ianaio/ianaio/pull/5573) misc: fix ungrammatical sentence about 5-min tutorial ([@hughlilly](https://github.com/hughlilly))
   - [#5499](https://github.com/ianaio/ianaio/pull/5499) chore: set up CodeQL ([@zpao](https://github.com/zpao))
   - [#5474](https://github.com/ianaio/ianaio/pull/5474) chore: remove beta.4 docs (already archived) ([@slorber](https://github.com/slorber))
@@ -2575,9 +2575,9 @@ Bad npm publish, use beta.13 instead
 - `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-module-type-aliases`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-preset-classic`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-types`, `ianaio-utils`, `ianaio`, `lqip-loader`
   - [#5611](https://github.com/ianaio/ianaio/pull/5611) chore: upgrade Prettier + regenerate lock file ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-pwa`, `ianaio`
-  - [#5609](https://github.com/ianaio/ianaio/pull/5609) chore: upgrade Terser-related dependencies ([@lex111](https://github.com/lex111))
+  - [#5609](https://github.com/ianaio/ianaio/pull/5609) chore: upgrade Terser-related dependencies ([@cichy](https://github.com/cichy))
 - `ianaio-cssnano-preset`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-ideal-image`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-types`, `ianaio-utils-common`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`, `lqip-loader`
-  - [#5608](https://github.com/ianaio/ianaio/pull/5608) chore: upgrade dependencies ([@lex111](https://github.com/lex111))
+  - [#5608](https://github.com/ianaio/ianaio/pull/5608) chore: upgrade dependencies ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#5605](https://github.com/ianaio/ianaio/pull/5605) refactor(core): enforce noImplicitAny ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-preset-classic`
@@ -2592,7 +2592,7 @@ Bad npm publish, use beta.13 instead
 #### Committers: 36
 
 - Aditya Kajla ([@akajla09](https://github.com/akajla09))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ana Carolina ([@printf-ana](https://github.com/printf-ana))
 - Andrew Nguyen ([@Andrewnt219](https://github.com/Andrewnt219))
 - Bharat Middha ([@bmiddha](https://github.com/bmiddha))
@@ -2618,7 +2618,7 @@ Bad npm publish, use beta.13 instead
 - Paul O’Shannessy ([@zpao](https://github.com/zpao))
 - Robert Kingston ([@kingo55](https://github.com/kingo55))
 - Stefan Norberg ([@stnor](https://github.com/stnor))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Vincent ([@vinckr](https://github.com/vinckr))
 - Whirl ([@Whirl21](https://github.com/Whirl21))
 - [@Dr-Electron](https://github.com/Dr-Electron)
@@ -2656,8 +2656,8 @@ Bad npm publish, use beta.13 instead
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
   - [#5459](https://github.com/ianaio/ianaio/pull/5459) refactor(theme-classic): completely migrate package to TypeScript ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#5453](https://github.com/ianaio/ianaio/pull/5453) refactor: use SVG for closable button in announcement bar ([@lex111](https://github.com/lex111))
-  - [#5430](https://github.com/ianaio/ianaio/pull/5430) refactor: switch to Flexbox in announcement bar ([@lex111](https://github.com/lex111))
+  - [#5453](https://github.com/ianaio/ianaio/pull/5453) refactor: use SVG for closable button in announcement bar ([@cichy](https://github.com/cichy))
+  - [#5430](https://github.com/ianaio/ianaio/pull/5430) refactor: switch to Flexbox in announcement bar ([@cichy](https://github.com/cichy))
   - [#5434](https://github.com/ianaio/ianaio/pull/5434) refactor: update Arabic and Persian translations ([@3alisaki](https://github.com/3alisaki))
   - [#5410](https://github.com/ianaio/ianaio/pull/5410) refactor: add missing translations in fa.json ([@farshidinanloo](https://github.com/farshidinanloo))
 
@@ -2675,7 +2675,7 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 10
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ali Saki ([@3alisaki](https://github.com/3alisaki))
 - Antony Messerli ([@antonym](https://github.com/antonym))
 - Daniel Costrasel ([@ohkimur](https://github.com/ohkimur))
@@ -2683,7 +2683,7 @@ Bad npm publish, use beta.13 instead
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Oscar Lorentzon ([@oscarlorentzon](https://github.com/oscarlorentzon))
 - Rohit Gohri ([@rohit-gohri](https://github.com/rohit-gohri))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - farshid ([@farshidinanloo](https://github.com/farshidinanloo))
 
 ## 2.0.0-beta.5 (2021-08-26)
@@ -2720,32 +2720,32 @@ Bad npm publish, use beta.13 instead
 - `ianaio-module-type-aliases`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`, `ianaio-types`, `ianaio`
   - [#5349](https://github.com/ianaio/ianaio/pull/5349) refactor(core): replace useIanaioContext().isClient by useIsBrowser() ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#5264](https://github.com/ianaio/ianaio/pull/5264) fix: apply proper class for active doc item on mobiles + avoid duplicated classes ([@lex111](https://github.com/lex111))
+  - [#5264](https://github.com/ianaio/ianaio/pull/5264) fix: apply proper class for active doc item on mobiles + avoid duplicated classes ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
   - [#5425](https://github.com/ianaio/ianaio/pull/5425) fix: toc does not highlight clicked anchor + use scroll-margin-top ([@slorber](https://github.com/slorber))
-  - [#5424](https://github.com/ianaio/ianaio/pull/5424) refactor: make dynamic authors layout via CSS only ([@lex111](https://github.com/lex111))
-  - [#5422](https://github.com/ianaio/ianaio/pull/5422) fix: make tags wrapping properly ([@lex111](https://github.com/lex111))
-  - [#5419](https://github.com/ianaio/ianaio/pull/5419) fix: various fixes back-to-top button ([@lex111](https://github.com/lex111))
+  - [#5424](https://github.com/ianaio/ianaio/pull/5424) refactor: make dynamic authors layout via CSS only ([@cichy](https://github.com/cichy))
+  - [#5422](https://github.com/ianaio/ianaio/pull/5422) fix: make tags wrapping properly ([@cichy](https://github.com/cichy))
+  - [#5419](https://github.com/ianaio/ianaio/pull/5419) fix: various fixes back-to-top button ([@cichy](https://github.com/cichy))
   - [#5361](https://github.com/ianaio/ianaio/pull/5361) fix: refactor TOC highlighting + handle edge cases ([@slorber](https://github.com/slorber))
   - [#5357](https://github.com/ianaio/ianaio/pull/5357) fix: code blocks should scroll in RTL direction ([@slorber](https://github.com/slorber))
-  - [#5346](https://github.com/ianaio/ianaio/pull/5346) fix: author/image adjustments in BlogPosting schema ([@lex111](https://github.com/lex111))
-  - [#5240](https://github.com/ianaio/ianaio/pull/5240) fix: remove top margin only from directly first element ([@lex111](https://github.com/lex111))
+  - [#5346](https://github.com/ianaio/ianaio/pull/5346) fix: author/image adjustments in BlogPosting schema ([@cichy](https://github.com/cichy))
+  - [#5240](https://github.com/ianaio/ianaio/pull/5240) fix: remove top margin only from directly first element ([@cichy](https://github.com/cichy))
   - [#5317](https://github.com/ianaio/ianaio/pull/5317) fix: make proper highlighting doc link if no sidebar ([@hamzahamidi](https://github.com/hamzahamidi))
-  - [#5316](https://github.com/ianaio/ianaio/pull/5316) fix: avoid extra default active class on doc sidebar item ([@lex111](https://github.com/lex111))
-  - [#5319](https://github.com/ianaio/ianaio/pull/5319) fix: unbreak highlighting regular navbar links ([@lex111](https://github.com/lex111))
-  - [#5264](https://github.com/ianaio/ianaio/pull/5264) fix: apply proper class for active doc item on mobiles + avoid duplicated classes ([@lex111](https://github.com/lex111))
+  - [#5316](https://github.com/ianaio/ianaio/pull/5316) fix: avoid extra default active class on doc sidebar item ([@cichy](https://github.com/cichy))
+  - [#5319](https://github.com/ianaio/ianaio/pull/5319) fix: unbreak highlighting regular navbar links ([@cichy](https://github.com/cichy))
+  - [#5264](https://github.com/ianaio/ianaio/pull/5264) fix: apply proper class for active doc item on mobiles + avoid duplicated classes ([@cichy](https://github.com/cichy))
   - [#5275](https://github.com/ianaio/ianaio/pull/5275) fix: improve spanish translation ([@faloi](https://github.com/faloi))
-  - [#5262](https://github.com/ianaio/ianaio/pull/5262) fix: show secondary menu if even there is no main one ([@lex111](https://github.com/lex111))
+  - [#5262](https://github.com/ianaio/ianaio/pull/5262) fix: show secondary menu if even there is no main one ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#5426](https://github.com/ianaio/ianaio/pull/5426) fix: Make update-notifier fail-safe if no permission to read configStore ([@slorber](https://github.com/slorber))
   - [#5398](https://github.com/ianaio/ianaio/pull/5398) fix: fix write-translations warning for theme-common translations ([@slorber](https://github.com/slorber))
   - [#5381](https://github.com/ianaio/ianaio/pull/5381) fix: canary releases should ignore notifier updates ([@slorber](https://github.com/slorber))
   - [#5339](https://github.com/ianaio/ianaio/pull/5339) fix: add admonitions support to mdx partials loaded through the fallback mdx loader ([@slorber](https://github.com/slorber))
   - [#5311](https://github.com/ianaio/ianaio/pull/5311) fix: ianaio serve logs wrong port if 3000 is taken ([@wan-nyan-wan](https://github.com/wan-nyan-wan))
-  - [#5308](https://github.com/ianaio/ianaio/pull/5308) fix: remove unexpected whitespaces in CSS bundle ([@lex111](https://github.com/lex111))
+  - [#5308](https://github.com/ianaio/ianaio/pull/5308) fix: remove unexpected whitespaces in CSS bundle ([@cichy](https://github.com/cichy))
   - [#5268](https://github.com/ianaio/ianaio/pull/5268) fix: fix wrong regex that removes extra letters from swizzled component names ([@Josh-Cena](https://github.com/Josh-Cena))
 - Other
   - [#5399](https://github.com/ianaio/ianaio/pull/5399) fix: fix site unlocalized 404 pages + aggressive Netlify /assets caching ([@slorber](https://github.com/slorber))
@@ -2755,12 +2755,12 @@ Bad npm publish, use beta.13 instead
 - `ianaio-init`
   - [#5370](https://github.com/ianaio/ianaio/pull/5370) fix(init): fix links to feature images in classic-typescript ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-common`
-  - [#5364](https://github.com/ianaio/ianaio/pull/5364) fix: unbreak Details component ([@lex111](https://github.com/lex111))
+  - [#5364](https://github.com/ianaio/ianaio/pull/5364) fix: unbreak Details component ([@cichy](https://github.com/cichy))
   - [#5297](https://github.com/ianaio/ianaio/pull/5297) fix: fix constant value import ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-ideal-image`
   - [#5334](https://github.com/ianaio/ianaio/pull/5334) fix: plugin ideal-image should generate filename with a hash even in development ([@Pierre-Gilles](https://github.com/Pierre-Gilles))
 - `ianaio-theme-search-algolia`
-  - [#5290](https://github.com/ianaio/ianaio/pull/5290) fix: make successful build if missing favicon ([@lex111](https://github.com/lex111))
+  - [#5290](https://github.com/ianaio/ianaio/pull/5290) fix: make successful build if missing favicon ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
   - [#5270](https://github.com/ianaio/ianaio/pull/5270) fix: ability to link md files with relative paths when paths contain space ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-types`
@@ -2769,11 +2769,11 @@ Bad npm publish, use beta.13 instead
 #### :nail_care: Polish
 
 - `ianaio-theme-common`
-  - [#5402](https://github.com/ianaio/ianaio/pull/5402) refactor: improve styles of Details component ([@lex111](https://github.com/lex111))
+  - [#5402](https://github.com/ianaio/ianaio/pull/5402) refactor: improve styles of Details component ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#5386](https://github.com/ianaio/ianaio/pull/5386) refactor: various tags improvements ([@lex111](https://github.com/lex111))
-  - [#5377](https://github.com/ianaio/ianaio/pull/5377) refactor: make main heading font size changeable via CSS var ([@lex111](https://github.com/lex111))
-  - [#5355](https://github.com/ianaio/ianaio/pull/5355) refactor: add blog microdata in markup instead of use JSON-LD ([@lex111](https://github.com/lex111))
+  - [#5386](https://github.com/ianaio/ianaio/pull/5386) refactor: various tags improvements ([@cichy](https://github.com/cichy))
+  - [#5377](https://github.com/ianaio/ianaio/pull/5377) refactor: make main heading font size changeable via CSS var ([@cichy](https://github.com/cichy))
+  - [#5355](https://github.com/ianaio/ianaio/pull/5355) refactor: add blog microdata in markup instead of use JSON-LD ([@cichy](https://github.com/cichy))
   - [#5365](https://github.com/ianaio/ianaio/pull/5365) refactor(v2): improved Farsi default translations ([@massoudmaboudi](https://github.com/massoudmaboudi))
   - [#5280](https://github.com/ianaio/ianaio/pull/5280) refactor(v2): improved Farsi default translations ([@massoudmaboudi](https://github.com/massoudmaboudi))
 - Other
@@ -2783,7 +2783,7 @@ Bad npm publish, use beta.13 instead
 
 #### :memo: Documentation
 
-- [#5423](https://github.com/ianaio/ianaio/pull/5423) docs: clarify using custom attributes for navbar link ([@lex111](https://github.com/lex111))
+- [#5423](https://github.com/ianaio/ianaio/pull/5423) docs: clarify using custom attributes for navbar link ([@cichy](https://github.com/cichy))
 - [#5421](https://github.com/ianaio/ianaio/pull/5421) docs: add Indent to showcase ([@fouad](https://github.com/fouad))
 - [#5405](https://github.com/ianaio/ianaio/pull/5405) docs: add Gotenberg to showcase ([@gulien](https://github.com/gulien))
 - [#5406](https://github.com/ianaio/ianaio/pull/5406) docs: specify proper min Node.js version for Travis CI example ([@BattleOfPlassey](https://github.com/BattleOfPlassey))
@@ -2801,7 +2801,7 @@ Bad npm publish, use beta.13 instead
 - [#5296](https://github.com/ianaio/ianaio/pull/5296) docs: update canary doc ([@slorber](https://github.com/slorber))
 - [#5219](https://github.com/ianaio/ianaio/pull/5219) docs: refactor API documentation ([@Josh-Cena](https://github.com/Josh-Cena))
 - [#5271](https://github.com/ianaio/ianaio/pull/5271) Add Plausible Analytics docs to showcase page ([@metmarkosaric](https://github.com/metmarkosaric))
-- [#5283](https://github.com/ianaio/ianaio/pull/5283) docs: fix broken link to syncing tab choices section ([@lex111](https://github.com/lex111))
+- [#5283](https://github.com/ianaio/ianaio/pull/5283) docs: fix broken link to syncing tab choices section ([@cichy](https://github.com/cichy))
 - [#5259](https://github.com/ianaio/ianaio/pull/5259) docs(v2): update Remotion website picture in showcase ([@JonnyBurger](https://github.com/JonnyBurger))
 - [#5260](https://github.com/ianaio/ianaio/pull/5260) docs(v2): add Dart Code Metrics site to showcase page ([@incendial](https://github.com/incendial))
 - [#5253](https://github.com/ianaio/ianaio/pull/5253) docs: Fix typo `2-resources.md` ([@forresst](https://github.com/forresst))
@@ -2831,7 +2831,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio-plugin-content-blog`
   - [#5338](https://github.com/ianaio/ianaio/pull/5338) refactor(plugin-blog): style improvements in blogUtils ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-theme-classic`
-  - [#5256](https://github.com/ianaio/ianaio/pull/5256) chore: upgrade Infima to alpha.30 ([@lex111](https://github.com/lex111))
+  - [#5256](https://github.com/ianaio/ianaio/pull/5256) chore: upgrade Infima to alpha.30 ([@cichy](https://github.com/cichy))
 - `ianaio-init`
   - [#5315](https://github.com/ianaio/ianaio/pull/5315) refactor(init): share common files between templates ([@Josh-Cena](https://github.com/Josh-Cena))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
@@ -2844,7 +2844,7 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 27
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - David Seal ([@dbseal](https://github.com/dbseal))
 - Deepak Prabhakara ([@deepakprabhakara](https://github.com/deepakprabhakara))
 - Dmitry Zhifarsky ([@incendial](https://github.com/incendial))
@@ -2866,7 +2866,7 @@ Bad npm publish, use beta.13 instead
 - Paul O’Shannessy ([@zpao](https://github.com/zpao))
 - Pierre-Gilles Leymarie ([@Pierre-Gilles](https://github.com/Pierre-Gilles))
 - Sam Wall ([@sjwall](https://github.com/sjwall))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tunghsiao Liu ([@sparanoid](https://github.com/sparanoid))
 - Yan Ivan Evdokimov ([@jansivans](https://github.com/jansivans))
 - [@HaochenQ](https://github.com/HaochenQ)
@@ -2877,7 +2877,7 @@ Bad npm publish, use beta.13 instead
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#4912](https://github.com/ianaio/ianaio/pull/4912) feat(v2): add back to top button ([@lex111](https://github.com/lex111))
+  - [#4912](https://github.com/ianaio/ianaio/pull/4912) feat(v2): add back to top button ([@cichy](https://github.com/cichy))
 - `ianaio-init`
   - [#5235](https://github.com/ianaio/ianaio/pull/5235) feat: ianaio.new + improve StackBlitz playground integration ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
@@ -2885,7 +2885,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio`
   - [#5207](https://github.com/ianaio/ianaio/pull/5207) feat: multiple playground choices ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-types`, `ianaio`
-  - [#4273](https://github.com/ianaio/ianaio/pull/4273) feat(v2): redesign mobile UX: inline TOC + doc sidebar in main menu ([@lex111](https://github.com/lex111))
+  - [#4273](https://github.com/ianaio/ianaio/pull/4273) feat(v2): redesign mobile UX: inline TOC + doc sidebar in main menu ([@cichy](https://github.com/cichy))
 
 #### :boom: Breaking Change
 
@@ -2894,20 +2894,20 @@ Bad npm publish, use beta.13 instead
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-utils`, `ianaio`
   - [#5173](https://github.com/ianaio/ianaio/pull/5173) feat(v2): generalize usage of \_ prefix convention to exclude content files/folders ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-types`, `ianaio`
-  - [#4273](https://github.com/ianaio/ianaio/pull/4273) feat(v2): redesign mobile UX: inline TOC + doc sidebar in main menu ([@lex111](https://github.com/lex111))
+  - [#4273](https://github.com/ianaio/ianaio/pull/4273) feat(v2): redesign mobile UX: inline TOC + doc sidebar in main menu ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-plugin-content-blog`
   - [#5232](https://github.com/ianaio/ianaio/pull/5232) fix(v2): blog should parse frontMatter.date even when time is present ([@wenerme](https://github.com/wenerme))
 - `ianaio-theme-classic`
-  - [#5230](https://github.com/ianaio/ianaio/pull/5230) fix(v2): remove top margin from first element inside doc article ([@lex111](https://github.com/lex111))
-  - [#5229](https://github.com/ianaio/ianaio/pull/5229) fix(v2): keep mobile TOC after hydration ([@lex111](https://github.com/lex111))
-  - [#5179](https://github.com/ianaio/ianaio/pull/5179) fix(v2): wrap dropdown item to missing li element + remove extra attributes ([@lex111](https://github.com/lex111))
-  - [#5183](https://github.com/ianaio/ianaio/pull/5183) fix(v2): pass all props to CodeBlock component ([@lex111](https://github.com/lex111))
+  - [#5230](https://github.com/ianaio/ianaio/pull/5230) fix(v2): remove top margin from first element inside doc article ([@cichy](https://github.com/cichy))
+  - [#5229](https://github.com/ianaio/ianaio/pull/5229) fix(v2): keep mobile TOC after hydration ([@cichy](https://github.com/cichy))
+  - [#5179](https://github.com/ianaio/ianaio/pull/5179) fix(v2): wrap dropdown item to missing li element + remove extra attributes ([@cichy](https://github.com/cichy))
+  - [#5183](https://github.com/ianaio/ianaio/pull/5183) fix(v2): pass all props to CodeBlock component ([@cichy](https://github.com/cichy))
   - [#5176](https://github.com/ianaio/ianaio/pull/5176) fix(v2): Fix type for navlink label ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5172](https://github.com/ianaio/ianaio/pull/5172) fix(v2): hide mobile collapsible doc toc if no headings ([@slorber](https://github.com/slorber))
-  - [#5161](https://github.com/ianaio/ianaio/pull/5161) fix(v2): disable default behavior when click on collapsible item ([@lex111](https://github.com/lex111))
+  - [#5161](https://github.com/ianaio/ianaio/pull/5161) fix(v2): disable default behavior when click on collapsible item ([@cichy](https://github.com/cichy))
   - [#5151](https://github.com/ianaio/ianaio/pull/5151) fix(v2): add missing french translations for mobile ([@forresst](https://github.com/forresst))
   - [#5104](https://github.com/ianaio/ianaio/pull/5104) fix(v2): fix SkipToContent programmatic focus when updating querystring ([@slorber](https://github.com/slorber))
 - `ianaio-theme-search-algolia`
@@ -2921,17 +2921,17 @@ Bad npm publish, use beta.13 instead
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-utils`
   - [#5199](https://github.com/ianaio/ianaio/pull/5199) fix(v2): Fix MDX docs being considered as partials when siteDir match the \_ prefix convention ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-pwa`
-  - [#5185](https://github.com/ianaio/ianaio/pull/5185) fix(v2): add base URL to content attribute of head tags PWA ([@lex111](https://github.com/lex111))
-  - [#5169](https://github.com/ianaio/ianaio/pull/5169) refactor(v2): automatically add base URL to PWA head tags ([@lex111](https://github.com/lex111))
+  - [#5185](https://github.com/ianaio/ianaio/pull/5185) fix(v2): add base URL to content attribute of head tags PWA ([@cichy](https://github.com/cichy))
+  - [#5169](https://github.com/ianaio/ianaio/pull/5169) refactor(v2): automatically add base URL to PWA head tags ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-utils`, `ianaio`
   - [#5173](https://github.com/ianaio/ianaio/pull/5173) feat(v2): generalize usage of \_ prefix convention to exclude content files/folders ([@slorber](https://github.com/slorber))
 - `ianaio-theme-common`
   - [#5159](https://github.com/ianaio/ianaio/pull/5159) fix(v2): Fix Collapsible hydration layout shift ([@slorber](https://github.com/slorber))
-  - [#5146](https://github.com/ianaio/ianaio/pull/5146) fix(v2): improve work of useCollapsible hook with multiple clicks ([@lex111](https://github.com/lex111))
+  - [#5146](https://github.com/ianaio/ianaio/pull/5146) fix(v2): improve work of useCollapsible hook with multiple clicks ([@cichy](https://github.com/cichy))
 - `ianaio-types`
   - [#5129](https://github.com/ianaio/ianaio/pull/5129) fix(v2): fix d.ts lint error ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#5116](https://github.com/ianaio/ianaio/pull/5116) fix(v2): introduce useCollapsible to fix collapsible animation perf issues ([@lex111](https://github.com/lex111))
+  - [#5116](https://github.com/ianaio/ianaio/pull/5116) fix(v2): introduce useCollapsible to fix collapsible animation perf issues ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-client-redirects`
   - [#5102](https://github.com/ianaio/ianaio/pull/5102) fix(v2): fix redirect plugin when trailingSlash=false for .html extension ([@slorber](https://github.com/slorber))
 
@@ -2939,12 +2939,12 @@ Bad npm publish, use beta.13 instead
 
 - `ianaio-theme-classic`
   - [#5228](https://github.com/ianaio/ianaio/pull/5228) refactor(v2): fix small typo in Russian translation ([@antonvasilev52](https://github.com/antonvasilev52))
-  - [#5222](https://github.com/ianaio/ianaio/pull/5222) chore(v2): update Infima to alpha 28 ([@lex111](https://github.com/lex111))
-  - [#5224](https://github.com/ianaio/ianaio/pull/5224) refactor(v2): update Russian translation ([@lex111](https://github.com/lex111))
+  - [#5222](https://github.com/ianaio/ianaio/pull/5222) chore(v2): update Infima to alpha 28 ([@cichy](https://github.com/cichy))
+  - [#5224](https://github.com/ianaio/ianaio/pull/5224) refactor(v2): update Russian translation ([@cichy](https://github.com/cichy))
   - [#5217](https://github.com/ianaio/ianaio/pull/5217) refactor(v2): improved Farsi default translations ([@massoudmaboudi](https://github.com/massoudmaboudi))
-  - [#5171](https://github.com/ianaio/ianaio/pull/5171) refactor(v2): increase content area if blog sidebar is off ([@lex111](https://github.com/lex111))
+  - [#5171](https://github.com/ianaio/ianaio/pull/5171) refactor(v2): increase content area if blog sidebar is off ([@cichy](https://github.com/cichy))
   - [#5154](https://github.com/ianaio/ianaio/pull/5154) refactor(v2): Hindi translation for semantic doc sidebar ([@pranabdas](https://github.com/pranabdas))
-  - [#5145](https://github.com/ianaio/ianaio/pull/5145) refactor(v2): use Collapsible for mobile nav items ([@lex111](https://github.com/lex111))
+  - [#5145](https://github.com/ianaio/ianaio/pull/5145) refactor(v2): use Collapsible for mobile nav items ([@cichy](https://github.com/cichy))
   - [#5138](https://github.com/ianaio/ianaio/pull/5138) refactor(v2): Update Hebrew translations ([@nirtamir2](https://github.com/nirtamir2))
   - [#5140](https://github.com/ianaio/ianaio/pull/5140) refactor(v2): bn translation improvements for semantic doc sidebar ([@pranabdas](https://github.com/pranabdas))
   - [#5139](https://github.com/ianaio/ianaio/pull/5139) feat(v2): complete Chinese code translations ([@Josh-Cena](https://github.com/Josh-Cena))
@@ -2959,7 +2959,7 @@ Bad npm publish, use beta.13 instead
 #### :memo: Documentation
 
 - [#5236](https://github.com/ianaio/ianaio/pull/5236) docs: add Verdaccio.org to showcase ([@semoal](https://github.com/semoal))
-- [#5218](https://github.com/ianaio/ianaio/pull/5218) docs(v2): remove vector.dev from showcase ([@lex111](https://github.com/lex111))
+- [#5218](https://github.com/ianaio/ianaio/pull/5218) docs(v2): remove vector.dev from showcase ([@cichy](https://github.com/cichy))
 - [#5212](https://github.com/ianaio/ianaio/pull/5212) docs: mention Link can be used for external links ([@slorber](https://github.com/slorber))
 - [#5210](https://github.com/ianaio/ianaio/pull/5210) docs(v2): Elaboration of raw-loader in markdown react component ([@pranabdas](https://github.com/pranabdas))
 - [#5191](https://github.com/ianaio/ianaio/pull/5191) docs: user should restart ianaio after adding prism additionalLanguage ([@tohidnateghi](https://github.com/tohidnateghi))
@@ -2984,7 +2984,7 @@ Bad npm publish, use beta.13 instead
   - [#5234](https://github.com/ianaio/ianaio/pull/5234) chore: Upgrade infima 29 ([@slorber](https://github.com/slorber))
   - [#5130](https://github.com/ianaio/ianaio/pull/5130) test(v2): dogfooding: add huge sidebar for testing purposes ([@slorber](https://github.com/slorber))
 - Other
-  - [#5223](https://github.com/ianaio/ianaio/pull/5223) chore: fix iframe background color in dark mode ([@lex111](https://github.com/lex111))
+  - [#5223](https://github.com/ianaio/ianaio/pull/5223) chore: fix iframe background color in dark mode ([@cichy](https://github.com/cichy))
   - [#5206](https://github.com/ianaio/ianaio/pull/5206) misc: add script to keep starters branch/repos up-to-date ([@slorber](https://github.com/slorber))
   - [#5167](https://github.com/ianaio/ianaio/pull/5167) fix(v2): fix website PWA icon hrefs ([@slorber](https://github.com/slorber))
   - [#5166](https://github.com/ianaio/ianaio/pull/5166) fix(v2): fix yarn clear command ([@slorber](https://github.com/slorber))
@@ -3000,7 +3000,7 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 28
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Arijit Kundu ([@covalentbond](https://github.com/covalentbond))
 - Arnaud Jeannin ([@arnaudjnn](https://github.com/arnaudjnn))
 - Christian Flach ([@cmfcmf](https://github.com/cmfcmf))
@@ -3022,7 +3022,7 @@ Bad npm publish, use beta.13 instead
 - Przemysław Chojecki ([@pcho](https://github.com/pcho))
 - Raz Luvaton ([@rluvaton](https://github.com/rluvaton))
 - Sergio Moreno ([@semoal](https://github.com/semoal))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Taylor Reece ([@taylorreece](https://github.com/taylorreece))
 - [@antonvasilev52](https://github.com/antonvasilev52)
 - [@nirtamir2](https://github.com/nirtamir2)
@@ -3034,14 +3034,14 @@ Bad npm publish, use beta.13 instead
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#5092](https://github.com/ianaio/ianaio/pull/5092) feat(v2): add icon to external footer links ([@lex111](https://github.com/lex111))
+  - [#5092](https://github.com/ianaio/ianaio/pull/5092) feat(v2): add icon to external footer links ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
   - [#5080](https://github.com/ianaio/ianaio/pull/5080) fix(v2): classic theme - semantic correct anchors links ([@AuHau](https://github.com/AuHau))
-  - [#5081](https://github.com/ianaio/ianaio/pull/5081) fix(v2): restore previous scroll position on back button click ([@lex111](https://github.com/lex111))
-  - [#5063](https://github.com/ianaio/ianaio/pull/5063) fix(v2): restore responsive menu ([@lex111](https://github.com/lex111))
+  - [#5081](https://github.com/ianaio/ianaio/pull/5081) fix(v2): restore previous scroll position on back button click ([@cichy](https://github.com/cichy))
+  - [#5063](https://github.com/ianaio/ianaio/pull/5063) fix(v2): restore responsive menu ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#5094](https://github.com/ianaio/ianaio/pull/5094) fix(v2): fix typos in swizzle command ([@Josh-Cena](https://github.com/Josh-Cena))
   - [#5095](https://github.com/ianaio/ianaio/pull/5095) fix(v2): fix swizzle readComponent ([@slorber](https://github.com/slorber))
@@ -3078,13 +3078,13 @@ Bad npm publish, use beta.13 instead
 #### Committers: 11
 
 - Adam Uhlíř ([@AuHau](https://github.com/AuHau))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ayush das ([@iamayushdas](https://github.com/iamayushdas))
 - Danny Lin ([@kdrag0n](https://github.com/kdrag0n))
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Jules Sam. Randolph ([@jsamr](https://github.com/jsamr))
 - Rami Yushuvaev ([@ramiy](https://github.com/ramiy))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Taylor Reece ([@taylorreece](https://github.com/taylorreece))
 - [@bperlmutter](https://github.com/bperlmutter)
 - [@dirslashls](https://github.com/dirslashls)
@@ -3112,7 +3112,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio-plugin-content-docs`
   - [#5048](https://github.com/ianaio/ianaio/pull/5048) fix(v2): read last update from inner git repositories ([@felipecrs](https://github.com/felipecrs))
 - `ianaio-theme-classic`
-  - [#5050](https://github.com/ianaio/ianaio/pull/5050) fix(v2): add shadow to skip link on focus only ([@lex111](https://github.com/lex111))
+  - [#5050](https://github.com/ianaio/ianaio/pull/5050) fix(v2): add shadow to skip link on focus only ([@cichy](https://github.com/cichy))
   - [#5035](https://github.com/ianaio/ianaio/pull/5035) fix(v2): fix some docs container/sidebar layout issues ([@slorber](https://github.com/slorber))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-ideal-image`, `ianaio-plugin-pwa`, `ianaio-types`, `ianaio-utils`, `ianaio`
   - [#5047](https://github.com/ianaio/ianaio/pull/5047) fix(v2): Fix Webpack persistent caching (evict on swizzle/alias/config change) ([@slorber](https://github.com/slorber))
@@ -3122,7 +3122,7 @@ Bad npm publish, use beta.13 instead
   - [#5034](https://github.com/ianaio/ianaio/pull/5034) fix(v2): dev css modules classnames should include filename ([@slorber](https://github.com/slorber))
   - [#5016](https://github.com/ianaio/ianaio/pull/5016) fix(v2): add missing quote in build command output ([@manuelmeurer](https://github.com/manuelmeurer))
 - `ianaio-module-type-aliases`, `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#5023](https://github.com/ianaio/ianaio/pull/5023) fix(v2): ignore hash changes in useChangeRoute hook ([@lex111](https://github.com/lex111))
+  - [#5023](https://github.com/ianaio/ianaio/pull/5023) fix(v2): ignore hash changes in useChangeRoute hook ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-utils-validation`
   - [#5032](https://github.com/ianaio/ianaio/pull/5032) fix(v2): less strict blog/docs uri frontmatter validation ([@slorber](https://github.com/slorber))
 
@@ -3153,14 +3153,14 @@ Bad npm publish, use beta.13 instead
 
 #### Committers: 11
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Eshan Tripathi ([@eshantri](https://github.com/eshantri))
 - Felipe Santos ([@felipecrs](https://github.com/felipecrs))
 - Joshua Chen ([@Josh-Cena](https://github.com/Josh-Cena))
 - Jules Sam. Randolph ([@jsamr](https://github.com/jsamr))
 - Manuel Meurer ([@manuelmeurer](https://github.com/manuelmeurer))
 - Rami Yushuvaev ([@ramiy](https://github.com/ramiy))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 - Tomasz Papiernik ([@tomekpapiernik](https://github.com/tomekpapiernik))
 - ZhengYuan Loo ([@loozhengyuan](https://github.com/loozhengyuan))
@@ -3172,7 +3172,7 @@ Bad npm publish, use beta.13 instead
 - `ianaio-plugin-content-docs`
   - [#4982](https://github.com/ianaio/ianaio/pull/4982) feat(v2): add docs pagination_label frontmatter ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#4949](https://github.com/ianaio/ianaio/pull/4949) feat(v2): add icon to external navbar links ([@lex111](https://github.com/lex111))
+  - [#4949](https://github.com/ianaio/ianaio/pull/4949) feat(v2): add icon to external navbar links ([@cichy](https://github.com/cichy))
   - [#4939](https://github.com/ianaio/ianaio/pull/4939) feat(v2): theme default translations Bengali ([@Neilblaze](https://github.com/Neilblaze))
   - [#4811](https://github.com/ianaio/ianaio/pull/4811) feat(v2): Add hebrew translations ([@slorber](https://github.com/slorber))
   - [#4798](https://github.com/ianaio/ianaio/pull/4798) feat(v2): add theme Danish translation ([@PsychTechApS](https://github.com/PsychTechApS))
@@ -3190,93 +3190,93 @@ Bad npm publish, use beta.13 instead
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#5001](https://github.com/ianaio/ianaio/pull/5001) chore(v2): update Infima to alpha 26 ([@lex111](https://github.com/lex111))
+  - [#5001](https://github.com/ianaio/ianaio/pull/5001) chore(v2): update Infima to alpha 26 ([@cichy](https://github.com/cichy))
   - [#4986](https://github.com/ianaio/ianaio/pull/4986) fix(v2): fix UX for docsVersionDropdown on mobile for single version ([@slorber](https://github.com/slorber))
-  - [#4980](https://github.com/ianaio/ianaio/pull/4980) fix(v2): make proper data type for prependBaseUrlToHref field ([@lex111](https://github.com/lex111))
-  - [#4943](https://github.com/ianaio/ianaio/pull/4943) fix(v2): improve accessibility of code blocks ([@lex111](https://github.com/lex111))
-  - [#4917](https://github.com/ianaio/ianaio/pull/4917) fix(v2): tidy up Markdown page layout ([@lex111](https://github.com/lex111))
-  - [#4906](https://github.com/ianaio/ianaio/pull/4906) fix(v2): fix minor a11y issues ([@lex111](https://github.com/lex111))
-  - [#4900](https://github.com/ianaio/ianaio/pull/4900) fix(v2): adjust margin after content title ([@lex111](https://github.com/lex111))
-  - [#4855](https://github.com/ianaio/ianaio/pull/4855) chore(v2): update infima to alpha 24 ([@lex111](https://github.com/lex111))
+  - [#4980](https://github.com/ianaio/ianaio/pull/4980) fix(v2): make proper data type for prependBaseUrlToHref field ([@cichy](https://github.com/cichy))
+  - [#4943](https://github.com/ianaio/ianaio/pull/4943) fix(v2): improve accessibility of code blocks ([@cichy](https://github.com/cichy))
+  - [#4917](https://github.com/ianaio/ianaio/pull/4917) fix(v2): tidy up Markdown page layout ([@cichy](https://github.com/cichy))
+  - [#4906](https://github.com/ianaio/ianaio/pull/4906) fix(v2): fix minor a11y issues ([@cichy](https://github.com/cichy))
+  - [#4900](https://github.com/ianaio/ianaio/pull/4900) fix(v2): adjust margin after content title ([@cichy](https://github.com/cichy))
+  - [#4855](https://github.com/ianaio/ianaio/pull/4855) chore(v2): update infima to alpha 24 ([@cichy](https://github.com/cichy))
   - [#4819](https://github.com/ianaio/ianaio/pull/4819) fix(v2): Amend Hebrew translations ([@liorheber](https://github.com/liorheber))
   - [#4815](https://github.com/ianaio/ianaio/pull/4815) fix(v2): Fix Hebrew translations ([@nirtamir2](https://github.com/nirtamir2))
-  - [#4792](https://github.com/ianaio/ianaio/pull/4792) fix(v2): fix minor a11y issue with headings ([@lex111](https://github.com/lex111))
-  - [#4793](https://github.com/ianaio/ianaio/pull/4793) fix(v2): unbreak enhanced width of doc item wrapper ([@lex111](https://github.com/lex111))
+  - [#4792](https://github.com/ianaio/ianaio/pull/4792) fix(v2): fix minor a11y issue with headings ([@cichy](https://github.com/cichy))
+  - [#4793](https://github.com/ianaio/ianaio/pull/4793) fix(v2): unbreak enhanced width of doc item wrapper ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-utils-common`
   - [#5000](https://github.com/ianaio/ianaio/pull/5000) fix(v2): fix theme array deduplication bug ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-client-redirects`, `ianaio-utils-common`, `ianaio-utils`, `ianaio`
   - [#4988](https://github.com/ianaio/ianaio/pull/4988) fix(v2): redirect plugin should use siteConfig.trailingSlash ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-blog`
   - [#4983](https://github.com/ianaio/ianaio/pull/4983) fix(v2): always use UTC when dealing with blog dates ([@Josh-Cena](https://github.com/Josh-Cena))
-  - [#4962](https://github.com/ianaio/ianaio/pull/4962) fix(v2): respect base url in RSS feeds ([@lex111](https://github.com/lex111))
+  - [#4962](https://github.com/ianaio/ianaio/pull/4962) fix(v2): respect base url in RSS feeds ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
   - [#4985](https://github.com/ianaio/ianaio/pull/4985) fix(v2): navbar doc item fallback: search doc in lastVersion ([@slorber](https://github.com/slorber))
 - `ianaio-remark-plugin-npm2yarn`
-  - [#4964](https://github.com/ianaio/ianaio/pull/4964) fix(v2): avoid duplicated imports in npm2yarn plugin ([@lex111](https://github.com/lex111))
+  - [#4964](https://github.com/ianaio/ianaio/pull/4964) fix(v2): avoid duplicated imports in npm2yarn plugin ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
   - [#4970](https://github.com/ianaio/ianaio/pull/4970) fix(v2): sidebar_label should be used to compute next/previous button labels ([@slorber](https://github.com/slorber))
-  - [#4861](https://github.com/ianaio/ianaio/pull/4861) fix(v2): allow relative sidebar path resolution in docs:version command ([@lex111](https://github.com/lex111))
-  - [#4859](https://github.com/ianaio/ianaio/pull/4859) fix(v2): use frontmatter title at first for paginated links ([@lex111](https://github.com/lex111))
+  - [#4861](https://github.com/ianaio/ianaio/pull/4861) fix(v2): allow relative sidebar path resolution in docs:version command ([@cichy](https://github.com/cichy))
+  - [#4859](https://github.com/ianaio/ianaio/pull/4859) fix(v2): use frontmatter title at first for paginated links ([@cichy](https://github.com/cichy))
   - [#4775](https://github.com/ianaio/ianaio/pull/4775) fix(v2): improve dx sidebar config, ability to have no sidebars file ([@nam-hle](https://github.com/nam-hle))
 - `ianaio-plugin-sitemap`, `ianaio-utils-common`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`
   - [#4950](https://github.com/ianaio/ianaio/pull/4950) fix(v2): sitemap plugin should handle siteConfig.trailingSlash automatically ([@slorber](https://github.com/slorber))
 - `ianaio`
-  - [#4924](https://github.com/ianaio/ianaio/pull/4924) fix(v2): respect baseUrl in serving command ([@lex111](https://github.com/lex111))
-  - [#4935](https://github.com/ianaio/ianaio/pull/4935) fix(v2): render children in BrowserOnly after client is ready ([@lex111](https://github.com/lex111))
-  - [#4894](https://github.com/ianaio/ianaio/pull/4894) fix(v2): escape HTML entities in user tags attributes ([@lex111](https://github.com/lex111))
+  - [#4924](https://github.com/ianaio/ianaio/pull/4924) fix(v2): respect baseUrl in serving command ([@cichy](https://github.com/cichy))
+  - [#4935](https://github.com/ianaio/ianaio/pull/4935) fix(v2): render children in BrowserOnly after client is ready ([@cichy](https://github.com/cichy))
+  - [#4894](https://github.com/ianaio/ianaio/pull/4894) fix(v2): escape HTML entities in user tags attributes ([@cichy](https://github.com/cichy))
   - [#4789](https://github.com/ianaio/ianaio/pull/4789) fix(v2): transpile libs with too recent syntax with babel ([@slorber](https://github.com/slorber))
   - [#4784](https://github.com/ianaio/ianaio/pull/4784) fix(v2): update notifier should never suggest to downgrade ([@slorber](https://github.com/slorber))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-utils`
   - [#4882](https://github.com/ianaio/ianaio/pull/4882) fix(v2): fix contentTitle issues when markdown h1 title contains code blocks ([@slorber](https://github.com/slorber))
 - `ianaio-utils`
-  - [#4862](https://github.com/ianaio/ianaio/pull/4862) fix(v2): remove Markdown heading id from excerpt ([@lex111](https://github.com/lex111))
+  - [#4862](https://github.com/ianaio/ianaio/pull/4862) fix(v2): remove Markdown heading id from excerpt ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#4871](https://github.com/ianaio/ianaio/pull/4871) fix(v2): unbreak adding of custom HTML metadatas ([@lex111](https://github.com/lex111))
-  - [#4797](https://github.com/ianaio/ianaio/pull/4797) fix(v2): do not focus on skip link if page refreshed ([@lex111](https://github.com/lex111))
+  - [#4871](https://github.com/ianaio/ianaio/pull/4871) fix(v2): unbreak adding of custom HTML metadatas ([@cichy](https://github.com/cichy))
+  - [#4797](https://github.com/ianaio/ianaio/pull/4797) fix(v2): do not focus on skip link if page refreshed ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#4856](https://github.com/ianaio/ianaio/pull/4856) fix(v2): adjust padding when custom search box location ([@lex111](https://github.com/lex111))
+  - [#4856](https://github.com/ianaio/ianaio/pull/4856) fix(v2): adjust padding when custom search box location ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`
-  - [#4830](https://github.com/ianaio/ianaio/pull/4830) fix(v2): pin prism-react-renderer version to 1.1.1 ([@lex111](https://github.com/lex111))
+  - [#4830](https://github.com/ianaio/ianaio/pull/4830) fix(v2): pin prism-react-renderer version to 1.1.1 ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-ideal-image`, `lqip-loader`
-  - [#4806](https://github.com/ianaio/ianaio/pull/4806) chore(v2): update sharp to 0.28.2 ([@lex111](https://github.com/lex111))
+  - [#4806](https://github.com/ianaio/ianaio/pull/4806) chore(v2): update sharp to 0.28.2 ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#4995](https://github.com/ianaio/ianaio/pull/4995) refactor(v2): reduce top padding in doc content container ([@lex111](https://github.com/lex111))
-  - [#4918](https://github.com/ianaio/ianaio/pull/4918) refactor(v2): readjust footer of blog item ([@lex111](https://github.com/lex111))
-  - [#4959](https://github.com/ianaio/ianaio/pull/4959) refactor(v2): minor cleanups ([@lex111](https://github.com/lex111))
-  - [#4945](https://github.com/ianaio/ianaio/pull/4945) refactor(v2): remove extra padding from doc item container ([@lex111](https://github.com/lex111))
-  - [#4940](https://github.com/ianaio/ianaio/pull/4940) refactor(v2): improve semantic doc sidebar markup ([@lex111](https://github.com/lex111))
-  - [#4961](https://github.com/ianaio/ianaio/pull/4961) refactor(v2): improve semantic blog sidebar markup ([@lex111](https://github.com/lex111))
-  - [#4903](https://github.com/ianaio/ianaio/pull/4903) refactor(v2): make doc item layout more semantic ([@lex111](https://github.com/lex111))
-  - [#4877](https://github.com/ianaio/ianaio/pull/4877) refactor(v2): reduce vertical space in doc content container ([@lex111](https://github.com/lex111))
-  - [#4914](https://github.com/ianaio/ianaio/pull/4914) refactor(v2): use SVG for external link icon ([@lex111](https://github.com/lex111))
-  - [#4916](https://github.com/ianaio/ianaio/pull/4916) refactor(v2): replace strong with b in UI components ([@lex111](https://github.com/lex111))
-  - [#4926](https://github.com/ianaio/ianaio/pull/4926) refactor(v2): hide decorative SVGs from screen readers ([@lex111](https://github.com/lex111))
-  - [#4865](https://github.com/ianaio/ianaio/pull/4865) refactor(v2): make little better doc update block UI ([@lex111](https://github.com/lex111))
-  - [#4795](https://github.com/ianaio/ianaio/pull/4795) refactor(v2): remove transition on body element ([@lex111](https://github.com/lex111))
+  - [#4995](https://github.com/ianaio/ianaio/pull/4995) refactor(v2): reduce top padding in doc content container ([@cichy](https://github.com/cichy))
+  - [#4918](https://github.com/ianaio/ianaio/pull/4918) refactor(v2): readjust footer of blog item ([@cichy](https://github.com/cichy))
+  - [#4959](https://github.com/ianaio/ianaio/pull/4959) refactor(v2): minor cleanups ([@cichy](https://github.com/cichy))
+  - [#4945](https://github.com/ianaio/ianaio/pull/4945) refactor(v2): remove extra padding from doc item container ([@cichy](https://github.com/cichy))
+  - [#4940](https://github.com/ianaio/ianaio/pull/4940) refactor(v2): improve semantic doc sidebar markup ([@cichy](https://github.com/cichy))
+  - [#4961](https://github.com/ianaio/ianaio/pull/4961) refactor(v2): improve semantic blog sidebar markup ([@cichy](https://github.com/cichy))
+  - [#4903](https://github.com/ianaio/ianaio/pull/4903) refactor(v2): make doc item layout more semantic ([@cichy](https://github.com/cichy))
+  - [#4877](https://github.com/ianaio/ianaio/pull/4877) refactor(v2): reduce vertical space in doc content container ([@cichy](https://github.com/cichy))
+  - [#4914](https://github.com/ianaio/ianaio/pull/4914) refactor(v2): use SVG for external link icon ([@cichy](https://github.com/cichy))
+  - [#4916](https://github.com/ianaio/ianaio/pull/4916) refactor(v2): replace strong with b in UI components ([@cichy](https://github.com/cichy))
+  - [#4926](https://github.com/ianaio/ianaio/pull/4926) refactor(v2): hide decorative SVGs from screen readers ([@cichy](https://github.com/cichy))
+  - [#4865](https://github.com/ianaio/ianaio/pull/4865) refactor(v2): make little better doc update block UI ([@cichy](https://github.com/cichy))
+  - [#4795](https://github.com/ianaio/ianaio/pull/4795) refactor(v2): remove transition on body element ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`
   - [#4989](https://github.com/ianaio/ianaio/pull/4989) refactor(v2): blog/docs: add more context in error messages ([@slorber](https://github.com/slorber))
 - `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`
-  - [#4979](https://github.com/ianaio/ianaio/pull/4979) refactor(v2): cleanup console output ([@lex111](https://github.com/lex111))
+  - [#4979](https://github.com/ianaio/ianaio/pull/4979) refactor(v2): cleanup console output ([@cichy](https://github.com/cichy))
 - `ianaio-utils-validation`, `ianaio`
   - [#4977](https://github.com/ianaio/ianaio/pull/4977) polish(v2): url-subpath config validation warning ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`
-  - [#4969](https://github.com/ianaio/ianaio/pull/4969) refactor(v2): include path in error about non-existent ids ([@lex111](https://github.com/lex111))
-  - [#4863](https://github.com/ianaio/ianaio/pull/4863) refactor(v2): remove sidebar_label filed from doc metadata file ([@lex111](https://github.com/lex111))
+  - [#4969](https://github.com/ianaio/ianaio/pull/4969) refactor(v2): include path in error about non-existent ids ([@cichy](https://github.com/cichy))
+  - [#4863](https://github.com/ianaio/ianaio/pull/4863) refactor(v2): remove sidebar_label filed from doc metadata file ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio`
-  - [#4907](https://github.com/ianaio/ianaio/pull/4907) refactor(v2): remove type attribute from link and script tags ([@lex111](https://github.com/lex111))
+  - [#4907](https://github.com/ianaio/ianaio/pull/4907) refactor(v2): remove type attribute from link and script tags ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#4919](https://github.com/ianaio/ianaio/pull/4919) refactor(v2): improve markup and styling on search page ([@lex111](https://github.com/lex111))
-  - [#4867](https://github.com/ianaio/ianaio/pull/4867) chore(v2): update @docsearch/react ([@lex111](https://github.com/lex111))
+  - [#4919](https://github.com/ianaio/ianaio/pull/4919) refactor(v2): improve markup and styling on search page ([@cichy](https://github.com/cichy))
+  - [#4867](https://github.com/ianaio/ianaio/pull/4867) chore(v2): update @docsearch/react ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#4905](https://github.com/ianaio/ianaio/pull/4905) refactor(v2): do not generate RSS files for empty feed ([@lex111](https://github.com/lex111))
-  - [#4860](https://github.com/ianaio/ianaio/pull/4860) refactor(v2): use aliased path for blog list sidebar file ([@lex111](https://github.com/lex111))
+  - [#4905](https://github.com/ianaio/ianaio/pull/4905) refactor(v2): do not generate RSS files for empty feed ([@cichy](https://github.com/cichy))
+  - [#4860](https://github.com/ianaio/ianaio/pull/4860) refactor(v2): use aliased path for blog list sidebar file ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#4870](https://github.com/ianaio/ianaio/pull/4870) refactor(v2): add exception handling if external command is fails ([@lex111](https://github.com/lex111))
-  - [#4875](https://github.com/ianaio/ianaio/pull/4875) refactor(v2): make even better SSR error notify and add tip ([@lex111](https://github.com/lex111))
-  - [#4866](https://github.com/ianaio/ianaio/pull/4866) refactor(v2): output URL to console only if it has changed ([@lex111](https://github.com/lex111))
+  - [#4870](https://github.com/ianaio/ianaio/pull/4870) refactor(v2): add exception handling if external command is fails ([@cichy](https://github.com/cichy))
+  - [#4875](https://github.com/ianaio/ianaio/pull/4875) refactor(v2): make even better SSR error notify and add tip ([@cichy](https://github.com/cichy))
+  - [#4866](https://github.com/ianaio/ianaio/pull/4866) refactor(v2): output URL to console only if it has changed ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
   - [#4814](https://github.com/ianaio/ianaio/pull/4814) refactor(v2): purify normalizeUrl ([@nam-hle](https://github.com/nam-hle))
 
@@ -3284,7 +3284,7 @@ Bad npm publish, use beta.13 instead
 
 - Other
   - [#4987](https://github.com/ianaio/ianaio/pull/4987) docs(v2): document canary releases ([@slorber](https://github.com/slorber))
-  - [#4981](https://github.com/ianaio/ianaio/pull/4981) docs(v2): minor tweaks ([@lex111](https://github.com/lex111))
+  - [#4981](https://github.com/ianaio/ianaio/pull/4981) docs(v2): minor tweaks ([@cichy](https://github.com/cichy))
   - [#4976](https://github.com/ianaio/ianaio/pull/4976) docs(v2): mention to install the algolia package in search doc ([@slorber](https://github.com/slorber))
   - [#4953](https://github.com/ianaio/ianaio/pull/4953) docs(v2): add Flagsmith to showcase ([@dabeeeenster](https://github.com/dabeeeenster))
   - [#4942](https://github.com/ianaio/ianaio/pull/4942) docs(v2): add info about `DefaultValue` prop in `Tabs` ([@ArtFlag](https://github.com/ArtFlag))
@@ -3315,13 +3315,13 @@ Bad npm publish, use beta.13 instead
 
 - Other
   - [#4994](https://github.com/ianaio/ianaio/pull/4994) misc: more issue template improvements ([@slorber](https://github.com/slorber))
-  - [#4951](https://github.com/ianaio/ianaio/pull/4951) misc: disable google-gtag plugin in Netlify deploys ([@lex111](https://github.com/lex111))
-  - [#4901](https://github.com/ianaio/ianaio/pull/4901) misc: optimize showcase images ([@lex111](https://github.com/lex111))
+  - [#4951](https://github.com/ianaio/ianaio/pull/4951) misc: disable google-gtag plugin in Netlify deploys ([@cichy](https://github.com/cichy))
+  - [#4901](https://github.com/ianaio/ianaio/pull/4901) misc: optimize showcase images ([@cichy](https://github.com/cichy))
   - [#4897](https://github.com/ianaio/ianaio/pull/4897) chore: fail CI if yarn.lock is modified on install ([@slorber](https://github.com/slorber))
-  - [#4858](https://github.com/ianaio/ianaio/pull/4858) chore(v2): add external link to community sidebar ([@lex111](https://github.com/lex111))
+  - [#4858](https://github.com/ianaio/ianaio/pull/4858) chore(v2): add external link to community sidebar ([@cichy](https://github.com/cichy))
   - [#4889](https://github.com/ianaio/ianaio/pull/4889) misc: issue template config typo ([@slorber](https://github.com/slorber))
   - [#4886](https://github.com/ianaio/ianaio/pull/4886) misc: add github issue template config ([@slorber](https://github.com/slorber))
-  - [#4878](https://github.com/ianaio/ianaio/pull/4878) misc: improve bug report issue template ([@lex111](https://github.com/lex111))
+  - [#4878](https://github.com/ianaio/ianaio/pull/4878) misc: improve bug report issue template ([@cichy](https://github.com/cichy))
   - [#4791](https://github.com/ianaio/ianaio/pull/4791) chore: fix canary version name ([@slorber](https://github.com/slorber))
   - [#4777](https://github.com/ianaio/ianaio/pull/4777) chore: regenerate examples on 2.0.0-beta.0 ([@slorber](https://github.com/slorber))
 - `ianaio-init`, `ianaio-migrate`, `ianaio`
@@ -3329,19 +3329,19 @@ Bad npm publish, use beta.13 instead
 - `ianaio-1.x`, `ianaio-init-1.x`
   - [#4902](https://github.com/ianaio/ianaio/pull/4902) chore: remove ianaio v1 from master branch (moved to ianaio-v1 branch) ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-ideal-image`
-  - [#4915](https://github.com/ianaio/ianaio/pull/4915) chore(v2): bump react-waypoint from 9.0.2 to 10.1.0 ([@lex111](https://github.com/lex111))
+  - [#4915](https://github.com/ianaio/ianaio/pull/4915) chore(v2): bump react-waypoint from 9.0.2 to 10.1.0 ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`
-  - [#4834](https://github.com/ianaio/ianaio/pull/4834) chore(v2): unlock prism-react-renderer version ([@lex111](https://github.com/lex111))
+  - [#4834](https://github.com/ianaio/ianaio/pull/4834) chore(v2): unlock prism-react-renderer version ([@cichy](https://github.com/cichy))
 - `ianaio-cssnano-preset`, `ianaio`
-  - [#4833](https://github.com/ianaio/ianaio/pull/4833) chore(v2): bump cssnano packages ([@lex111](https://github.com/lex111))
+  - [#4833](https://github.com/ianaio/ianaio/pull/4833) chore(v2): bump cssnano packages ([@cichy](https://github.com/cichy))
 - `ianaio-cssnano-preset`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-debug`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio-types`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`
-  - [#4816](https://github.com/ianaio/ianaio/pull/4816) chore(v2): upgrade dependencies ([@lex111](https://github.com/lex111))
+  - [#4816](https://github.com/ianaio/ianaio/pull/4816) chore(v2): upgrade dependencies ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#4790](https://github.com/ianaio/ianaio/pull/4790) chore(v2): TypeScript, use isolatedModules ([@slorber](https://github.com/slorber))
 
 #### Committers: 31
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Arthur ([@ArtFlag](https://github.com/ArtFlag))
 - Ben Rometsch ([@dabeeeenster](https://github.com/dabeeeenster))
 - Christopher Hsieh ([@Christopher-Hsieh](https://github.com/Christopher-Hsieh))
@@ -3361,7 +3361,7 @@ Bad npm publish, use beta.13 instead
 - Pratyay Banerjee ([@Neilblaze](https://github.com/Neilblaze))
 - PsychTech ([@PsychTechApS](https://github.com/PsychTechApS))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tinaël Devresse ([@HunteRoi](https://github.com/HunteRoi))
 - [@Massibian](https://github.com/Massibian)
 - [@antonygibbs](https://github.com/antonygibbs)
@@ -3375,7 +3375,7 @@ Bad npm publish, use beta.13 instead
 
 ## 2.0.0-beta.0 (2021-05-12)
 
-Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ianaio-two-beta)!
+Read the [2.0.0 beta blog post](https://iana.io/blog/2021/05/12/announcing-ianaio-two-beta)!
 
 **Note**: this first beta release does not contain any new major feature. We are removing the alpha label, as we are confident Ianaio 2 is stable enough.
 
@@ -3427,7 +3427,7 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 - Nam Hoang Le ([@nam-hle](https://github.com/nam-hle))
 - Rodrigo Moreno ([@rodmoreno](https://github.com/rodmoreno))
 - Sergio Rafael Gianazza ([@gianu](https://github.com/gianu))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Костя Третяк ([@KostyaTretyak](https://github.com/KostyaTretyak))
 
 ## 2.0.0-alpha.75 (2021-04-30)
@@ -3446,7 +3446,7 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 
 - Geoffroy Empain ([@gempain](https://github.com/gempain))
 - Reece Dunham ([@RDIL](https://github.com/RDIL))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tommy Chen ([@tommy351](https://github.com/tommy351))
 
 ## 2.0.0-alpha.74 (2021-04-27)
@@ -3473,13 +3473,13 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-utils-validation`
   - [#4654](https://github.com/ianaio/ianaio/pull/4654) fix(v2): fix too strict markdown frontmatter validation ([@johnnyreilly](https://github.com/johnnyreilly))
 - `ianaio-utils`
-  - [#4646](https://github.com/ianaio/ianaio/pull/4646) fix(v2): ignore imports when h1 heading parsing ([@lex111](https://github.com/lex111))
-  - [#4641](https://github.com/ianaio/ianaio/pull/4641) fix(v2): parse headings directly after h1 properly ([@lex111](https://github.com/lex111))
+  - [#4646](https://github.com/ianaio/ianaio/pull/4646) fix(v2): ignore imports when h1 heading parsing ([@cichy](https://github.com/cichy))
+  - [#4641](https://github.com/ianaio/ianaio/pull/4641) fix(v2): parse headings directly after h1 properly ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#4682](https://github.com/ianaio/ianaio/pull/4682) refactor(v2): align external icon on right ([@lex111](https://github.com/lex111))
+  - [#4682](https://github.com/ianaio/ianaio/pull/4682) refactor(v2): align external icon on right ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -3493,20 +3493,20 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 #### :house: Internal
 
 - Other
-  - [#4670](https://github.com/ianaio/ianaio/pull/4670) chore: add some redirects to v1.ianaio.io ([@slorber](https://github.com/slorber))
+  - [#4670](https://github.com/ianaio/ianaio/pull/4670) chore: add some redirects to v1.iana.io ([@slorber](https://github.com/slorber))
 - `ianaio-init`
   - [#4631](https://github.com/ianaio/ianaio/pull/4631) chore(v2): update examples to use alpha73 ([@slorber](https://github.com/slorber))
 
 #### Committers: 12
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Arnaud Jeannin ([@arnaudjnn](https://github.com/arnaudjnn))
 - DOLLE ([@JeremyDolle](https://github.com/JeremyDolle))
 - John Reilly ([@johnnyreilly](https://github.com/johnnyreilly))
 - Lisa Chandra ([@lisa761](https://github.com/lisa761))
 - Luis Medina Huerta ([@luism3861](https://github.com/luism3861))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tommy ([@react-learner](https://github.com/react-learner))
 - [@MisterFISHUP](https://github.com/MisterFISHUP)
 - [@alena-ko](https://github.com/alena-ko)
@@ -3549,15 +3549,15 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 
 - `ianaio-theme-classic`
   - [#4627](https://github.com/ianaio/ianaio/pull/4627) chore(v2): update Infima to alpha.22 ([@slorber](https://github.com/slorber))
-  - [#4621](https://github.com/ianaio/ianaio/pull/4621) fix(v2): center align content if no sidebar exists ([@lex111](https://github.com/lex111))
-  - [#4620](https://github.com/ianaio/ianaio/pull/4620) fix(v2): restore toggle responsive sidebar button ([@lex111](https://github.com/lex111))
-  - [#4598](https://github.com/ianaio/ianaio/pull/4598) fix(v2): render escaped HTML entities inside code properly ([@lex111](https://github.com/lex111))
+  - [#4621](https://github.com/ianaio/ianaio/pull/4621) fix(v2): center align content if no sidebar exists ([@cichy](https://github.com/cichy))
+  - [#4620](https://github.com/ianaio/ianaio/pull/4620) fix(v2): restore toggle responsive sidebar button ([@cichy](https://github.com/cichy))
+  - [#4598](https://github.com/ianaio/ianaio/pull/4598) fix(v2): render escaped HTML entities inside code properly ([@cichy](https://github.com/cichy))
   - [#4554](https://github.com/ianaio/ianaio/pull/4554) fix: DocNavbarItem error message ([@serut](https://github.com/serut))
   - [#4468](https://github.com/ianaio/ianaio/pull/4468) fix(v2): select correct tab when items are incorrectly ordered ([@armano2](https://github.com/armano2))
   - [#4461](https://github.com/ianaio/ianaio/pull/4461) fix(v2): Fix i18n staging deployment due to json typo ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
   - [#4541](https://github.com/ianaio/ianaio/pull/4541) fix(v2): fix code block title parsing, support multiple metastring attributes ([@duanwilliam](https://github.com/duanwilliam))
-  - [#4600](https://github.com/ianaio/ianaio/pull/4600) fix(v2): use page title from config if not set ([@lex111](https://github.com/lex111))
+  - [#4600](https://github.com/ianaio/ianaio/pull/4600) fix(v2): use page title from config if not set ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-pwa`, `ianaio-theme-classic`, `ianaio-theme-common`
   - [#4501](https://github.com/ianaio/ianaio/pull/4501) fix(v2): fail-safe usage of browser storage (localStorage/sessionStorage) when access is denied ([@jknoxville](https://github.com/jknoxville))
 - `ianaio-plugin-content-docs`, `ianaio-types`, `ianaio`
@@ -3581,8 +3581,8 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 - `ianaio-theme-classic`
   - [#4626](https://github.com/ianaio/ianaio/pull/4626) refactor(v2): toggleResponsiveSidebar => more stable callback ([@slorber](https://github.com/slorber))
   - [#4617](https://github.com/ianaio/ianaio/pull/4617) refactor(v2): simplify and optimize sidebar ([@slorber](https://github.com/slorber))
-  - [#4608](https://github.com/ianaio/ianaio/pull/4608) refactor(v2): replace react-toggle with own implementation ([@lex111](https://github.com/lex111))
-  - [#4601](https://github.com/ianaio/ianaio/pull/4601) refactor(v2): increase heading anchor offset ([@lex111](https://github.com/lex111))
+  - [#4608](https://github.com/ianaio/ianaio/pull/4608) refactor(v2): replace react-toggle with own implementation ([@cichy](https://github.com/cichy))
+  - [#4601](https://github.com/ianaio/ianaio/pull/4601) refactor(v2): increase heading anchor offset ([@cichy](https://github.com/cichy))
   - [#4467](https://github.com/ianaio/ianaio/pull/4467) refactor(v2): add missing types to theme-classic useTheme ([@armano2](https://github.com/armano2))
   - [#4448](https://github.com/ianaio/ianaio/pull/4448) polish(v2): Add german translations ([@miku86](https://github.com/miku86))
 - `ianaio-theme-classic`, `ianaio-theme-common`
@@ -3624,7 +3624,7 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
   - [#4481](https://github.com/ianaio/ianaio/pull/4481) docs(v2): fix grammar and improve wording ([@aehrea](https://github.com/aehrea))
   - [#4472](https://github.com/ianaio/ianaio/pull/4472) docs(v2): fixed broken link in sidebar documentation ([@covalentbond](https://github.com/covalentbond))
   - [#4470](https://github.com/ianaio/ianaio/pull/4470) docs(v2): Add missing i18n docs: API lifecycles + Crowdin migration guide ([@slorber](https://github.com/slorber))
-  - [#4460](https://github.com/ianaio/ianaio/pull/4460) docs(v2): use explicit heading IDs ([@lex111](https://github.com/lex111))
+  - [#4460](https://github.com/ianaio/ianaio/pull/4460) docs(v2): use explicit heading IDs ([@cichy](https://github.com/cichy))
   - [#4446](https://github.com/ianaio/ianaio/pull/4446) docs(v2): Add blog.johnnyreilly.com to showcase ([@johnnyreilly](https://github.com/johnnyreilly))
   - [#4430](https://github.com/ianaio/ianaio/pull/4430) docs(v2): add Deploy with QuandCDN ([@steveworley](https://github.com/steveworley))
   - [#4441](https://github.com/ianaio/ianaio/pull/4441) docs(v2): add stylable site to users showcase list ([@tomrav](https://github.com/tomrav))
@@ -3649,12 +3649,12 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
   - [#4488](https://github.com/ianaio/ianaio/pull/4488) chore(v2): fix typo in classic init template ([@clarus](https://github.com/clarus))
   - [#4471](https://github.com/ianaio/ianaio/pull/4471) chore: fix GH actions lint problem matchers issue in PR ([@slorber](https://github.com/slorber))
   - [#4458](https://github.com/ianaio/ianaio/pull/4458) chore(v2): enable staging locales: ko ja ([@slorber](https://github.com/slorber))
-  - [#4457](https://github.com/ianaio/ianaio/pull/4457) chore(v2): remove docs for alpha v70 ([@lex111](https://github.com/lex111))
+  - [#4457](https://github.com/ianaio/ianaio/pull/4457) chore(v2): remove docs for alpha v70 ([@cichy](https://github.com/cichy))
   - [#4452](https://github.com/ianaio/ianaio/pull/4452) chore(v2): update typescript-eslint to v4.18.0 ([@armano2](https://github.com/armano2))
 - `ianaio`
   - [#4516](https://github.com/ianaio/ianaio/pull/4516) ci(v2): fail CI if build takes too much time ([@slorber](https://github.com/slorber))
 - `ianaio-init`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-preset-bootstrap`, `ianaio-preset-classic`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#4490](https://github.com/ianaio/ianaio/pull/4490) chore: rename v2.ianaio.io urls after domain switch + redirect + cleanups ([@slorber](https://github.com/slorber))
+  - [#4490](https://github.com/ianaio/ianaio/pull/4490) chore: rename v2.iana.io urls after domain switch + redirect + cleanups ([@slorber](https://github.com/slorber))
 - `ianaio-1.x`
   - [#4475](https://github.com/ianaio/ianaio/pull/4475) chore: prepare v1-v2 domain switch ([@slorber](https://github.com/slorber))
   - [#4447](https://github.com/ianaio/ianaio/pull/4447) chore: simplify CI setup ([@slorber](https://github.com/slorber))
@@ -3669,13 +3669,13 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 
 - `ianaio-theme-classic`
   - [#4626](https://github.com/ianaio/ianaio/pull/4626) refactor(v2): toggleResponsiveSidebar => more stable callback ([@slorber](https://github.com/slorber))
-  - [#4603](https://github.com/ianaio/ianaio/pull/4603) perf(v2): avoid rerender of sidebar items while scrolling ([@lex111](https://github.com/lex111))
+  - [#4603](https://github.com/ianaio/ianaio/pull/4603) perf(v2): avoid rerender of sidebar items while scrolling ([@cichy](https://github.com/cichy))
   - [#4473](https://github.com/ianaio/ianaio/pull/4473) perf(v2): reduce amount of component updates while scrolling ([@armano2](https://github.com/armano2))
 
 #### Committers: 37
 
 - Ajeet Singh Raina, Docker Captain, RedisLabs ([@ajeetraina](https://github.com/ajeetraina))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Anthony Bobsin ([@AnthonyBobsin](https://github.com/AnthonyBobsin))
 - Arijit Kundu ([@covalentbond](https://github.com/covalentbond))
 - Armano ([@armano2](https://github.com/armano2))
@@ -3696,7 +3696,7 @@ Read the [2.0.0 beta blog post](https://ianaio.io/blog/2021/05/12/announcing-ian
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
 - Steve ([@steveworley](https://github.com/steveworley))
 - Steven Hansel ([@ShinteiMai](https://github.com/ShinteiMai))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tales Porto ([@talesporto](https://github.com/talesporto))
 - Thiago Sciotta ([@thiagog3](https://github.com/thiagog3))
 - Tiago Ribeiro ([@tiago-rr](https://github.com/tiago-rr))
@@ -3734,10 +3734,10 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#4429](https://github.com/ianaio/ianaio/pull/4429) chore(v2): upgrade Infima to v0.2.0-alpha.21 ([@lex111](https://github.com/lex111))
-  - [#4428](https://github.com/ianaio/ianaio/pull/4428) fix(v2): allow using pre tag in Markdown directly ([@lex111](https://github.com/lex111))
-  - [#4381](https://github.com/ianaio/ianaio/pull/4381) fix(v2): specify proper TS path in classic theme ([@lex111](https://github.com/lex111))
-  - [#4383](https://github.com/ianaio/ianaio/pull/4383) fix(v2): set theme color mode for SSR ([@lex111](https://github.com/lex111))
+  - [#4429](https://github.com/ianaio/ianaio/pull/4429) chore(v2): upgrade Infima to v0.2.0-alpha.21 ([@cichy](https://github.com/cichy))
+  - [#4428](https://github.com/ianaio/ianaio/pull/4428) fix(v2): allow using pre tag in Markdown directly ([@cichy](https://github.com/cichy))
+  - [#4381](https://github.com/ianaio/ianaio/pull/4381) fix(v2): specify proper TS path in classic theme ([@cichy](https://github.com/cichy))
+  - [#4383](https://github.com/ianaio/ianaio/pull/4383) fix(v2): set theme color mode for SSR ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-pwa`
   - [#4424](https://github.com/ianaio/ianaio/pull/4424) fix(v2): add missing peer dep on @babel/core ([@SimenB](https://github.com/SimenB))
   - [#4377](https://github.com/ianaio/ianaio/pull/4377) fix(v2): PWA issues + improve docs ([@slorber](https://github.com/slorber))
@@ -3778,11 +3778,11 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4399](https://github.com/ianaio/ianaio/pull/4399) chore(v2): upgrade example projects ([@slorber](https://github.com/slorber))
   - [#4398](https://github.com/ianaio/ianaio/pull/4398) chore(v1): trigger v1 site deploy through CI ([@slorber](https://github.com/slorber))
 - `ianaio-utils`
-  - [#4384](https://github.com/ianaio/ianaio/pull/4384) chore(v2): avoid bad publish of intl-locales-supported ([@lex111](https://github.com/lex111))
+  - [#4384](https://github.com/ianaio/ianaio/pull/4384) chore(v2): avoid bad publish of intl-locales-supported ([@cichy](https://github.com/cichy))
 
 #### Committers: 14
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Armano ([@armano2](https://github.com/armano2))
 - Harvtronix ([@Harvtronix](https://github.com/Harvtronix))
 - Joon-Ha Lee ([@koko8829](https://github.com/koko8829))
@@ -3793,7 +3793,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - Quan ([@quanengineering](https://github.com/quanengineering))
 - Simen Bekkhus ([@SimenB](https://github.com/SimenB))
 - Steven Hansel ([@ShinteiMai](https://github.com/ShinteiMai))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Zoltan Kochan ([@zkochan](https://github.com/zkochan))
 - [@Rhodanthe1116](https://github.com/Rhodanthe1116)
 
@@ -3802,20 +3802,20 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :rocket: New Feature
 
 - `ianaio-init`, `ianaio-mdx-loader`, `ianaio-utils`, `ianaio`
-  - [#4222](https://github.com/ianaio/ianaio/pull/4222) feat(v2): add ability to set custom heading id ([@lex111](https://github.com/lex111))
+  - [#4222](https://github.com/ianaio/ianaio/pull/4222) feat(v2): add ability to set custom heading id ([@cichy](https://github.com/cichy))
 - `ianaio-theme-live-codeblock`
   - [#4328](https://github.com/ianaio/ianaio/pull/4328) feat(v2): Add playgroundPosition config for live codeblock ([@tokarchyn](https://github.com/tokarchyn))
 - `ianaio-theme-classic`
-  - [#4209](https://github.com/ianaio/ianaio/pull/4209) feat(v2): auto focus to tab if it is outside viewport ([@lex111](https://github.com/lex111))
+  - [#4209](https://github.com/ianaio/ianaio/pull/4209) feat(v2): auto focus to tab if it is outside viewport ([@cichy](https://github.com/cichy))
   - [#4329](https://github.com/ianaio/ianaio/pull/4329) feat(v2): add arabic translation ([@3alisaki](https://github.com/3alisaki))
   - [#4325](https://github.com/ianaio/ianaio/pull/4325) feat(v2): [theme-classic] add Polish translation ([@Simek](https://github.com/Simek))
   - [#4312](https://github.com/ianaio/ianaio/pull/4312) feat(v2): Add Turkish translations for theme labels ([@caglarturali](https://github.com/caglarturali))
   - [#4271](https://github.com/ianaio/ianaio/pull/4271) feat(v2): add Farsi default translations ([@slorber](https://github.com/slorber))
-  - [#4261](https://github.com/ianaio/ianaio/pull/4261) feat(v2): add icon to generic sidebar link ([@lex111](https://github.com/lex111))
+  - [#4261](https://github.com/ianaio/ianaio/pull/4261) feat(v2): add icon to generic sidebar link ([@cichy](https://github.com/cichy))
   - [#4109](https://github.com/ianaio/ianaio/pull/4109) feat(v2): default canonical urls ([@slorber](https://github.com/slorber))
 - `ianaio-types`, `ianaio`
   - [#4308](https://github.com/ianaio/ianaio/pull/4308) feat(v2): add --config option to CLI ([@longlho](https://github.com/longlho))
-  - [#4185](https://github.com/ianaio/ianaio/pull/4185) feat(v2): allow extend PostCSS config ([@lex111](https://github.com/lex111))
+  - [#4185](https://github.com/ianaio/ianaio/pull/4185) feat(v2): allow extend PostCSS config ([@cichy](https://github.com/cichy))
   - [#4021](https://github.com/ianaio/ianaio/pull/4021) feat(v2): Allow plugins to consume webpack stats ([@RDIL](https://github.com/RDIL))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
   - [#4303](https://github.com/ianaio/ianaio/pull/4303) feat(v2): add japanese translations ([@ykzts](https://github.com/ykzts))
@@ -3827,13 +3827,13 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4232](https://github.com/ianaio/ianaio/pull/4232) feat(v2): editUrl functions should receive md doc permalink ([@slorber](https://github.com/slorber))
   - [#4121](https://github.com/ianaio/ianaio/pull/4121) feat(v2): editUrl function for advanced use-cases ([@slorber](https://github.com/slorber))
 - `ianaio-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-ideal-image`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-preset-bootstrap`, `ianaio-preset-classic`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#4218](https://github.com/ianaio/ianaio/pull/4218) feat(v2): support/use React v17 by default ([@lex111](https://github.com/lex111))
+  - [#4218](https://github.com/ianaio/ianaio/pull/4218) feat(v2): support/use React v17 by default ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-types`, `ianaio-utils`, `ianaio`
   - [#4215](https://github.com/ianaio/ianaio/pull/4215) feat(v2): Add i18n default code translation bundles ([@slorber](https://github.com/slorber))
 - `ianaio-module-type-aliases`, `ianaio-theme-classic`, `ianaio-types`, `ianaio`
-  - [#4140](https://github.com/ianaio/ianaio/pull/4140) feat(v2): add support for RTL direction ([@lex111](https://github.com/lex111))
+  - [#4140](https://github.com/ianaio/ianaio/pull/4140) feat(v2): add support for RTL direction ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-common`
-  - [#4199](https://github.com/ianaio/ianaio/pull/4199) feat(v2): allow to change location of search bar ([@lex111](https://github.com/lex111))
+  - [#4199](https://github.com/ianaio/ianaio/pull/4199) feat(v2): allow to change location of search bar ([@cichy](https://github.com/cichy))
   - [#3993](https://github.com/ianaio/ianaio/pull/3993) feat(v2): themed logo in footer ([@natac13](https://github.com/natac13))
 - `ianaio`
   - [#4198](https://github.com/ianaio/ianaio/pull/4198) feat(v2): add fonts loaders + webpack resolve.roots ([@slorber](https://github.com/slorber))
@@ -3851,64 +3851,64 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :boom: Breaking Change
 
 - `ianaio-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-ideal-image`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-preset-bootstrap`, `ianaio-preset-classic`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`, `lqip-loader`
-  - [#4223](https://github.com/ianaio/ianaio/pull/4223) chore(v2): upgrade dependencies + require Node 12 ([@lex111](https://github.com/lex111))
+  - [#4223](https://github.com/ianaio/ianaio/pull/4223) chore(v2): upgrade dependencies + require Node 12 ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio`
   - [#4366](https://github.com/ianaio/ianaio/pull/4366) fix(v2): align installed core-js version with babel config ([@armano2](https://github.com/armano2))
   - [#4345](https://github.com/ianaio/ianaio/pull/4345) fix(v2): always extract translations from site/src ([@slorber](https://github.com/slorber))
-  - [#4342](https://github.com/ianaio/ianaio/pull/4342) chore(v2): bump clean-css to 5.1.1 ([@lex111](https://github.com/lex111))
+  - [#4342](https://github.com/ianaio/ianaio/pull/4342) chore(v2): bump clean-css to 5.1.1 ([@cichy](https://github.com/cichy))
   - [#4212](https://github.com/ianaio/ianaio/pull/4212) fix(v2): typo in resolve.roots ([@slorber](https://github.com/slorber))
   - [#4155](https://github.com/ianaio/ianaio/pull/4155) fix(v2): BaseUrl issue banner insertion should be prevented if JS can load ([@slorber](https://github.com/slorber))
-  - [#4137](https://github.com/ianaio/ianaio/pull/4137) fix(v2): escape apostrophes in route paths ([@lex111](https://github.com/lex111))
-  - [#4136](https://github.com/ianaio/ianaio/pull/4136) fix(v2): fix navigation from homepage ([@lex111](https://github.com/lex111))
+  - [#4137](https://github.com/ianaio/ianaio/pull/4137) fix(v2): escape apostrophes in route paths ([@cichy](https://github.com/cichy))
+  - [#4136](https://github.com/ianaio/ianaio/pull/4136) fix(v2): fix navigation from homepage ([@cichy](https://github.com/cichy))
   - [#4125](https://github.com/ianaio/ianaio/pull/4125) fix(v2): baseUrl help banner should not be indexed by Google / SEO ([@slorber](https://github.com/slorber))
   - [#4080](https://github.com/ianaio/ianaio/pull/4080) fix(v2): chokidar reloading debounced ([@semoal](https://github.com/semoal))
   - [#3965](https://github.com/ianaio/ianaio/pull/3965) fix(v2): fix svg loader for CSS files ([@apurvaojas](https://github.com/apurvaojas))
-  - [#3943](https://github.com/ianaio/ianaio/pull/3943) fix(v2): disables all inlining in CleanCSS ([@lex111](https://github.com/lex111))
+  - [#3943](https://github.com/ianaio/ianaio/pull/3943) fix(v2): disables all inlining in CleanCSS ([@cichy](https://github.com/cichy))
   - [#3941](https://github.com/ianaio/ianaio/pull/3941) fix(v2): fix i18n build logging. ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
   - [#4349](https://github.com/ianaio/ianaio/pull/4349) fix(v2): fix update code translations script + update some translations ([@slorber](https://github.com/slorber))
-  - [#4311](https://github.com/ianaio/ianaio/pull/4311) fix(v2): fit footer in viewport when content area is too small ([@lex111](https://github.com/lex111))
+  - [#4311](https://github.com/ianaio/ianaio/pull/4311) fix(v2): fit footer in viewport when content area is too small ([@cichy](https://github.com/cichy))
   - [#4340](https://github.com/ianaio/ianaio/pull/4340) fix(v2): prevent useless blog pages to be in search results ([@slorber](https://github.com/slorber))
   - [#4274](https://github.com/ianaio/ianaio/pull/4274) fix(v2): theme classic should have lib-next prettified ([@slorber](https://github.com/slorber))
   - [#4267](https://github.com/ianaio/ianaio/pull/4267) fix(v2): Allow null as valid for title of item in footer links. ([@ben-qnimble](https://github.com/ben-qnimble))
   - [#4254](https://github.com/ianaio/ianaio/pull/4254) fix(v2): fix LTR PostCSS bug on Netlify and monorepo symlinks ([@slorber](https://github.com/slorber))
-  - [#4247](https://github.com/ianaio/ianaio/pull/4247) fix(v2): make doc container full width when hidden sidebar ([@lex111](https://github.com/lex111))
-  - [#4241](https://github.com/ianaio/ianaio/pull/4241) fix(v2): avoid horizontal scrolling when long lines of code ([@lex111](https://github.com/lex111))
-  - [#4200](https://github.com/ianaio/ianaio/pull/4200) fix(v2): various minor bugs with location hash ([@lex111](https://github.com/lex111))
-  - [#4195](https://github.com/ianaio/ianaio/pull/4195) fix(v2): restore hamburger menu ([@lex111](https://github.com/lex111))
-  - [#4189](https://github.com/ianaio/ianaio/pull/4189) fix(v2): prevent click on item menu with children on mobiles ([@lex111](https://github.com/lex111))
-  - [#4176](https://github.com/ianaio/ianaio/pull/4176) fix(v2): make locale dropdown accessible from keyboard ([@lex111](https://github.com/lex111))
-  - [#4163](https://github.com/ianaio/ianaio/pull/4163) fix(v2): fix warning and improve styling inline TOC ([@lex111](https://github.com/lex111))
-  - [#4162](https://github.com/ianaio/ianaio/pull/4162) fix(v2): make more accessible skip link ([@lex111](https://github.com/lex111))
+  - [#4247](https://github.com/ianaio/ianaio/pull/4247) fix(v2): make doc container full width when hidden sidebar ([@cichy](https://github.com/cichy))
+  - [#4241](https://github.com/ianaio/ianaio/pull/4241) fix(v2): avoid horizontal scrolling when long lines of code ([@cichy](https://github.com/cichy))
+  - [#4200](https://github.com/ianaio/ianaio/pull/4200) fix(v2): various minor bugs with location hash ([@cichy](https://github.com/cichy))
+  - [#4195](https://github.com/ianaio/ianaio/pull/4195) fix(v2): restore hamburger menu ([@cichy](https://github.com/cichy))
+  - [#4189](https://github.com/ianaio/ianaio/pull/4189) fix(v2): prevent click on item menu with children on mobiles ([@cichy](https://github.com/cichy))
+  - [#4176](https://github.com/ianaio/ianaio/pull/4176) fix(v2): make locale dropdown accessible from keyboard ([@cichy](https://github.com/cichy))
+  - [#4163](https://github.com/ianaio/ianaio/pull/4163) fix(v2): fix warning and improve styling inline TOC ([@cichy](https://github.com/cichy))
+  - [#4162](https://github.com/ianaio/ianaio/pull/4162) fix(v2): make more accessible skip link ([@cichy](https://github.com/cichy))
   - [#4160](https://github.com/ianaio/ianaio/pull/4160) fix(v2): fix hreflang headers ([@slorber](https://github.com/slorber))
-  - [#4147](https://github.com/ianaio/ianaio/pull/4147) fix(v2): avoid misuse section tag in blog posts ([@lex111](https://github.com/lex111))
-  - [#4146](https://github.com/ianaio/ianaio/pull/4146) fix(v2): use current color for language icon ([@lex111](https://github.com/lex111))
+  - [#4147](https://github.com/ianaio/ianaio/pull/4147) fix(v2): avoid misuse section tag in blog posts ([@cichy](https://github.com/cichy))
+  - [#4146](https://github.com/ianaio/ianaio/pull/4146) fix(v2): use current color for language icon ([@cichy](https://github.com/cichy))
   - [#4118](https://github.com/ianaio/ianaio/pull/4118) fix(v2): navbar dropdown subitems should be translated properly ([@slorber](https://github.com/slorber))
   - [#4011](https://github.com/ianaio/ianaio/pull/4011) fix(v2): fix accessibility issue with IconArrow ([@natac13](https://github.com/natac13))
   - [#3968](https://github.com/ianaio/ianaio/pull/3968) fix(v2): fix blog only contextual search ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#4315](https://github.com/ianaio/ianaio/pull/4315) fix(v2): make code blocks more standalone ([@lex111](https://github.com/lex111))
+  - [#4315](https://github.com/ianaio/ianaio/pull/4315) fix(v2): make code blocks more standalone ([@cichy](https://github.com/cichy))
   - [#4277](https://github.com/ianaio/ianaio/pull/4277) fix(v2): Code blocks should be LTR by default ([@slorber](https://github.com/slorber))
 - `ianaio-theme-live-codeblock`
-  - [#4318](https://github.com/ianaio/ianaio/pull/4318) fix(v2): evaluate code in live editor on client only ([@lex111](https://github.com/lex111))
+  - [#4318](https://github.com/ianaio/ianaio/pull/4318) fix(v2): evaluate code in live editor on client only ([@cichy](https://github.com/cichy))
   - [#3954](https://github.com/ianaio/ianaio/pull/3954) fix(v2): allow async/await in live code editor ([@9oelM](https://github.com/9oelM))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
   - [#4339](https://github.com/ianaio/ianaio/pull/4339) fix(v2): search page results localization ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`, `ianaio-theme-search-algolia`, `ianaio`
   - [#4304](https://github.com/ianaio/ianaio/pull/4304) fix(v2): fix bad theme pluralization rules for some labels ([@slorber](https://github.com/slorber))
 - `ianaio-cssnano-preset`
-  - [#4240](https://github.com/ianaio/ianaio/pull/4240) fix(v2): remove PostCSS plugin for combine duplicated selectors ([@lex111](https://github.com/lex111))
+  - [#4240](https://github.com/ianaio/ianaio/pull/4240) fix(v2): remove PostCSS plugin for combine duplicated selectors ([@cichy](https://github.com/cichy))
 - Other
   - [#4234](https://github.com/ianaio/ianaio/pull/4234) fix(v2): fix website versions page ([@slorber](https://github.com/slorber))
   - [#4233](https://github.com/ianaio/ianaio/pull/4233) fix(v2): website editUrl should target upstream docs ([@slorber](https://github.com/slorber))
   - [#4067](https://github.com/ianaio/ianaio/pull/4067) fix(v2): Fix blog post url/date ([@slorber](https://github.com/slorber))
   - [#3952](https://github.com/ianaio/ianaio/pull/3952) docs(v2): Fix invalid json ([@oze4](https://github.com/oze4))
 - `ianaio-theme-search-algolia`
-  - [#4188](https://github.com/ianaio/ianaio/pull/4188) fix(v2): prepend docsearch modal to body element ([@lex111](https://github.com/lex111))
-  - [#4154](https://github.com/ianaio/ianaio/pull/4154) fix(v2): add base url to opensearch.xml ([@lex111](https://github.com/lex111))
+  - [#4188](https://github.com/ianaio/ianaio/pull/4188) fix(v2): prepend docsearch modal to body element ([@cichy](https://github.com/cichy))
+  - [#4154](https://github.com/ianaio/ianaio/pull/4154) fix(v2): add base url to opensearch.xml ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-ideal-image`
   - [#4166](https://github.com/ianaio/ianaio/pull/4166) fix(v2): ideal image assets should be served under ./assets ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio-theme-common`
@@ -3921,46 +3921,46 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - `ianaio-plugin-client-redirects`
   - [#3903](https://github.com/ianaio/ianaio/pull/3903) fix(v2): fix redirect toUrl (windows + trailing slash) ([@saydo17](https://github.com/saydo17))
 - `ianaio-utils`
-  - [#3944](https://github.com/ianaio/ianaio/pull/3944) fix(v2): ignore style imports in excerpt ([@lex111](https://github.com/lex111))
+  - [#3944](https://github.com/ianaio/ianaio/pull/3944) fix(v2): ignore style imports in excerpt ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#4371](https://github.com/ianaio/ianaio/pull/4371) refactor(v2): update Russian translation in classic theme ([@lex111](https://github.com/lex111))
+  - [#4371](https://github.com/ianaio/ianaio/pull/4371) refactor(v2): update Russian translation in classic theme ([@cichy](https://github.com/cichy))
   - [#4359](https://github.com/ianaio/ianaio/pull/4359) polish(v2): [theme-classic] slightly improve Japanese translation ([@MisterFISHUP](https://github.com/MisterFISHUP))
   - [#4350](https://github.com/ianaio/ianaio/pull/4350) polish(v2): Updated theme label translations for Turkish ([@caglarturali](https://github.com/caglarturali))
   - [#4351](https://github.com/ianaio/ianaio/pull/4351) polish(v2): add japanese translation for #4304 ([@ykzts](https://github.com/ykzts))
   - [#4309](https://github.com/ianaio/ianaio/pull/4309) polish(v2): improved Farsi translation ([@massoudmaboudi](https://github.com/massoudmaboudi))
   - [#4279](https://github.com/ianaio/ianaio/pull/4279) polish(v2): theme default translations for language de / german ([@philipp985](https://github.com/philipp985))
   - [#4275](https://github.com/ianaio/ianaio/pull/4275) polish(v2): Add more tags translations ([@slorber](https://github.com/slorber))
-  - [#4246](https://github.com/ianaio/ianaio/pull/4246) refactor(v2): add Russian translation for classic theme ([@lex111](https://github.com/lex111))
-  - [#4242](https://github.com/ianaio/ianaio/pull/4242) refactor(v2): use Link component for external links ([@lex111](https://github.com/lex111))
-  - [#4244](https://github.com/ianaio/ianaio/pull/4244) refactor(v2): clean-ups and fixes ([@lex111](https://github.com/lex111))
-  - [#4193](https://github.com/ianaio/ianaio/pull/4193) refactor(v2): update tabs to follow WAI-ARIA spec ([@lex111](https://github.com/lex111))
-  - [#4194](https://github.com/ianaio/ianaio/pull/4194) refactor(v2): use transform instead of top position for hideable navbar ([@lex111](https://github.com/lex111))
-  - [#4167](https://github.com/ianaio/ianaio/pull/4167) refactor(v2): minor styling improvements ([@lex111](https://github.com/lex111))
-  - [#4169](https://github.com/ianaio/ianaio/pull/4169) refactor(v2): remove delay after skip link pressed ([@lex111](https://github.com/lex111))
+  - [#4246](https://github.com/ianaio/ianaio/pull/4246) refactor(v2): add Russian translation for classic theme ([@cichy](https://github.com/cichy))
+  - [#4242](https://github.com/ianaio/ianaio/pull/4242) refactor(v2): use Link component for external links ([@cichy](https://github.com/cichy))
+  - [#4244](https://github.com/ianaio/ianaio/pull/4244) refactor(v2): clean-ups and fixes ([@cichy](https://github.com/cichy))
+  - [#4193](https://github.com/ianaio/ianaio/pull/4193) refactor(v2): update tabs to follow WAI-ARIA spec ([@cichy](https://github.com/cichy))
+  - [#4194](https://github.com/ianaio/ianaio/pull/4194) refactor(v2): use transform instead of top position for hideable navbar ([@cichy](https://github.com/cichy))
+  - [#4167](https://github.com/ianaio/ianaio/pull/4167) refactor(v2): minor styling improvements ([@cichy](https://github.com/cichy))
+  - [#4169](https://github.com/ianaio/ianaio/pull/4169) refactor(v2): remove delay after skip link pressed ([@cichy](https://github.com/cichy))
   - [#4086](https://github.com/ianaio/ianaio/pull/4086) style(v2): add className to tab container ([@ArtFlag](https://github.com/ArtFlag))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
-  - [#4352](https://github.com/ianaio/ianaio/pull/4352) refactor(v2): format last updated date using Intl ([@lex111](https://github.com/lex111))
-  - [#4243](https://github.com/ianaio/ianaio/pull/4243) refactor(v2): introduce Seo component for internal using ([@lex111](https://github.com/lex111))
+  - [#4352](https://github.com/ianaio/ianaio/pull/4352) refactor(v2): format last updated date using Intl ([@cichy](https://github.com/cichy))
+  - [#4243](https://github.com/ianaio/ianaio/pull/4243) refactor(v2): introduce Seo component for internal using ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-theme-classic`, `ianaio-utils`
-  - [#4344](https://github.com/ianaio/ianaio/pull/4344) refactor(v2): format post date using Intl ([@lex111](https://github.com/lex111))
+  - [#4344](https://github.com/ianaio/ianaio/pull/4344) refactor(v2): format post date using Intl ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#4257](https://github.com/ianaio/ianaio/pull/4257) refactor(v2): improve notifier message ([@lex111](https://github.com/lex111))
+  - [#4257](https://github.com/ianaio/ianaio/pull/4257) refactor(v2): improve notifier message ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-pwa`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#4219](https://github.com/ianaio/ianaio/pull/4219) refactor(v2): add more translatable strings ([@lex111](https://github.com/lex111))
+  - [#4219](https://github.com/ianaio/ianaio/pull/4219) refactor(v2): add more translatable strings ([@cichy](https://github.com/cichy))
 - Other
   - [#4074](https://github.com/ianaio/ianaio/pull/4074) polish(v2): improve codesandbox template package.json ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-debug`
   - [#3953](https://github.com/ianaio/ianaio/pull/3953) refactor(v2): fix debug plugin name ([@RDIL](https://github.com/RDIL))
 - `ianaio-plugin-debug`, `ianaio-theme-classic`
-  - [#3946](https://github.com/ianaio/ianaio/pull/3946) refactor(v2): minor a11y tweaks ([@lex111](https://github.com/lex111))
+  - [#3946](https://github.com/ianaio/ianaio/pull/3946) refactor(v2): minor a11y tweaks ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - Other
-  - [#4369](https://github.com/ianaio/ianaio/pull/4369) docs(v2): various improvements ([@lex111](https://github.com/lex111))
+  - [#4369](https://github.com/ianaio/ianaio/pull/4369) docs(v2): various improvements ([@cichy](https://github.com/cichy))
   - [#4362](https://github.com/ianaio/ianaio/pull/4362) docs(v2): Add stryker-mutator.io to showcase ([@nicojs](https://github.com/nicojs))
   - [#4354](https://github.com/ianaio/ianaio/pull/4354) docs(v2): add trpgengine showcase ([@moonrailgun](https://github.com/moonrailgun))
   - [#4346](https://github.com/ianaio/ianaio/pull/4346) docs(v1): update phrasing for website dir relative to docs dir ([@aukokyong](https://github.com/aukokyong))
@@ -3989,7 +3989,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4225](https://github.com/ianaio/ianaio/pull/4225) docs(v2): added Apache APISIX ([@juzhiyuan](https://github.com/juzhiyuan))
   - [#4224](https://github.com/ianaio/ianaio/pull/4224) docs(v2): Add MikroORM site to showcase page ([@B4nan](https://github.com/B4nan))
   - [#4220](https://github.com/ianaio/ianaio/pull/4220) Add WebdriverIO docs page as showcase ([@christian-bromann](https://github.com/christian-bromann))
-  - [#4210](https://github.com/ianaio/ianaio/pull/4210) misc: add requirements for sites being added to showcase ([@lex111](https://github.com/lex111))
+  - [#4210](https://github.com/ianaio/ianaio/pull/4210) misc: add requirements for sites being added to showcase ([@cichy](https://github.com/cichy))
   - [#4207](https://github.com/ianaio/ianaio/pull/4207) docs(v2): Added Console Table Documentation Site to showcase ([@ayonious](https://github.com/ayonious))
   - [#4204](https://github.com/ianaio/ianaio/pull/4204) docs(v1): fixing a broken link in blog posts ([@ayonious](https://github.com/ayonious))
   - [#4178](https://github.com/ianaio/ianaio/pull/4178) docs(v2): localize 404 page with Netlify + docs ([@slorber](https://github.com/slorber))
@@ -4013,7 +4013,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4020](https://github.com/ianaio/ianaio/pull/4020) docs(v2): 2020 recap blog post ([@slorber](https://github.com/slorber))
   - [#4009](https://github.com/ianaio/ianaio/pull/4009) docs(v2): add hideableSidebar option to config demo ([@natac13](https://github.com/natac13))
   - [#4062](https://github.com/ianaio/ianaio/pull/4062) docs(v2): Add codesandbox integration ([@sammychinedu2ky](https://github.com/sammychinedu2ky))
-  - [#4058](https://github.com/ianaio/ianaio/pull/4058) docs(v2): Include new.ianaio.io CodeSandbox in issue templates + README ([@slorber](https://github.com/slorber))
+  - [#4058](https://github.com/ianaio/ianaio/pull/4058) docs(v2): Include new.iana.io CodeSandbox in issue templates + README ([@slorber](https://github.com/slorber))
   - [#4053](https://github.com/ianaio/ianaio/pull/4053) docs(v2): Add Eightshift Docs site to showcase page ([@iruzevic](https://github.com/iruzevic))
   - [#4048](https://github.com/ianaio/ianaio/pull/4048) docs(v1): Docker: remind the user to use the --host flag ([@tomsfernandez](https://github.com/tomsfernandez))
   - [#4047](https://github.com/ianaio/ianaio/pull/4047) docs(v1): version page should recommend v2 ([@slorber](https://github.com/slorber))
@@ -4054,13 +4054,13 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4368](https://github.com/ianaio/ianaio/pull/4368) chore(deps): bump elliptic from 6.5.3 to 6.5.4 ([@dependabot[bot]](https://github.com/apps/dependabot))
   - [#4365](https://github.com/ianaio/ianaio/pull/4365) chore: unstable yarnlock ([@slorber](https://github.com/slorber))
   - [#4337](https://github.com/ianaio/ianaio/pull/4337) misc: restore build size bot ([@slorber](https://github.com/slorber))
-  - [#4289](https://github.com/ianaio/ianaio/pull/4289) chore(v2): remove docs for alpha v69 ([@lex111](https://github.com/lex111))
-  - [#4253](https://github.com/ianaio/ianaio/pull/4253) chore(v2): remove docs for alpha v68 ([@lex111](https://github.com/lex111))
+  - [#4289](https://github.com/ianaio/ianaio/pull/4289) chore(v2): remove docs for alpha v69 ([@cichy](https://github.com/cichy))
+  - [#4253](https://github.com/ianaio/ianaio/pull/4253) chore(v2): remove docs for alpha v68 ([@cichy](https://github.com/cichy))
   - [#4248](https://github.com/ianaio/ianaio/pull/4248) chore(v2): Fix build size bot ([@slorber](https://github.com/slorber))
   - [#4214](https://github.com/ianaio/ianaio/pull/4214) chore(v2): setup for i18n staging deployment ([@slorber](https://github.com/slorber))
   - [#4159](https://github.com/ianaio/ianaio/pull/4159) chore(v2): fix build size bot again ([@slorber](https://github.com/slorber))
   - [#4156](https://github.com/ianaio/ianaio/pull/4156) chore(v2): fix build size bot monitoring of js/css assets ([@slorber](https://github.com/slorber))
-  - [#4100](https://github.com/ianaio/ianaio/pull/4100) chore(v2): remove docs for alpha v66 ([@lex111](https://github.com/lex111))
+  - [#4100](https://github.com/ianaio/ianaio/pull/4100) chore(v2): remove docs for alpha v66 ([@cichy](https://github.com/cichy))
   - [#4077](https://github.com/ianaio/ianaio/pull/4077) chore(v2): fix unstable master yarn.lock ([@slorber](https://github.com/slorber))
   - [#4063](https://github.com/ianaio/ianaio/pull/4063) chore(v2): Regen codesandbox templates + add template: "ianaio" ([@slorber](https://github.com/slorber))
   - [#4056](https://github.com/ianaio/ianaio/pull/4056) chore(v2): update codesandbox redirect ([@slorber](https://github.com/slorber))
@@ -4069,14 +4069,14 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4030](https://github.com/ianaio/ianaio/pull/4030) chore(v2): install Crowdin cli through npm package ([@slorber](https://github.com/slorber))
   - [#4003](https://github.com/ianaio/ianaio/pull/4003) chore: add DevContainer config for GitHub codespaces ([@kumaraditya303](https://github.com/kumaraditya303))
   - [#4001](https://github.com/ianaio/ianaio/pull/4001) chore(v2): Upgrade crowdin ([@slorber](https://github.com/slorber))
-  - [#3995](https://github.com/ianaio/ianaio/pull/3995) chore(v2): remove docs for alpha v65 ([@lex111](https://github.com/lex111))
-  - [#3960](https://github.com/ianaio/ianaio/pull/3960) fix(v2): remove duplicate section on Versions page ([@lex111](https://github.com/lex111))
+  - [#3995](https://github.com/ianaio/ianaio/pull/3995) chore(v2): remove docs for alpha v65 ([@cichy](https://github.com/cichy))
+  - [#3960](https://github.com/ianaio/ianaio/pull/3960) fix(v2): remove duplicate section on Versions page ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
   - [#4370](https://github.com/ianaio/ianaio/pull/4370) chore(v2): update infima ([@slorber](https://github.com/slorber))
 - `ianaio-init`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-utils`, `ianaio`, `lqip-loader`
   - [#4361](https://github.com/ianaio/ianaio/pull/4361) refactor(v2): remove duplicated lodash dependencies and import only what needed ([@armano2](https://github.com/armano2))
 - `ianaio-1.x`, `ianaio`
-  - [#4270](https://github.com/ianaio/ianaio/pull/4270) chore(v2): upgrade react-dev-utils ([@yangshun](https://github.com/yangshun))
+  - [#4270](https://github.com/ianaio/ianaio/pull/4270) chore(v2): upgrade react-dev-utils ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-init`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-docs`, `ianaio-plugin-ideal-image`, `ianaio-types`, `ianaio`
   - [#4264](https://github.com/ianaio/ianaio/pull/4264) chore(v2): bump/align deps in monorepo: commander, semver, fs-extra ([@Simek](https://github.com/Simek))
 - `ianaio`
@@ -4084,7 +4084,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#4091](https://github.com/ianaio/ianaio/pull/4091) refactor(v2): Switch from inquirer to prompts ([@RDIL](https://github.com/RDIL))
   - [#4066](https://github.com/ianaio/ianaio/pull/4066) chore(v2): Update a few dependencies ([@RDIL](https://github.com/RDIL))
 - `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-ideal-image`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`, `lqip-loader`
-  - [#4148](https://github.com/ianaio/ianaio/pull/4148) chore(v2): upgrade dependencies ([@lex111](https://github.com/lex111))
+  - [#4148](https://github.com/ianaio/ianaio/pull/4148) chore(v2): upgrade dependencies ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-pwa`
   - [#4120](https://github.com/ianaio/ianaio/pull/4120) chore(v2): Update workbox to v6 ([@RDIL](https://github.com/RDIL))
 - `ianaio-utils`, `ianaio`
@@ -4101,11 +4101,11 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :running_woman: Performance
 
 - `ianaio-cssnano-preset`, `ianaio-plugin-content-blog`, `ianaio`
-  - [#4355](https://github.com/ianaio/ianaio/pull/4355) perf(v2): improve blog mdx-loader and postcss loader ([@lex111](https://github.com/lex111))
+  - [#4355](https://github.com/ianaio/ianaio/pull/4355) perf(v2): improve blog mdx-loader and postcss loader ([@cichy](https://github.com/cichy))
 
 #### Committers: 70
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ali Saki ([@3alisaki](https://github.com/3alisaki))
 - Andrew Taft ([@ataft](https://github.com/ataft))
 - Ankur Kedia ([@theankurkedia](https://github.com/theankurkedia))
@@ -4153,14 +4153,14 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - Sean Campbell ([@natac13](https://github.com/natac13))
 - Sergio Moreno ([@semoal](https://github.com/semoal))
 - Siemienik Pawel ([@Siemienik](https://github.com/Siemienik))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Theodore Chu ([@TheodoreChu](https://github.com/TheodoreChu))
 - Tien Vo Xuan ([@tienvx](https://github.com/tienvx))
 - Tomas Fernandez ([@tomsfernandez](https://github.com/tomsfernandez))
 - Vamsi Krishna Reddy Satti ([@vamsi3](https://github.com/vamsi3))
 - Welly ([@wellyshen](https://github.com/wellyshen))
 - Yamagishi Kazutoshi ([@ykzts](https://github.com/ykzts))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - Yash Totale ([@YashTotale](https://github.com/YashTotale))
 - Yuri Sulyma ([@ysulyma](https://github.com/ysulyma))
 - Yuval Hazaz ([@yuval-hazaz](https://github.com/yuval-hazaz))
@@ -4208,11 +4208,11 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - `ianaio`
   - [#3922](https://github.com/ianaio/ianaio/pull/3922) fix(v2): fix navbar items issue on Windows? ([@slorber](https://github.com/slorber))
   - [#3920](https://github.com/ianaio/ianaio/pull/3920) fix(v2): i18n translation extractor should handle JSX formatting edge cases better ([@slorber](https://github.com/slorber))
-  - [#3896](https://github.com/ianaio/ianaio/pull/3896) fix(v2): do not treat at-rules during CSS minification ([@lex111](https://github.com/lex111))
+  - [#3896](https://github.com/ianaio/ianaio/pull/3896) fix(v2): do not treat at-rules during CSS minification ([@cichy](https://github.com/cichy))
   - [#3869](https://github.com/ianaio/ianaio/pull/3869) fix(v2): load plugin commands async to fix broken plugin CLI commands `docs:version` ([@aeneasr](https://github.com/aeneasr))
 - `ianaio-theme-classic`
   - [#3921](https://github.com/ianaio/ianaio/pull/3921) fix(v2): remove useless console log ([@slorber](https://github.com/slorber))
-  - [#3895](https://github.com/ianaio/ianaio/pull/3895) fix(v2): use proper element for pagination nav label ([@lex111](https://github.com/lex111))
+  - [#3895](https://github.com/ianaio/ianaio/pull/3895) fix(v2): use proper element for pagination nav label ([@cichy](https://github.com/cichy))
   - [#3882](https://github.com/ianaio/ianaio/pull/3882) fix(v2): improve Footer structure, add class names, use Infima transition ([@Simek](https://github.com/Simek))
   - [#3877](https://github.com/ianaio/ianaio/pull/3877) fix(v2): dynamic dark mode detection without toggle widget ([@hmil](https://github.com/hmil))
   - [#3854](https://github.com/ianaio/ianaio/pull/3854) fix(v2): refactor icons in theme-classic, fix swizzle issue ([@Simek](https://github.com/Simek))
@@ -4228,7 +4228,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - `ianaio-theme-search-algolia`
   - [#3853](https://github.com/ianaio/ianaio/pull/3853) fix(v2): fix DocSearch keyboard navigator ([@francoischalifour](https://github.com/francoischalifour))
   - [#3837](https://github.com/ianaio/ianaio/pull/3837) fix(v2): update SearchPage styling, fix appearance in dark mode ([@Simek](https://github.com/Simek))
-  - [#3828](https://github.com/ianaio/ianaio/pull/3828) fix(v2): restore Algolia search ([@lex111](https://github.com/lex111))
+  - [#3828](https://github.com/ianaio/ianaio/pull/3828) fix(v2): restore Algolia search ([@cichy](https://github.com/cichy))
   - [#3819](https://github.com/ianaio/ianaio/pull/3819) feat(search): update DocSearch to alpha.31 ([@francoischalifour](https://github.com/francoischalifour))
 - `ianaio-plugin-content-docs`
   - [#3839](https://github.com/ianaio/ianaio/pull/3839) fix(v2): remove unnecessary backtick in output ([@sivaraam](https://github.com/sivaraam))
@@ -4262,11 +4262,11 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :house: Internal
 
 - Other
-  - [#3912](https://github.com/ianaio/ianaio/pull/3912) chore(v2): remove docs for alpha v64 ([@lex111](https://github.com/lex111))
+  - [#3912](https://github.com/ianaio/ianaio/pull/3912) chore(v2): remove docs for alpha v64 ([@cichy](https://github.com/cichy))
   - [#3907](https://github.com/ianaio/ianaio/pull/3907) chore(ci): fix canary release filtering ([@slorber](https://github.com/slorber))
   - [#3902](https://github.com/ianaio/ianaio/pull/3902) chore(deps): bump ini from 1.3.5 to 1.3.7 ([@dependabot[bot]](https://github.com/apps/dependabot))
   - [#3884](https://github.com/ianaio/ianaio/pull/3884) chore(ci): increase Lighthouse CI max_timeout ([@Simek](https://github.com/Simek))
-  - [#3883](https://github.com/ianaio/ianaio/pull/3883) chore(v2): remove docs for alpha v62-63 ([@lex111](https://github.com/lex111))
+  - [#3883](https://github.com/ianaio/ianaio/pull/3883) chore(v2): remove docs for alpha v62-63 ([@cichy](https://github.com/cichy))
   - [#3863](https://github.com/ianaio/ianaio/pull/3863) chore(ci): run V1 Build and Migration CLI tests conditionally on CI ([@Simek](https://github.com/Simek))
   - [#3861](https://github.com/ianaio/ianaio/pull/3861) chore(ci): reduce number of jobs, remove build from lighthouse pipeline ([@Simek](https://github.com/Simek))
   - [#3860](https://github.com/ianaio/ianaio/pull/3860) chore: add Yarn v2 cache directory to ignores ([@Simek](https://github.com/Simek))
@@ -4288,7 +4288,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 
 - Aarón García Hervás ([@aarongarciah](https://github.com/aarongarciah))
 - Alex1304 ([@Alex1304](https://github.com/Alex1304))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Arthur ([@ArtFlag](https://github.com/ArtFlag))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Cindy Gu ([@cindygu4](https://github.com/cindygu4))
@@ -4304,7 +4304,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - Rami ([@Romstar](https://github.com/Romstar))
 - Sarthak kundra ([@sarthakkundra](https://github.com/sarthakkundra))
 - Stephen Woodruff ([@woodrufs](https://github.com/woodrufs))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Varshit Shah ([@Varshit07](https://github.com/Varshit07))
 - [@borool](https://github.com/borool)
 - [@davidmauskop](https://github.com/davidmauskop)
@@ -4320,8 +4320,8 @@ Starting with this release for a proper work of i18n functionality, you need to 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#3807](https://github.com/ianaio/ianaio/pull/3807) chore(v2): upgrade Infima to v0.2.0-alpha.18 ([@lex111](https://github.com/lex111))
-  - [#3806](https://github.com/ianaio/ianaio/pull/3806) fix(v2): remove aria-hidden attr from anchor link of heading ([@lex111](https://github.com/lex111))
+  - [#3807](https://github.com/ianaio/ianaio/pull/3807) chore(v2): upgrade Infima to v0.2.0-alpha.18 ([@cichy](https://github.com/cichy))
+  - [#3806](https://github.com/ianaio/ianaio/pull/3806) fix(v2): remove aria-hidden attr from anchor link of heading ([@cichy](https://github.com/cichy))
   - [#3784](https://github.com/ianaio/ianaio/pull/3784) fix(v2): fix missing logo in dark theme when darkSrc was not set ([@Simek](https://github.com/Simek))
 - `ianaio-theme-search-algolia`
   - [#3804](https://github.com/ianaio/ianaio/pull/3804) fix(v2): Algolia: allow contextualSearch + facetFilters ([@slorber](https://github.com/slorber))
@@ -4342,10 +4342,10 @@ Starting with this release for a proper work of i18n functionality, you need to 
 
 #### Committers: 5
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Maël Nison ([@arcanis](https://github.com/arcanis))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - [@camiluc](https://github.com/camiluc)
 
 ## 2.0.0-alpha.68 (2020-11-18)
@@ -4355,89 +4355,89 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - Other
   - [#3717](https://github.com/ianaio/ianaio/pull/3717) feat(v2): official CodeSandbox support ([@sammychinedu2ky](https://github.com/sammychinedu2ky))
 - `ianaio-init`
-  - [#3729](https://github.com/ianaio/ianaio/pull/3729) feat(v2): allow init project via npm ([@lex111](https://github.com/lex111))
+  - [#3729](https://github.com/ianaio/ianaio/pull/3729) feat(v2): allow init project via npm ([@cichy](https://github.com/cichy))
 - `ianaio-theme-bootstrap`, `ianaio-theme-classic`
   - [#3730](https://github.com/ianaio/ianaio/pull/3730) feat(v2): add ThemedImage component ([@Simek](https://github.com/Simek))
 - `ianaio-cssnano-preset`, `ianaio-theme-classic`, `ianaio`
-  - [#3716](https://github.com/ianaio/ianaio/pull/3716) feat(v2): introduce new minification of CSS bundle ([@lex111](https://github.com/lex111))
+  - [#3716](https://github.com/ianaio/ianaio/pull/3716) feat(v2): introduce new minification of CSS bundle ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#3694](https://github.com/ianaio/ianaio/pull/3694) feat(v2): Added the ability to specify GIT_PASS in deploy command (for CI purposes) ([@smcelhinney](https://github.com/smcelhinney))
   - [#3621](https://github.com/ianaio/ianaio/pull/3621) feat(v2): baseUrl config issues: show help message if css/js can't load ([@jcs98](https://github.com/jcs98))
   - [#3594](https://github.com/ianaio/ianaio/pull/3594) feat(v2): add support for key,cert in https ([@ThakurKarthik](https://github.com/ThakurKarthik))
 - `ianaio-remark-plugin-npm2yarn`
-  - [#3705](https://github.com/ianaio/ianaio/pull/3705) feat(v2): add support for sync to npm2yarn tabs ([@lex111](https://github.com/lex111))
+  - [#3705](https://github.com/ianaio/ianaio/pull/3705) feat(v2): add support for sync to npm2yarn tabs ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `ianaio-migrate`, `ianaio-plugin-content-docs`, `ianaio-types`, `ianaio-utils`, `ianaio`
   - [#3658](https://github.com/ianaio/ianaio/pull/3658) feat(v2): onBrokenMarkdownLinks config ([@AmyrAhmady](https://github.com/AmyrAhmady))
 - `ianaio-theme-classic`
-  - [#3640](https://github.com/ianaio/ianaio/pull/3640) feat(v2): add skip to content link ([@lex111](https://github.com/lex111))
-  - [#3615](https://github.com/ianaio/ianaio/pull/3615) feat(v2): add ability to hide doc sidebar ([@lex111](https://github.com/lex111))
+  - [#3640](https://github.com/ianaio/ianaio/pull/3640) feat(v2): add skip to content link ([@cichy](https://github.com/cichy))
+  - [#3615](https://github.com/ianaio/ianaio/pull/3615) feat(v2): add ability to hide doc sidebar ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#3749](https://github.com/ianaio/ianaio/pull/3749) fix(v2): add support for interleaving Markdown in code blocks ([@lex111](https://github.com/lex111))
-  - [#3739](https://github.com/ianaio/ianaio/pull/3739) fix(v2): add support for prefers-reduced-motion in hideable sidebar ([@lex111](https://github.com/lex111))
-  - [#3726](https://github.com/ianaio/ianaio/pull/3726) fix(v2): add thin scrollbar to proper element in TOC ([@lex111](https://github.com/lex111))
-  - [#3681](https://github.com/ianaio/ianaio/pull/3681) Revert "refactor(v2): improve regex matching code-block title" ([@lex111](https://github.com/lex111))
+  - [#3749](https://github.com/ianaio/ianaio/pull/3749) fix(v2): add support for interleaving Markdown in code blocks ([@cichy](https://github.com/cichy))
+  - [#3739](https://github.com/ianaio/ianaio/pull/3739) fix(v2): add support for prefers-reduced-motion in hideable sidebar ([@cichy](https://github.com/cichy))
+  - [#3726](https://github.com/ianaio/ianaio/pull/3726) fix(v2): add thin scrollbar to proper element in TOC ([@cichy](https://github.com/cichy))
+  - [#3681](https://github.com/ianaio/ianaio/pull/3681) Revert "refactor(v2): improve regex matching code-block title" ([@cichy](https://github.com/cichy))
   - [#3662](https://github.com/ianaio/ianaio/pull/3662) fix(v2): navbar dropdown crash when item.to is undefined ([@artemkovalyov](https://github.com/artemkovalyov))
   - [#3669](https://github.com/ianaio/ianaio/pull/3669) fix(v2): make scrollbar styles consistent ([@nategiraudeau](https://github.com/nategiraudeau))
-  - [#3666](https://github.com/ianaio/ianaio/pull/3666) fix(v2): make optional title for footer links column ([@lex111](https://github.com/lex111))
-  - [#3647](https://github.com/ianaio/ianaio/pull/3647) fix(v2): do not set height for mobile dropdown during build ([@lex111](https://github.com/lex111))
-  - [#3650](https://github.com/ianaio/ianaio/pull/3650) fix(v2): add landmark for skip to content link ([@lex111](https://github.com/lex111))
-  - [#3627](https://github.com/ianaio/ianaio/pull/3627) fix(v2): disable tabbing on hidden doc sidebar ([@lex111](https://github.com/lex111))
+  - [#3666](https://github.com/ianaio/ianaio/pull/3666) fix(v2): make optional title for footer links column ([@cichy](https://github.com/cichy))
+  - [#3647](https://github.com/ianaio/ianaio/pull/3647) fix(v2): do not set height for mobile dropdown during build ([@cichy](https://github.com/cichy))
+  - [#3650](https://github.com/ianaio/ianaio/pull/3650) fix(v2): add landmark for skip to content link ([@cichy](https://github.com/cichy))
+  - [#3627](https://github.com/ianaio/ianaio/pull/3627) fix(v2): disable tabbing on hidden doc sidebar ([@cichy](https://github.com/cichy))
   - [#3637](https://github.com/ianaio/ianaio/pull/3637) fix(v2): wrap code blocks on print ([@haivp3010](https://github.com/haivp3010))
-  - [#3603](https://github.com/ianaio/ianaio/pull/3603) fix(v2): animate dropdown properly ([@lex111](https://github.com/lex111))
+  - [#3603](https://github.com/ianaio/ianaio/pull/3603) fix(v2): animate dropdown properly ([@cichy](https://github.com/cichy))
   - [#3611](https://github.com/ianaio/ianaio/pull/3611) fix(v2): Added back support for optional logo field in theme-classic navbarConfig ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio-theme-classic`, `ianaio`
-  - [#3763](https://github.com/ianaio/ianaio/pull/3763) refactor(v2): various markup improvements ([@lex111](https://github.com/lex111))
-  - [#3724](https://github.com/ianaio/ianaio/pull/3724) fix(v2): add support for non-ASCII chars in anchor link scroll ([@lex111](https://github.com/lex111))
+  - [#3763](https://github.com/ianaio/ianaio/pull/3763) refactor(v2): various markup improvements ([@cichy](https://github.com/cichy))
+  - [#3724](https://github.com/ianaio/ianaio/pull/3724) fix(v2): add support for non-ASCII chars in anchor link scroll ([@cichy](https://github.com/cichy))
 - `ianaio-module-type-aliases`, `ianaio`
-  - [#3723](https://github.com/ianaio/ianaio/pull/3723) fix(v2): restore prefetch functionality ([@lex111](https://github.com/lex111))
+  - [#3723](https://github.com/ianaio/ianaio/pull/3723) fix(v2): restore prefetch functionality ([@cichy](https://github.com/cichy))
 - Other
   - [#3760](https://github.com/ianaio/ianaio/pull/3760) fix(v2): codesandbox generated examples should use published init package ([@slorber](https://github.com/slorber))
-  - [#3701](https://github.com/ianaio/ianaio/pull/3701) fix(v2): limit images height on showcase page ([@lex111](https://github.com/lex111))
+  - [#3701](https://github.com/ianaio/ianaio/pull/3701) fix(v2): limit images height on showcase page ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`
-  - [#3757](https://github.com/ianaio/ianaio/pull/3757) fix(v2): escape alt text in img tag ([@lex111](https://github.com/lex111))
-  - [#3653](https://github.com/ianaio/ianaio/pull/3653) fix(v2): handle multiple asset links in one line properly ([@lex111](https://github.com/lex111))
+  - [#3757](https://github.com/ianaio/ianaio/pull/3757) fix(v2): escape alt text in img tag ([@cichy](https://github.com/cichy))
+  - [#3653](https://github.com/ianaio/ianaio/pull/3653) fix(v2): handle multiple asset links in one line properly ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`, `ianaio-utils`
-  - [#3721](https://github.com/ianaio/ianaio/pull/3721) fix(v2): use swizzled SearchPage component if any ([@lex111](https://github.com/lex111))
+  - [#3721](https://github.com/ianaio/ianaio/pull/3721) fix(v2): use swizzled SearchPage component if any ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#3725](https://github.com/ianaio/ianaio/pull/3725) fix(v2): fix inconsistent error output in swizzle command ([@lex111](https://github.com/lex111))
-  - [#3704](https://github.com/ianaio/ianaio/pull/3704) refactor(v2): allow adding plugins depending on condition ([@lex111](https://github.com/lex111))
+  - [#3725](https://github.com/ianaio/ianaio/pull/3725) fix(v2): fix inconsistent error output in swizzle command ([@cichy](https://github.com/cichy))
+  - [#3704](https://github.com/ianaio/ianaio/pull/3704) refactor(v2): allow adding plugins depending on condition ([@cichy](https://github.com/cichy))
   - [#3691](https://github.com/ianaio/ianaio/pull/3691) fix(v2): use SVGO in webpack SVGR loader ([@charleskorn](https://github.com/charleskorn))
   - [#3667](https://github.com/ianaio/ianaio/pull/3667) fix(v2): Fix typo in BaseUrlSuggestionWarning ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio-utils`
-  - [#3703](https://github.com/ianaio/ianaio/pull/3703) fix(v2): ignore export declarations in excerpt ([@lex111](https://github.com/lex111))
+  - [#3703](https://github.com/ianaio/ianaio/pull/3703) fix(v2): ignore export declarations in excerpt ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#3639](https://github.com/ianaio/ianaio/pull/3639) fix(v2): restore infinite scroll pagination on search page ([@lex111](https://github.com/lex111))
+  - [#3639](https://github.com/ianaio/ianaio/pull/3639) fix(v2): restore infinite scroll pagination on search page ([@cichy](https://github.com/cichy))
 - `ianaio-types`, `ianaio`
   - [#3622](https://github.com/ianaio/ianaio/pull/3622) fix(v2): ianaio start --poll 500 should work + better config load failure error ([@slorber](https://github.com/slorber))
 
 #### :nail_care: Polish
 
 - `ianaio`
-  - [#3765](https://github.com/ianaio/ianaio/pull/3765) chore(v2): replace wait-file with wait-on to reduce npm warnings ([@lex111](https://github.com/lex111))
-  - [#3725](https://github.com/ianaio/ianaio/pull/3725) fix(v2): fix inconsistent error output in swizzle command ([@lex111](https://github.com/lex111))
+  - [#3765](https://github.com/ianaio/ianaio/pull/3765) chore(v2): replace wait-file with wait-on to reduce npm warnings ([@cichy](https://github.com/cichy))
+  - [#3725](https://github.com/ianaio/ianaio/pull/3725) fix(v2): fix inconsistent error output in swizzle command ([@cichy](https://github.com/cichy))
   - [#3609](https://github.com/ianaio/ianaio/pull/3609) refactor(v2): Improve SSR error message: log page path ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#3764](https://github.com/ianaio/ianaio/pull/3764) refactor(v2): make accessible anchor links from keyboard ([@lex111](https://github.com/lex111))
+  - [#3764](https://github.com/ianaio/ianaio/pull/3764) refactor(v2): make accessible anchor links from keyboard ([@cichy](https://github.com/cichy))
   - [#3745](https://github.com/ianaio/ianaio/pull/3745) refactor(v2): introduce Logo component, remove useLogo hook ([@Simek](https://github.com/Simek))
-  - [#3706](https://github.com/ianaio/ianaio/pull/3706) refactor(v2): render all tab panels at once ([@lex111](https://github.com/lex111))
-  - [#3712](https://github.com/ianaio/ianaio/pull/3712) chore(v2): upgrade Infima to v0.2.0-alpha.15 ([@lex111](https://github.com/lex111))
+  - [#3706](https://github.com/ianaio/ianaio/pull/3706) refactor(v2): render all tab panels at once ([@cichy](https://github.com/cichy))
+  - [#3712](https://github.com/ianaio/ianaio/pull/3712) chore(v2): upgrade Infima to v0.2.0-alpha.15 ([@cichy](https://github.com/cichy))
   - [#3685](https://github.com/ianaio/ianaio/pull/3685) refactor(v2): improve regex matching code-block title ([@hong4rc](https://github.com/hong4rc))
   - [#3674](https://github.com/ianaio/ianaio/pull/3674) feat(v2): add additional wrapper class to blog pages ([@Simek](https://github.com/Simek))
   - [#3671](https://github.com/ianaio/ianaio/pull/3671) refactor(v2): improve regex matching code-block title ([@hong4rc](https://github.com/hong4rc))
-  - [#3654](https://github.com/ianaio/ianaio/pull/3654) refactor(v2): clean up code blocks ([@lex111](https://github.com/lex111))
-  - [#3649](https://github.com/ianaio/ianaio/pull/3649) refactor(v2): make code blocks scrollable from keyboard ([@lex111](https://github.com/lex111))
-  - [#3626](https://github.com/ianaio/ianaio/pull/3626) refactor(v2): remove focus outline from mouse users ([@lex111](https://github.com/lex111))
+  - [#3654](https://github.com/ianaio/ianaio/pull/3654) refactor(v2): clean up code blocks ([@cichy](https://github.com/cichy))
+  - [#3649](https://github.com/ianaio/ianaio/pull/3649) refactor(v2): make code blocks scrollable from keyboard ([@cichy](https://github.com/cichy))
+  - [#3626](https://github.com/ianaio/ianaio/pull/3626) refactor(v2): remove focus outline from mouse users ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#3709](https://github.com/ianaio/ianaio/pull/3709) chore(v2): adjust website npm package ([@lex111](https://github.com/lex111))
+  - [#3709](https://github.com/ianaio/ianaio/pull/3709) chore(v2): adjust website npm package ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#3707](https://github.com/ianaio/ianaio/pull/3707) chore(v2): upgrade Infima to v0.2.0-alpha.14 ([@lex111](https://github.com/lex111))
+  - [#3707](https://github.com/ianaio/ianaio/pull/3707) chore(v2): upgrade Infima to v0.2.0-alpha.14 ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-utils-validation`, `ianaio`
-  - [#3638](https://github.com/ianaio/ianaio/pull/3638) chore(v2): migrate hapi/joi to joi ([@lex111](https://github.com/lex111))
+  - [#3638](https://github.com/ianaio/ianaio/pull/3638) chore(v2): migrate hapi/joi to joi ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-search-algolia`
-  - [#3604](https://github.com/ianaio/ianaio/pull/3604) refactor(v2): use new way to get versions for search page ([@lex111](https://github.com/lex111))
+  - [#3604](https://github.com/ianaio/ianaio/pull/3604) refactor(v2): use new way to get versions for search page ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -4466,23 +4466,23 @@ Starting with this release for a proper work of i18n functionality, you need to 
   - [#3740](https://github.com/ianaio/ianaio/pull/3740) chore: update yarn lock ([@slorber](https://github.com/slorber))
   - [#3738](https://github.com/ianaio/ianaio/pull/3738) chore(internal): add yarn deduplicate script, cleanup lock ([@Simek](https://github.com/Simek))
   - [#3732](https://github.com/ianaio/ianaio/pull/3732) fix(internal): fix clear script from the main package.json ([@Simek](https://github.com/Simek))
-  - [#3708](https://github.com/ianaio/ianaio/pull/3708) chore(v2): remove docs for alpha v60-61 ([@lex111](https://github.com/lex111))
+  - [#3708](https://github.com/ianaio/ianaio/pull/3708) chore(v2): remove docs for alpha v60-61 ([@cichy](https://github.com/cichy))
   - [#3693](https://github.com/ianaio/ianaio/pull/3693) fix(v2): fix website scripts on Windows by using cross-env ([@Simek](https://github.com/Simek))
   - [#3673](https://github.com/ianaio/ianaio/pull/3673) test(e2e): dogfood Yarn with enableGlobalCache ([@ylemkimon](https://github.com/ylemkimon))
-  - [#3641](https://github.com/ianaio/ianaio/pull/3641) misc: fix unbound env variable in test release script ([@lex111](https://github.com/lex111))
+  - [#3641](https://github.com/ianaio/ianaio/pull/3641) misc: fix unbound env variable in test release script ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-migrate`, `lqip-loader`
-  - [#3766](https://github.com/ianaio/ianaio/pull/3766) chore(v2): fix several npm warnings ([@lex111](https://github.com/lex111))
+  - [#3766](https://github.com/ianaio/ianaio/pull/3766) chore(v2): fix several npm warnings ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`
-  - [#3753](https://github.com/ianaio/ianaio/pull/3753) chore(v2): fix mismatch peer dependency in MDX loader ([@lex111](https://github.com/lex111))
+  - [#3753](https://github.com/ianaio/ianaio/pull/3753) chore(v2): fix mismatch peer dependency in MDX loader ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#3742](https://github.com/ianaio/ianaio/pull/3742) chore(v2): pin version of babel-plugin-dynamic-import-node to 2.3.0 ([@lex111](https://github.com/lex111))
-  - [#3734](https://github.com/ianaio/ianaio/pull/3734) chore(v2): downgrade babel-plugin-dynamic-import-node to 2.3.0 ([@lex111](https://github.com/lex111))
+  - [#3742](https://github.com/ianaio/ianaio/pull/3742) chore(v2): pin version of babel-plugin-dynamic-import-node to 2.3.0 ([@cichy](https://github.com/cichy))
+  - [#3734](https://github.com/ianaio/ianaio/pull/3734) chore(v2): downgrade babel-plugin-dynamic-import-node to 2.3.0 ([@cichy](https://github.com/cichy))
   - [#3714](https://github.com/ianaio/ianaio/pull/3714) chore(v2): fix prettier formatting ([@slorber](https://github.com/slorber))
   - [#3619](https://github.com/ianaio/ianaio/pull/3619) refactor(v2): add better error message for yarn workspace/monorepo/terser issue ([@slorber](https://github.com/slorber))
 - `ianaio-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-pwa`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#3727](https://github.com/ianaio/ianaio/pull/3727) chore(v2): upgrade dependencies ([@lex111](https://github.com/lex111))
+  - [#3727](https://github.com/ianaio/ianaio/pull/3727) chore(v2): upgrade dependencies ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`
-  - [#3715](https://github.com/ianaio/ianaio/pull/3715) chore(v2): update Browserslist ([@lex111](https://github.com/lex111))
+  - [#3715](https://github.com/ianaio/ianaio/pull/3715) chore(v2): update Browserslist ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-sitemap`
   - [#3675](https://github.com/ianaio/ianaio/pull/3675) fix(v2): add missing 'react' and 'webpack' peer dependencies ([@ylemkimon](https://github.com/ylemkimon))
 - `ianaio-1.x`, `ianaio-init-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-migrate`, `ianaio-module-type-aliases`, `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-debug`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-ideal-image`, `ianaio-plugin-pwa`, `ianaio-plugin-sitemap`, `ianaio-preset-bootstrap`, `ianaio-preset-classic`, `ianaio-remark-plugin-npm2yarn`, `ianaio-theme-bootstrap`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-types`, `ianaio-utils-validation`, `ianaio-utils`, `ianaio`, `lqip-loader`, `stylelint-copyright`
@@ -4490,7 +4490,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 
 #### Committers: 26
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Anh Hong ([@hong4rc](https://github.com/hong4rc))
 - Artem Kovalov ([@artemkovalyov](https://github.com/artemkovalyov))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
@@ -4509,7 +4509,7 @@ Starting with this release for a proper work of i18n functionality, you need to 
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
 - Shenwei Wang ([@weareoutman](https://github.com/weareoutman))
 - Stephen McElhinney ([@smcelhinney](https://github.com/smcelhinney))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Thakur Karthik ([@ThakurKarthik](https://github.com/ThakurKarthik))
 - [@sammychinedu2ky](https://github.com/sammychinedu2ky)
 - iAmir ([@AmyrAhmady](https://github.com/AmyrAhmady))
@@ -4533,7 +4533,7 @@ Failed release
   - [#3550](https://github.com/ianaio/ianaio/pull/3550) feat(v2): contextual search, dynamic Algolia facetFilters ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
   - [#3580](https://github.com/ianaio/ianaio/pull/3580) feat(v2): allow to define custom CSS class for Tabs component ([@Simek](https://github.com/Simek))
-  - [#3553](https://github.com/ianaio/ianaio/pull/3553) feat(v2): make dropdown menu collapsible on mobiles ([@lex111](https://github.com/lex111))
+  - [#3553](https://github.com/ianaio/ianaio/pull/3553) feat(v2): make dropdown menu collapsible on mobiles ([@cichy](https://github.com/cichy))
 - `ianaio-migrate`, `ianaio-types`, `ianaio`
   - [#3573](https://github.com/ianaio/ianaio/pull/3573) feat(v2): Add themeConfig.noIndex option #3528 ([@hamzahamidi](https://github.com/hamzahamidi))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio`
@@ -4553,24 +4553,24 @@ Failed release
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`, `ianaio`
-  - [#3607](https://github.com/ianaio/ianaio/pull/3607) fix(v2): fix error with required href attr of link in mobiles ([@lex111](https://github.com/lex111))
+  - [#3607](https://github.com/ianaio/ianaio/pull/3607) fix(v2): fix error with required href attr of link in mobiles ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#3602](https://github.com/ianaio/ianaio/pull/3602) fix(v2): make dropdown button clickable with mouse ([@lex111](https://github.com/lex111))
+  - [#3602](https://github.com/ianaio/ianaio/pull/3602) fix(v2): make dropdown button clickable with mouse ([@cichy](https://github.com/cichy))
   - [#3601](https://github.com/ianaio/ianaio/pull/3601) fix(v2): fix table-of-content scroll highlighting issues ([@slorber](https://github.com/slorber))
 - `ianaio-theme-bootstrap`, `ianaio-theme-classic`
-  - [#3599](https://github.com/ianaio/ianaio/pull/3599) fix(v2): remove event listeners on Tabs component unmount ([@lex111](https://github.com/lex111))
+  - [#3599](https://github.com/ianaio/ianaio/pull/3599) fix(v2): remove event listeners on Tabs component unmount ([@cichy](https://github.com/cichy))
 - `ianaio-types`, `ianaio`
   - [#3531](https://github.com/ianaio/ianaio/pull/3531) fix(v2): Fixes serve cli --port option ([@UmairKamran](https://github.com/UmairKamran))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#3585](https://github.com/ianaio/ianaio/pull/3585) refactor(v2): various dropdown improvements ([@lex111](https://github.com/lex111))
-  - [#3588](https://github.com/ianaio/ianaio/pull/3588) refactor(v2): make accessible copy code button from keyboard ([@lex111](https://github.com/lex111))
-  - [#3578](https://github.com/ianaio/ianaio/pull/3578) refactor(v2): apply common behavior to dropdowns ([@lex111](https://github.com/lex111))
-  - [#3546](https://github.com/ianaio/ianaio/pull/3546) docs: various fixes and improvements ([@lex111](https://github.com/lex111))
+  - [#3585](https://github.com/ianaio/ianaio/pull/3585) refactor(v2): various dropdown improvements ([@cichy](https://github.com/cichy))
+  - [#3588](https://github.com/ianaio/ianaio/pull/3588) refactor(v2): make accessible copy code button from keyboard ([@cichy](https://github.com/cichy))
+  - [#3578](https://github.com/ianaio/ianaio/pull/3578) refactor(v2): apply common behavior to dropdowns ([@cichy](https://github.com/cichy))
+  - [#3546](https://github.com/ianaio/ianaio/pull/3546) docs: various fixes and improvements ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio`
-  - [#3587](https://github.com/ianaio/ianaio/pull/3587) refactor(v2): various fixes ([@lex111](https://github.com/lex111))
+  - [#3587](https://github.com/ianaio/ianaio/pull/3587) refactor(v2): various fixes ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#3569](https://github.com/ianaio/ianaio/pull/3569) refactor(v2): improve broken links error message ([@slorber](https://github.com/slorber))
 
@@ -4589,7 +4589,7 @@ Failed release
   - [#3533](https://github.com/ianaio/ianaio/pull/3533) docs(v1): Fix broken link in the documentation ([@saintmalik](https://github.com/saintmalik))
   - [#3534](https://github.com/ianaio/ianaio/pull/3534) docs(v2): Fix url bugs in v2 docs ([@saintmalik](https://github.com/saintmalik))
 - `ianaio-theme-classic`
-  - [#3546](https://github.com/ianaio/ianaio/pull/3546) docs: various fixes and improvements ([@lex111](https://github.com/lex111))
+  - [#3546](https://github.com/ianaio/ianaio/pull/3546) docs: various fixes and improvements ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
@@ -4597,16 +4597,16 @@ Failed release
   - [#3591](https://github.com/ianaio/ianaio/pull/3591) chore(v2): enable new contextual search feature ([@slorber](https://github.com/slorber))
 - Other
   - [#3586](https://github.com/ianaio/ianaio/pull/3586) chore(v2): fix/upgrade react types ([@slorber](https://github.com/slorber))
-  - [#3577](https://github.com/ianaio/ianaio/pull/3577) refactor(v2): clarify versions page ([@lex111](https://github.com/lex111))
+  - [#3577](https://github.com/ianaio/ianaio/pull/3577) refactor(v2): clarify versions page ([@cichy](https://github.com/cichy))
   - [#3560](https://github.com/ianaio/ianaio/pull/3560) feat(v2): prevent using remote image urls in showcase ([@slorber](https://github.com/slorber))
-  - [#3554](https://github.com/ianaio/ianaio/pull/3554) fix(v2): use absolute path to manifest file ([@lex111](https://github.com/lex111))
+  - [#3554](https://github.com/ianaio/ianaio/pull/3554) fix(v2): use absolute path to manifest file ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
   - [#3394](https://github.com/ianaio/ianaio/pull/3394) refactor(v2): add useThemeConfig hook + cleanup useless theme default values ([@imskr](https://github.com/imskr))
 
 #### Committers: 17
 
 - Abhishek Tiwari ([@abhishektiwari](https://github.com/abhishektiwari))
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Christian Bromann ([@christian-bromann](https://github.com/christian-bromann))
 - Fanny ([@fanny](https://github.com/fanny))
@@ -4617,7 +4617,7 @@ Failed release
 - SaintMalik ([@saintmalik](https://github.com/saintmalik))
 - Shubham Kumar ([@imskr](https://github.com/imskr))
 - Shubham Zanwar ([@shubhamzanwar](https://github.com/shubhamzanwar))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Umair Kamran ([@UmairKamran](https://github.com/UmairKamran))
 - Utkarsh Goel ([@utkarsh867](https://github.com/utkarsh867))
 - [@aakhtar3](https://github.com/aakhtar3)
@@ -4647,7 +4647,7 @@ Failed release
 - `ianaio`
   - [#3498](https://github.com/ianaio/ianaio/pull/3498) fix(v2): fixed props being passed to @svgr/webpack loader ([@anru](https://github.com/anru))
 - `ianaio-theme-search-algolia`
-  - [#3456](https://github.com/ianaio/ianaio/pull/3456) fix(v2): use valid value for crossorigin attribute ([@lex111](https://github.com/lex111))
+  - [#3456](https://github.com/ianaio/ianaio/pull/3456) fix(v2): use valid value for crossorigin attribute ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
   - [#3427](https://github.com/ianaio/ianaio/pull/3427) fix(v2): normalizeUrl edge cases ([@ayshiff](https://github.com/ayshiff))
 - `ianaio-theme-classic`
@@ -4658,7 +4658,7 @@ Failed release
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#3499](https://github.com/ianaio/ianaio/pull/3499) chore(v2): upgrade Infima to 0.2.0-alpha.13 ([@lex111](https://github.com/lex111))
+  - [#3499](https://github.com/ianaio/ianaio/pull/3499) chore(v2): upgrade Infima to 0.2.0-alpha.13 ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -4667,7 +4667,7 @@ Failed release
 - Other
   - [#3473](https://github.com/ianaio/ianaio/pull/3473) misc: add License to the documentation ([@muskanvk](https://github.com/muskanvk))
   - [#3492](https://github.com/ianaio/ianaio/pull/3492) docs(v2): Added drone.io publish docs #3491 ([@aakhtar3](https://github.com/aakhtar3))
-  - [#3479](https://github.com/ianaio/ianaio/pull/3479) docs(v2): remove redundant new line in code block ([@lex111](https://github.com/lex111))
+  - [#3479](https://github.com/ianaio/ianaio/pull/3479) docs(v2): remove redundant new line in code block ([@cichy](https://github.com/cichy))
   - [#3448](https://github.com/ianaio/ianaio/pull/3448) chore(v2): fix theme classic navbar style docs ([@Simek](https://github.com/Simek))
 
 #### :house: Internal
@@ -4676,14 +4676,14 @@ Failed release
   - [#3504](https://github.com/ianaio/ianaio/pull/3504) chore(v1): move v1 docs inside website-1.x ([@slorber](https://github.com/slorber))
 - Other
   - [#3506](https://github.com/ianaio/ianaio/pull/3506) chore(v2): v2 website should make it easy to contribute to upstream docs ([@slorber](https://github.com/slorber))
-  - [#3511](https://github.com/ianaio/ianaio/pull/3511) misc: update CODEOWNERS ([@yangshun](https://github.com/yangshun))
-  - [#3477](https://github.com/ianaio/ianaio/pull/3477) chore(v2): remove alpha 58 doc ([@lex111](https://github.com/lex111))
+  - [#3511](https://github.com/ianaio/ianaio/pull/3511) misc: update CODEOWNERS ([@cichyboom](https://github.com/cichyboom))
+  - [#3477](https://github.com/ianaio/ianaio/pull/3477) chore(v2): remove alpha 58 doc ([@cichy](https://github.com/cichy))
 - `ianaio-utils-validation`
   - [#3453](https://github.com/ianaio/ianaio/pull/3453) test(v2): add protocol relative uri validation test ([@moonrailgun](https://github.com/moonrailgun))
 
 #### Committers: 18
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Andrey Rublev ([@anru](https://github.com/anru))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Grégory Heitz ([@edno](https://github.com/edno))
@@ -4695,9 +4695,9 @@ Failed release
 - Nahiyan Kamal ([@ayonious](https://github.com/ayonious))
 - Rémi Doreau ([@ayshiff](https://github.com/ayshiff))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tim Gates ([@timgates42](https://github.com/timgates42))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@aakhtar3](https://github.com/aakhtar3)
 - hackerman ([@aeneasr](https://github.com/aeneasr))
 - moonrailgun ([@moonrailgun](https://github.com/moonrailgun))
@@ -4748,7 +4748,7 @@ Failed release
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Méril ([@mpsq](https://github.com/mpsq))
 - Rutik Wankhade ([@rutikwankhade](https://github.com/rutikwankhade))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Thad Guidry ([@thadguidry](https://github.com/thadguidry))
 - [@josephMG](https://github.com/josephMG)
 
@@ -4796,7 +4796,7 @@ Failed release
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Méril ([@mpsq](https://github.com/mpsq))
 - Sam Ko ([@samsisle](https://github.com/samsisle))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Thad Guidry ([@thadguidry](https://github.com/thadguidry))
 
 ## 2.0.0-alpha.62 (2020-08-28)
@@ -4895,7 +4895,7 @@ Failed release
 - Other
   - [#3346](https://github.com/ianaio/ianaio/pull/3346) docs(v2): add draft doc ([@imskr](https://github.com/imskr))
   - [#3336](https://github.com/ianaio/ianaio/pull/3336) docs(v2): add Nisarag to Fellows section ([@FocalChord](https://github.com/FocalChord))
-  - [#3335](https://github.com/ianaio/ianaio/pull/3335) docs(v2): update team profile ([@yangshun](https://github.com/yangshun))
+  - [#3335](https://github.com/ianaio/ianaio/pull/3335) docs(v2): update team profile ([@cichyboom](https://github.com/cichyboom))
   - [#3334](https://github.com/ianaio/ianaio/pull/3334) docs(v2): add Drew to Fellows section ([@Drewbi](https://github.com/Drewbi))
   - [#3333](https://github.com/ianaio/ianaio/pull/3333) docs(v2): add anshul and teikjun to fellows section of team page ([@teikjun](https://github.com/teikjun))
   - [#3326](https://github.com/ianaio/ianaio/pull/3326) docs(v1): showcase user Casbin ([@hsluoyz](https://github.com/hsluoyz))
@@ -4977,13 +4977,13 @@ Failed release
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
 - Shubham Kumar ([@imskr](https://github.com/imskr))
 - Sourav Dey ([@Souravdey777](https://github.com/Souravdey777))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 - Tolunay Akbulut ([@tolunayakbulut](https://github.com/tolunayakbulut))
 - Vandré Leal ([@vandreleal](https://github.com/vandreleal))
 - Vincent ([@Vinnl](https://github.com/Vinnl))
 - Yang Luo ([@hsluoyz](https://github.com/hsluoyz))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@adinaja](https://github.com/adinaja)
 - [@leoigel](https://github.com/leoigel)
 - [@shalinikumari50](https://github.com/shalinikumari50)
@@ -5036,7 +5036,7 @@ Failed release
 - Faizan ([@mdfaizan7](https://github.com/mdfaizan7))
 - François Chalifour ([@francoischalifour](https://github.com/francoischalifour))
 - Méril ([@mpsq](https://github.com/mpsq))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 - Xuqian ([@zxuqian](https://github.com/zxuqian))
 
@@ -5084,7 +5084,7 @@ Failed release
 
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Hob Adams ([@hobadams](https://github.com/hobadams))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 
 ## 2.0.0-alpha.59 (2020-07-24)
@@ -5124,7 +5124,7 @@ Failed release
   - [#2994](https://github.com/ianaio/ianaio/pull/2994) feat(v2): configureWebpack merge strategy + use file-loader for common asset types ([@slorber](https://github.com/slorber))
 - `ianaio-plugin-content-docs`
   - [#2989](https://github.com/ianaio/ianaio/pull/2989) feat(v2): add disableVersioning config to docs plugin ([@slorber](https://github.com/slorber))
-  - [#2877](https://github.com/ianaio/ianaio/pull/2877) feat(v2): allow skipping build docs for next version ([@lex111](https://github.com/lex111))
+  - [#2877](https://github.com/ianaio/ianaio/pull/2877) feat(v2): allow skipping build docs for next version ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`
   - [#2955](https://github.com/ianaio/ianaio/pull/2955) feat(v1): add deletedDocs config to fix unwanted versioning fallback ([@aldeed](https://github.com/aldeed))
 - `ianaio-plugin-client-redirects`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-types`, `ianaio`
@@ -5205,7 +5205,7 @@ Failed release
 - Other
   - [#3099](https://github.com/ianaio/ianaio/pull/3099) fix(v2): netlify.toml shouldn't affect v1 site deployment config ([@slorber](https://github.com/slorber))
   - [#3068](https://github.com/ianaio/ianaio/pull/3068) chore(deps): bump lodash from 4.17.15 to 4.17.19 ([@dependabot[bot]](https://github.com/apps/dependabot))
-  - [#2958](https://github.com/ianaio/ianaio/pull/2958) docs(v2): rename 2.0.0-alpha.57 to 2.0.0-alpha.58 ([@yangshun](https://github.com/yangshun))
+  - [#2958](https://github.com/ianaio/ianaio/pull/2958) docs(v2): rename 2.0.0-alpha.57 to 2.0.0-alpha.58 ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio`
   - [#3093](https://github.com/ianaio/ianaio/pull/3093) fix(v2): fix recent baseurl issues ([@slorber](https://github.com/slorber))
 - `ianaio-mdx-loader`
@@ -5236,7 +5236,7 @@ Failed release
 
 #### Committers: 25
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Amirul Ahmad ([@amirulahmad](https://github.com/amirulahmad))
 - Anshul Goyal ([@anshulrgoyal](https://github.com/anshulrgoyal))
 - Arsalan Khattak ([@eKhattak](https://github.com/eKhattak))
@@ -5254,11 +5254,11 @@ Failed release
 - Paul Cowgill ([@pcowgill](https://github.com/pcowgill))
 - Rian Finnegan ([@xtellurian](https://github.com/xtellurian))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Taylor Allen ([@taylorallen0913](https://github.com/taylorallen0913))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 - Vandré Leal ([@vandreleal](https://github.com/vandreleal))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - ehsan jso ([@ehsanjso](https://github.com/ehsanjso))
 - matbub ([@hi-matbub](https://github.com/hi-matbub))
 
@@ -5278,16 +5278,16 @@ Failed release
 - `ianaio-theme-live-codeblock`
   - [#2826](https://github.com/ianaio/ianaio/pull/2826) feat(v2): allow adding components to react-live scope ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`, `ianaio`
-  - [#2856](https://github.com/ianaio/ianaio/pull/2856) feat(v2): allow specifying meta image for blog posts ([@lex111](https://github.com/lex111))
+  - [#2856](https://github.com/ianaio/ianaio/pull/2856) feat(v2): allow specifying meta image for blog posts ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
   - [#2841](https://github.com/ianaio/ianaio/pull/2841) feat(v2): Allow swizzling prism-include-languages in theme-classic ([@SamChou19815](https://github.com/SamChou19815))
 
 #### :boom: Breaking Change
 
 - `ianaio-init`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#2895](https://github.com/ianaio/ianaio/pull/2895) chore(v2): replace classnames with clsx ([@lex111](https://github.com/lex111))
+  - [#2895](https://github.com/ianaio/ianaio/pull/2895) chore(v2): replace classnames with clsx ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#2861](https://github.com/ianaio/ianaio/pull/2861) fix(v2): do not create route for document that serve as docs home page ([@lex111](https://github.com/lex111))
+  - [#2861](https://github.com/ianaio/ianaio/pull/2861) fix(v2): do not create route for document that serve as docs home page ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
   - [#2682](https://github.com/ianaio/ianaio/pull/2682) feat(v2): expanded sidebar categories by default ([@jsjoeio](https://github.com/jsjoeio))
 
@@ -5297,15 +5297,15 @@ Failed release
   - [#2905](https://github.com/ianaio/ianaio/pull/2905) fix(v2): fix docs homepage permalink issues ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
   - [#2932](https://github.com/ianaio/ianaio/pull/2932) fix(v2): Add hooks to detect window resize, toggle off sidebar and navbar in desktop ([@guillaumejacquart](https://github.com/guillaumejacquart))
-  - [#2909](https://github.com/ianaio/ianaio/pull/2909) fix(v2): adjust anchor offset when routes switched ([@lex111](https://github.com/lex111))
-  - [#2896](https://github.com/ianaio/ianaio/pull/2896) fix(v2): set correct canonical url for docs home page ([@lex111](https://github.com/lex111))
+  - [#2909](https://github.com/ianaio/ianaio/pull/2909) fix(v2): adjust anchor offset when routes switched ([@cichy](https://github.com/cichy))
+  - [#2896](https://github.com/ianaio/ianaio/pull/2896) fix(v2): set correct canonical url for docs home page ([@cichy](https://github.com/cichy))
   - [#2893](https://github.com/ianaio/ianaio/pull/2893) fix(v2): Do not automatically change tab when a non-existing option is selected ([@SamChou19815](https://github.com/SamChou19815))
-  - [#2888](https://github.com/ianaio/ianaio/pull/2888) fix(v2): restore styles for menu scrollbar ([@lex111](https://github.com/lex111))
-  - [#2857](https://github.com/ianaio/ianaio/pull/2857) fix(v2): treat inline code in raw HTML as native element ([@lex111](https://github.com/lex111))
+  - [#2888](https://github.com/ianaio/ianaio/pull/2888) fix(v2): restore styles for menu scrollbar ([@cichy](https://github.com/cichy))
+  - [#2857](https://github.com/ianaio/ianaio/pull/2857) fix(v2): treat inline code in raw HTML as native element ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#2951](https://github.com/ianaio/ianaio/pull/2951) fix(v2): Add optional-chaining and nullish-coalescing babel plugin ([@SamChou19815](https://github.com/SamChou19815))
   - [#2921](https://github.com/ianaio/ianaio/pull/2921) fix(v2): upgrade react-loadable-ssr-addon ([@slorber](https://github.com/slorber))
-  - [#2854](https://github.com/ianaio/ianaio/pull/2854) fix(v2): fix broken build when swizzled NotFound component exist ([@lex111](https://github.com/lex111))
+  - [#2854](https://github.com/ianaio/ianaio/pull/2854) fix(v2): fix broken build when swizzled NotFound component exist ([@cichy](https://github.com/cichy))
   - [#2829](https://github.com/ianaio/ianaio/pull/2829) fix(v2): Fix plugin path resolution ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio-preset-classic`
   - [#2944](https://github.com/ianaio/ianaio/pull/2944) fix(v2): Declare @ianaio-plugin-debug as dependency of preset classic ([@SamChou19815](https://github.com/SamChou19815))
@@ -5316,26 +5316,26 @@ Failed release
 - Other
   - [#2874](https://github.com/ianaio/ianaio/pull/2874) fix(v2): Getting Started URL ([@fanny](https://github.com/fanny))
 - `ianaio-plugin-content-docs`
-  - [#2861](https://github.com/ianaio/ianaio/pull/2861) fix(v2): do not create route for document that serve as docs home page ([@lex111](https://github.com/lex111))
+  - [#2861](https://github.com/ianaio/ianaio/pull/2861) fix(v2): do not create route for document that serve as docs home page ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
   - [#2867](https://github.com/ianaio/ianaio/pull/2867) fix(v2): fix FOUC in doc sidebar and various improvements ([@slorber](https://github.com/slorber))
 - `ianaio-theme-search-algolia`
   - [#2838](https://github.com/ianaio/ianaio/pull/2838) fix(v2): use base url to navigate to search page ([@tetunori](https://github.com/tetunori))
 - `ianaio-utils`
-  - [#2855](https://github.com/ianaio/ianaio/pull/2855) fix(v2): strip images and footnotes for excerpt correctly ([@lex111](https://github.com/lex111))
+  - [#2855](https://github.com/ianaio/ianaio/pull/2855) fix(v2): strip images and footnotes for excerpt correctly ([@cichy](https://github.com/cichy))
 - `ianaio-theme-live-codeblock`
-  - [#2835](https://github.com/ianaio/ianaio/pull/2835) fix(v2): set proper font for live editor ([@lex111](https://github.com/lex111))
+  - [#2835](https://github.com/ianaio/ianaio/pull/2835) fix(v2): set proper font for live editor ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-utils`, `ianaio`
   - [#2884](https://github.com/ianaio/ianaio/pull/2884) polish(v2): improve Ianaio 1 to 2 migration developer experience ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#2870](https://github.com/ianaio/ianaio/pull/2870) refactor(v2): combine nested theme providers into one ([@lex111](https://github.com/lex111))
-  - [#2880](https://github.com/ianaio/ianaio/pull/2880) fix(v2): render as regular text uncollapsible categories ([@lex111](https://github.com/lex111))
-  - [#2864](https://github.com/ianaio/ianaio/pull/2864) refactor(v2): add aria role for doc sidebar ([@lex111](https://github.com/lex111))
-  - [#2859](https://github.com/ianaio/ianaio/pull/2859) refactor(v2): add aria label to paginators ([@lex111](https://github.com/lex111))
-  - [#2858](https://github.com/ianaio/ianaio/pull/2858) refactor(v2): add missing main landmark for needed pages ([@lex111](https://github.com/lex111))
+  - [#2870](https://github.com/ianaio/ianaio/pull/2870) refactor(v2): combine nested theme providers into one ([@cichy](https://github.com/cichy))
+  - [#2880](https://github.com/ianaio/ianaio/pull/2880) fix(v2): render as regular text uncollapsible categories ([@cichy](https://github.com/cichy))
+  - [#2864](https://github.com/ianaio/ianaio/pull/2864) refactor(v2): add aria role for doc sidebar ([@cichy](https://github.com/cichy))
+  - [#2859](https://github.com/ianaio/ianaio/pull/2859) refactor(v2): add aria label to paginators ([@cichy](https://github.com/cichy))
+  - [#2858](https://github.com/ianaio/ianaio/pull/2858) refactor(v2): add missing main landmark for needed pages ([@cichy](https://github.com/cichy))
 - Other
   - [#2862](https://github.com/ianaio/ianaio/pull/2862) Updated banner in solidarity ([@JoelMarcey](https://github.com/JoelMarcey))
 
@@ -5348,10 +5348,10 @@ Failed release
 - [#2933](https://github.com/ianaio/ianaio/pull/2933) docs(v2): add documentation for multiple blogs ([@teikjun](https://github.com/teikjun))
 - [#2910](https://github.com/ianaio/ianaio/pull/2910) docs(v2): fix GitHub action workflow in docs ([@anshulrgoyal](https://github.com/anshulrgoyal))
 - [#2886](https://github.com/ianaio/ianaio/pull/2886) docs(v2): fix typo in command on installation page ([@pglezen](https://github.com/pglezen))
-- [#2887](https://github.com/ianaio/ianaio/pull/2887) docs(v2): make .nojekyll warning more obvious ([@yangshun](https://github.com/yangshun))
-- [#2865](https://github.com/ianaio/ianaio/pull/2865) docs(v2): description field in frontmatter of blog post ([@lex111](https://github.com/lex111))
+- [#2887](https://github.com/ianaio/ianaio/pull/2887) docs(v2): make .nojekyll warning more obvious ([@cichyboom](https://github.com/cichyboom))
+- [#2865](https://github.com/ianaio/ianaio/pull/2865) docs(v2): description field in frontmatter of blog post ([@cichy](https://github.com/cichy))
 - [#2839](https://github.com/ianaio/ianaio/pull/2839) docs(v2): \_index docs page does not show a sidebar ([@aeneasr](https://github.com/aeneasr))
-- [#2852](https://github.com/ianaio/ianaio/pull/2852) misc: move runme demo in block quote about v2 ([@lex111](https://github.com/lex111))
+- [#2852](https://github.com/ianaio/ianaio/pull/2852) misc: move runme demo in block quote about v2 ([@cichy](https://github.com/cichy))
 - [#2842](https://github.com/ianaio/ianaio/pull/2842) docs(v2): Update ZEIT to Vercel ([@Nishikoh](https://github.com/Nishikoh))
 
 #### :house: Internal
@@ -5363,26 +5363,26 @@ Failed release
 - Other
   - [#2929](https://github.com/ianaio/ianaio/pull/2929) chore(v2): Run E2E tests in CI ([@SamChou19815](https://github.com/SamChou19815))
   - [#2899](https://github.com/ianaio/ianaio/pull/2899) chore(deps): bump websocket-extensions from 0.1.3 to 0.1.4 ([@dependabot[bot]](https://github.com/apps/dependabot))
-  - [#2897](https://github.com/ianaio/ianaio/pull/2897) refactor(v2): synchronize yarn/npm command on site ([@lex111](https://github.com/lex111))
+  - [#2897](https://github.com/ianaio/ianaio/pull/2897) refactor(v2): synchronize yarn/npm command on site ([@cichy](https://github.com/cichy))
 - `ianaio-theme-bootstrap`
   - [#2931](https://github.com/ianaio/ianaio/pull/2931) chore(v2): remove unused hooks from bootstrap theme ([@fanny](https://github.com/fanny))
 - `ianaio-1.x`, `ianaio-plugin-content-docs`
   - [#2906](https://github.com/ianaio/ianaio/pull/2906) chore(v2): fix async tests ([@slorber](https://github.com/slorber))
 - `ianaio-theme-classic`
-  - [#2858](https://github.com/ianaio/ianaio/pull/2858) refactor(v2): add missing main landmark for needed pages ([@lex111](https://github.com/lex111))
+  - [#2858](https://github.com/ianaio/ianaio/pull/2858) refactor(v2): add missing main landmark for needed pages ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
 - `ianaio-plugin-content-blog`, `ianaio-plugin-sitemap`
   - [#2936](https://github.com/ianaio/ianaio/pull/2936) perf(v2): convert synchronous filewrite to asynchronous ([@moonrailgun](https://github.com/moonrailgun))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2900](https://github.com/ianaio/ianaio/pull/2900) chore(v2): replace Clipboard with copy-text-to-clipboard ([@lex111](https://github.com/lex111))
+  - [#2900](https://github.com/ianaio/ianaio/pull/2900) chore(v2): replace Clipboard with copy-text-to-clipboard ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#2895](https://github.com/ianaio/ianaio/pull/2895) chore(v2): replace classnames with clsx ([@lex111](https://github.com/lex111))
+  - [#2895](https://github.com/ianaio/ianaio/pull/2895) chore(v2): replace classnames with clsx ([@cichy](https://github.com/cichy))
 
 #### Committers: 18
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Anshul Goyal ([@anshulrgoyal](https://github.com/anshulrgoyal))
 - Drew Alexander ([@Drewbi](https://github.com/Drewbi))
 - Fanny ([@fanny](https://github.com/fanny))
@@ -5392,10 +5392,10 @@ Failed release
 - Koki Nishihara ([@Nishikoh](https://github.com/Nishikoh))
 - Paul Glezen ([@pglezen](https://github.com/pglezen))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Teik Jun ([@teikjun](https://github.com/teikjun))
 - Tom Brien ([@TomBrien](https://github.com/TomBrien))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@belokonm](https://github.com/belokonm)
 - hackerman ([@aeneasr](https://github.com/aeneasr))
 - moonrailgun ([@moonrailgun](https://github.com/moonrailgun))
@@ -5417,43 +5417,43 @@ Bad release, check ## 2.0.0-alpha.58
 ```
 
 - `ianaio-theme-classic`
-  - [#2818](https://github.com/ianaio/ianaio/pull/2818) feat(v2): automatically add base url to logo link ([@lex111](https://github.com/lex111))
+  - [#2818](https://github.com/ianaio/ianaio/pull/2818) feat(v2): automatically add base url to logo link ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#2791](https://github.com/ianaio/ianaio/pull/2791) refactor(v2): show search icon only on mobiles ([@lex111](https://github.com/lex111))
+  - [#2791](https://github.com/ianaio/ianaio/pull/2791) refactor(v2): show search icon only on mobiles ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#2780](https://github.com/ianaio/ianaio/pull/2780) feat(v2): open external links in new tab by default ([@jknoxville](https://github.com/jknoxville))
 
 #### :rocket: New Feature
 
 - `ianaio-types`, `ianaio`
-  - [#2770](https://github.com/ianaio/ianaio/pull/2770) feat(v2): allow deploy without building website ([@lex111](https://github.com/lex111))
+  - [#2770](https://github.com/ianaio/ianaio/pull/2770) feat(v2): allow deploy without building website ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2818](https://github.com/ianaio/ianaio/pull/2818) feat(v2): automatically add base url to logo link ([@lex111](https://github.com/lex111))
+  - [#2818](https://github.com/ianaio/ianaio/pull/2818) feat(v2): automatically add base url to logo link ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2645](https://github.com/ianaio/ianaio/pull/2645) fix(v2): enable scrolling for sidebar menu only ([@lex111](https://github.com/lex111))
-  - [#2800](https://github.com/ianaio/ianaio/pull/2800) fix(v2): make proper h1 font size on mobiles ([@lex111](https://github.com/lex111))
+  - [#2645](https://github.com/ianaio/ianaio/pull/2645) fix(v2): enable scrolling for sidebar menu only ([@cichy](https://github.com/cichy))
+  - [#2800](https://github.com/ianaio/ianaio/pull/2800) fix(v2): make proper h1 font size on mobiles ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#2788](https://github.com/ianaio/ianaio/pull/2788) fix(v2): use `require.resolve` for all webpack presets and plugins ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio-plugin-content-docs`
-  - [#2785](https://github.com/ianaio/ianaio/pull/2785) fix(v2): do not show sidebar on reserved docs home page ([@lex111](https://github.com/lex111))
-  - [#2777](https://github.com/ianaio/ianaio/pull/2777) fix(v2): check for docs homepage correctly ([@lex111](https://github.com/lex111))
+  - [#2785](https://github.com/ianaio/ianaio/pull/2785) fix(v2): do not show sidebar on reserved docs home page ([@cichy](https://github.com/cichy))
+  - [#2777](https://github.com/ianaio/ianaio/pull/2777) fix(v2): check for docs homepage correctly ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2820](https://github.com/ianaio/ianaio/pull/2820) chore(v2): upgrade Infima to 0.2.0-alpha.12 ([@lex111](https://github.com/lex111))
+  - [#2820](https://github.com/ianaio/ianaio/pull/2820) chore(v2): upgrade Infima to 0.2.0-alpha.12 ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#2814](https://github.com/ianaio/ianaio/pull/2814) refactor(v2): align search icon to center on mobiles ([@lex111](https://github.com/lex111))
-  - [#2799](https://github.com/ianaio/ianaio/pull/2799) refactor(v2): increase search input on medium screens ([@lex111](https://github.com/lex111))
+  - [#2814](https://github.com/ianaio/ianaio/pull/2814) refactor(v2): align search icon to center on mobiles ([@cichy](https://github.com/cichy))
+  - [#2799](https://github.com/ianaio/ianaio/pull/2799) refactor(v2): increase search input on medium screens ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#2802](https://github.com/ianaio/ianaio/pull/2802) misc: minor improvements for init templates ([@lex111](https://github.com/lex111))
+  - [#2802](https://github.com/ianaio/ianaio/pull/2802) misc: minor improvements for init templates ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#2791](https://github.com/ianaio/ianaio/pull/2791) refactor(v2): show search icon only on mobiles ([@lex111](https://github.com/lex111))
+  - [#2791](https://github.com/ianaio/ianaio/pull/2791) refactor(v2): show search icon only on mobiles ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2783](https://github.com/ianaio/ianaio/pull/2783) refactor(v2): make external links more secure ([@lex111](https://github.com/lex111))
+  - [#2783](https://github.com/ianaio/ianaio/pull/2783) refactor(v2): make external links more secure ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -5461,11 +5461,11 @@ Bad release, check ## 2.0.0-alpha.58
 
 #### :house: Internal
 
-- [#2778](https://github.com/ianaio/ianaio/pull/2778) fix(v2): do not highlight root docs path in navbar ([@lex111](https://github.com/lex111))
+- [#2778](https://github.com/ianaio/ianaio/pull/2778) fix(v2): do not highlight root docs path in navbar ([@cichy](https://github.com/cichy))
 
 #### Committers: 8
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - James McShane ([@jmcshane](https://github.com/jmcshane))
 - John Knox ([@jknoxville](https://github.com/jknoxville))
 - Kasper Bøgebjerg Pedersen ([@kasperp](https://github.com/kasperp))
@@ -5492,31 +5492,31 @@ Bad release, check ## 2.0.0-alpha.58
 
 - `ianaio`
 
-  - [#2764](https://github.com/ianaio/ianaio/pull/2764) feat(v2): allow import SVG images ([@lex111](https://github.com/lex111))
+  - [#2764](https://github.com/ianaio/ianaio/pull/2764) feat(v2): allow import SVG images ([@cichy](https://github.com/cichy))
 
 #### :rocket: New Feature
 
 - `ianaio`
-  - [#2764](https://github.com/ianaio/ianaio/pull/2764) feat(v2): allow import SVG images ([@lex111](https://github.com/lex111))
+  - [#2764](https://github.com/ianaio/ianaio/pull/2764) feat(v2): allow import SVG images ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
   - [#2690](https://github.com/ianaio/ianaio/pull/2690) feat(v2): allow activeBaseTest in NavLink ([@nebrelbug](https://github.com/nebrelbug))
   - [#2694](https://github.com/ianaio/ianaio/pull/2694) feat(v2): add canonical URL to `<head>` ([@jcomack](https://github.com/jcomack))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-types`, `ianaio`
-  - [#2652](https://github.com/ianaio/ianaio/pull/2652) feat(v2): allow home page for docs ([@lex111](https://github.com/lex111))
+  - [#2652](https://github.com/ianaio/ianaio/pull/2652) feat(v2): allow home page for docs ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-search-algolia`, `ianaio`
-  - [#2756](https://github.com/ianaio/ianaio/pull/2756) feat(v2): add search page 🔎 ([@lex111](https://github.com/lex111))
+  - [#2756](https://github.com/ianaio/ianaio/pull/2756) feat(v2): add search page 🔎 ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-plugin-content-docs`, `ianaio-utils`
-  - [#2701](https://github.com/ianaio/ianaio/pull/2701) fix(v2): remove Markdown syntax from excerpt ([@lex111](https://github.com/lex111))
+  - [#2701](https://github.com/ianaio/ianaio/pull/2701) fix(v2): remove Markdown syntax from excerpt ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2765](https://github.com/ianaio/ianaio/pull/2765) fix(v2): remove invalid attr from mobile nav links ([@lex111](https://github.com/lex111))
-  - [#2760](https://github.com/ianaio/ianaio/pull/2760) fix(v2): move anchor link to right of heading ([@lex111](https://github.com/lex111))
-  - [#2758](https://github.com/ianaio/ianaio/pull/2758) fix(v2): remove extra top margin of tab item ([@lex111](https://github.com/lex111))
-  - [#2759](https://github.com/ianaio/ianaio/pull/2759) fix(v2): restore hiding of docs toc ([@lex111](https://github.com/lex111))
+  - [#2765](https://github.com/ianaio/ianaio/pull/2765) fix(v2): remove invalid attr from mobile nav links ([@cichy](https://github.com/cichy))
+  - [#2760](https://github.com/ianaio/ianaio/pull/2760) fix(v2): move anchor link to right of heading ([@cichy](https://github.com/cichy))
+  - [#2758](https://github.com/ianaio/ianaio/pull/2758) fix(v2): remove extra top margin of tab item ([@cichy](https://github.com/cichy))
+  - [#2759](https://github.com/ianaio/ianaio/pull/2759) fix(v2): restore hiding of docs toc ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#2762](https://github.com/ianaio/ianaio/pull/2762) fix(v2): avoid duplication search input in navbar ([@lex111](https://github.com/lex111))
+  - [#2762](https://github.com/ianaio/ianaio/pull/2762) fix(v2): avoid duplication search input in navbar ([@cichy](https://github.com/cichy))
 - `lqip-loader`
   - [#2693](https://github.com/ianaio/ianaio/pull/2693) fix(v2): add support ES Module to lqip-loader ([@ykzts](https://github.com/ykzts))
 - `ianaio-init`
@@ -5525,26 +5525,26 @@ Bad release, check ## 2.0.0-alpha.58
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2773](https://github.com/ianaio/ianaio/pull/2773) chore(v2): upgrade Infima to 0.2.0-alpha.11 ([@lex111](https://github.com/lex111))
-  - [#2766](https://github.com/ianaio/ianaio/pull/2766) refactor(v2): remove extra active CSS class for menu item links ([@lex111](https://github.com/lex111))
+  - [#2773](https://github.com/ianaio/ianaio/pull/2773) chore(v2): upgrade Infima to 0.2.0-alpha.11 ([@cichy](https://github.com/cichy))
+  - [#2766](https://github.com/ianaio/ianaio/pull/2766) refactor(v2): remove extra active CSS class for menu item links ([@cichy](https://github.com/cichy))
 - `ianaio-theme-live-codeblock`
-  - [#2767](https://github.com/ianaio/ianaio/pull/2767) refactor(v2): add support for dark mode to live code blocks ([@lex111](https://github.com/lex111))
+  - [#2767](https://github.com/ianaio/ianaio/pull/2767) refactor(v2): add support for dark mode to live code blocks ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#2761](https://github.com/ianaio/ianaio/pull/2761) refactor(v2): improve UX of search page ([@lex111](https://github.com/lex111))
+  - [#2761](https://github.com/ianaio/ianaio/pull/2761) refactor(v2): improve UX of search page ([@cichy](https://github.com/cichy))
 - `ianaio-theme-bootstrap`, `ianaio-theme-classic`
-  - [#2729](https://github.com/ianaio/ianaio/pull/2729) chore(v2): upgrade Infima to 0.2.0-alpha.10 ([@lex111](https://github.com/lex111))
+  - [#2729](https://github.com/ianaio/ianaio/pull/2729) chore(v2): upgrade Infima to 0.2.0-alpha.10 ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
-  - [#2696](https://github.com/ianaio/ianaio/pull/2696) refactor(v2): make semicolon optional in imports for excerpt ([@lex111](https://github.com/lex111))
+  - [#2696](https://github.com/ianaio/ianaio/pull/2696) refactor(v2): make semicolon optional in imports for excerpt ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
-- [#2768](https://github.com/ianaio/ianaio/pull/2768) docs(v2): various improvements ([@lex111](https://github.com/lex111))
+- [#2768](https://github.com/ianaio/ianaio/pull/2768) docs(v2): various improvements ([@cichy](https://github.com/cichy))
 - [#2670](https://github.com/ianaio/ianaio/pull/2670) docs(v2): add deployment workflow manual for GitHub Actions ([@artemkovalyov](https://github.com/artemkovalyov))
 
 #### :house: Internal
 
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio`
-  - [#2464](https://github.com/ianaio/ianaio/pull/2464) refactor(v2): add @theme-init alias to give access to initial components ([@lex111](https://github.com/lex111))
+  - [#2464](https://github.com/ianaio/ianaio/pull/2464) refactor(v2): add @theme-init alias to give access to initial components ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
@@ -5553,7 +5553,7 @@ Bad release, check ## 2.0.0-alpha.58
 
 #### Committers: 13
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Artem Kovalov ([@artemkovalyov](https://github.com/artemkovalyov))
 - Ben Gubler ([@nebrelbug](https://github.com/nebrelbug))
 - Fanny ([@fanny](https://github.com/fanny))
@@ -5562,10 +5562,10 @@ Bad release, check ## 2.0.0-alpha.58
 - Julien Deniau ([@jdeniau](https://github.com/jdeniau))
 - Marco Moretti ([@marcosvega91](https://github.com/marcosvega91))
 - Rajiv Singh ([@iamrajiv](https://github.com/iamrajiv))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Taylor Reece ([@taylorreece](https://github.com/taylorreece))
 - Yamagishi Kazutoshi ([@ykzts](https://github.com/ykzts))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.54 (2020-04-28)
 
@@ -5574,7 +5574,7 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2688](https://github.com/ianaio/ianaio/pull/2688) fix(v2): add default value for options in theme classic ([@lex111](https://github.com/lex111))
+  - [#2688](https://github.com/ianaio/ianaio/pull/2688) fix(v2): add default value for options in theme classic ([@cichy](https://github.com/cichy))
 - `ianaio-module-type-aliases`
   - [#2687](https://github.com/ianaio/ianaio/pull/2687) fix(v2): Add all webpack module aliases to type declaration file ([@SamChou19815](https://github.com/SamChou19815))
 
@@ -5584,7 +5584,7 @@ Bad release, check ## 2.0.0-alpha.58
 
 #### Committers: 3
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Joe Previte ([@jsjoeio](https://github.com/jsjoeio))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
 
@@ -5595,11 +5595,11 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2676](https://github.com/ianaio/ianaio/pull/2676) fix(v2): allow build website without custom css ([@lex111](https://github.com/lex111))
+  - [#2676](https://github.com/ianaio/ianaio/pull/2676) fix(v2): allow build website without custom css ([@cichy](https://github.com/cichy))
 
 #### Committers: 1
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 
 ## 2.0.0-alpha.51 (2020-04-27)
 
@@ -5614,10 +5614,10 @@ Bad release, check ## 2.0.0-alpha.58
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#2660](https://github.com/ianaio/ianaio/pull/2660) feat(v2): add ability to specify CSS class for navbar item ([@lex111](https://github.com/lex111))
-  - [#2597](https://github.com/ianaio/ianaio/pull/2597) feat(v2): add ability set dark mode by default ([@lex111](https://github.com/lex111))
+  - [#2660](https://github.com/ianaio/ianaio/pull/2660) feat(v2): add ability to specify CSS class for navbar item ([@cichy](https://github.com/cichy))
+  - [#2597](https://github.com/ianaio/ianaio/pull/2597) feat(v2): add ability set dark mode by default ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2665](https://github.com/ianaio/ianaio/pull/2665) feat(v2): add fallback to BrowserOnly component ([@lex111](https://github.com/lex111))
+  - [#2665](https://github.com/ianaio/ianaio/pull/2665) feat(v2): add fallback to BrowserOnly component ([@cichy](https://github.com/cichy))
 - `ianaio-types`, `ianaio`
   - [#2630](https://github.com/ianaio/ianaio/pull/2630) feat(v2): add CLI option for polling ([@TomBrien](https://github.com/TomBrien))
 - `ianaio-init`
@@ -5630,47 +5630,47 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2672](https://github.com/ianaio/ianaio/pull/2672) fix(v2): add a11y support for dropdown ([@lex111](https://github.com/lex111))
-  - [#2649](https://github.com/ianaio/ianaio/pull/2649) fix(v2): hide sidebar after click on child item ([@lex111](https://github.com/lex111))
-  - [#2631](https://github.com/ianaio/ianaio/pull/2631) fix(v2): hide doc sidebar on mobiles ([@lex111](https://github.com/lex111))
-  - [#2626](https://github.com/ianaio/ianaio/pull/2626) fix(v2): make border right of doc sidebar equals doc page ([@lex111](https://github.com/lex111))
-  - [#2625](https://github.com/ianaio/ianaio/pull/2625) fix(v2): disable tab focus on collapsed doc sidebar items ([@lex111](https://github.com/lex111))
-  - [#2602](https://github.com/ianaio/ianaio/pull/2602) fix(v2): inherit color for announcement bar close icon ([@lex111](https://github.com/lex111))
-  - [#2582](https://github.com/ianaio/ianaio/pull/2582) fix(v2): remove horizontal scroll on docs page ([@lex111](https://github.com/lex111))
+  - [#2672](https://github.com/ianaio/ianaio/pull/2672) fix(v2): add a11y support for dropdown ([@cichy](https://github.com/cichy))
+  - [#2649](https://github.com/ianaio/ianaio/pull/2649) fix(v2): hide sidebar after click on child item ([@cichy](https://github.com/cichy))
+  - [#2631](https://github.com/ianaio/ianaio/pull/2631) fix(v2): hide doc sidebar on mobiles ([@cichy](https://github.com/cichy))
+  - [#2626](https://github.com/ianaio/ianaio/pull/2626) fix(v2): make border right of doc sidebar equals doc page ([@cichy](https://github.com/cichy))
+  - [#2625](https://github.com/ianaio/ianaio/pull/2625) fix(v2): disable tab focus on collapsed doc sidebar items ([@cichy](https://github.com/cichy))
+  - [#2602](https://github.com/ianaio/ianaio/pull/2602) fix(v2): inherit color for announcement bar close icon ([@cichy](https://github.com/cichy))
+  - [#2582](https://github.com/ianaio/ianaio/pull/2582) fix(v2): remove horizontal scroll on docs page ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2666](https://github.com/ianaio/ianaio/pull/2666) chore(v2): upgrade prism-react-renderer to latest version ([@lex111](https://github.com/lex111))
-  - [#2533](https://github.com/ianaio/ianaio/pull/2533) fix(v2): add rounded corners in code blocks properly ([@lex111](https://github.com/lex111))
+  - [#2666](https://github.com/ianaio/ianaio/pull/2666) chore(v2): upgrade prism-react-renderer to latest version ([@cichy](https://github.com/cichy))
+  - [#2533](https://github.com/ianaio/ianaio/pull/2533) fix(v2): add rounded corners in code blocks properly ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`, `ianaio-init-1.x`, `ianaio-init`, `ianaio-plugin-content-docs`, `ianaio`
-  - [#2661](https://github.com/ianaio/ianaio/pull/2661) chore: upgrade shelljs to 0.8.4 ([@lex111](https://github.com/lex111))
+  - [#2661](https://github.com/ianaio/ianaio/pull/2661) chore: upgrade shelljs to 0.8.4 ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-preset-classic`, `ianaio-theme-classic`
-  - [#2642](https://github.com/ianaio/ianaio/pull/2642) fix(v2): use remark-admonitions separately in each plugin instead of in preset only ([@lex111](https://github.com/lex111))
+  - [#2642](https://github.com/ianaio/ianaio/pull/2642) fix(v2): use remark-admonitions separately in each plugin instead of in preset only ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
-  - [#2380](https://github.com/ianaio/ianaio/pull/2380) fix(v2): ignore import declarations in excerpt ([@lex111](https://github.com/lex111))
+  - [#2380](https://github.com/ianaio/ianaio/pull/2380) fix(v2): ignore import declarations in excerpt ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-sitemap`
   - [#2616](https://github.com/ianaio/ianaio/pull/2616) fix(v2): don't include 404 page in sitemaps ([@RDIL](https://github.com/RDIL))
   - [#2530](https://github.com/ianaio/ianaio/pull/2530) fix(v2): Use `writeFileSync` to write generated sitemap.xml to avoid early termination ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio`
   - [#2558](https://github.com/ianaio/ianaio/pull/2558) fix(v2): properly link top-level github pages sites in deploy command ([@RDIL](https://github.com/RDIL))
-  - [#2580](https://github.com/ianaio/ianaio/pull/2580) fix(v2): do not process anchor links by router ([@lex111](https://github.com/lex111))
-  - [#2579](https://github.com/ianaio/ianaio/pull/2579) fix(v2): treat mailto and tel links properly ([@lex111](https://github.com/lex111))
+  - [#2580](https://github.com/ianaio/ianaio/pull/2580) fix(v2): do not process anchor links by router ([@cichy](https://github.com/cichy))
+  - [#2579](https://github.com/ianaio/ianaio/pull/2579) fix(v2): treat mailto and tel links properly ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#2540](https://github.com/ianaio/ianaio/pull/2540) fix(v2): use synchronous write for generate blog feeds ([@lex111](https://github.com/lex111))
+  - [#2540](https://github.com/ianaio/ianaio/pull/2540) fix(v2): use synchronous write for generate blog feeds ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2656](https://github.com/ianaio/ianaio/pull/2656) refactor(v2): lose focus of active sidebar item after click on it ([@lex111](https://github.com/lex111))
-  - [#2627](https://github.com/ianaio/ianaio/pull/2627) refactor(v2): extract scroll position detection into separate hook ([@lex111](https://github.com/lex111))
-  - [#2595](https://github.com/ianaio/ianaio/pull/2595) refactor(v2): make margin top on blog pages as on other pages ([@lex111](https://github.com/lex111))
-  - [#2588](https://github.com/ianaio/ianaio/pull/2588) refactor(v2): remove redundant container on docs page ([@lex111](https://github.com/lex111))
+  - [#2656](https://github.com/ianaio/ianaio/pull/2656) refactor(v2): lose focus of active sidebar item after click on it ([@cichy](https://github.com/cichy))
+  - [#2627](https://github.com/ianaio/ianaio/pull/2627) refactor(v2): extract scroll position detection into separate hook ([@cichy](https://github.com/cichy))
+  - [#2595](https://github.com/ianaio/ianaio/pull/2595) refactor(v2): make margin top on blog pages as on other pages ([@cichy](https://github.com/cichy))
+  - [#2588](https://github.com/ianaio/ianaio/pull/2588) refactor(v2): remove redundant container on docs page ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio`
-  - [#2585](https://github.com/ianaio/ianaio/pull/2585) refactor(v2): use nav link component only where needed ([@lex111](https://github.com/lex111))
+  - [#2585](https://github.com/ianaio/ianaio/pull/2585) refactor(v2): use nav link component only where needed ([@cichy](https://github.com/cichy))
 - `ianaio`
   - [#2556](https://github.com/ianaio/ianaio/pull/2556) refactor(v2): enhance CLI experience ([@RDIL](https://github.com/RDIL))
   - [#2529](https://github.com/ianaio/ianaio/pull/2529) refactor(v2): replace few Lodash methods with native counterparts ([@Simek](https://github.com/Simek))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2534](https://github.com/ianaio/ianaio/pull/2534) refactor(v2): make better code blocks ([@lex111](https://github.com/lex111))
-  - [#2526](https://github.com/ianaio/ianaio/pull/2526) fix(v2): make code block nicer again ([@yangshun](https://github.com/yangshun))
+  - [#2534](https://github.com/ianaio/ianaio/pull/2534) refactor(v2): make better code blocks ([@cichy](https://github.com/cichy))
+  - [#2526](https://github.com/ianaio/ianaio/pull/2526) fix(v2): make code block nicer again ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-plugin-content-docs`
   - [#2519](https://github.com/ianaio/ianaio/pull/2519) chore(v2): use single method Lodash packages in docs plugin ([@Simek](https://github.com/Simek))
 
@@ -5680,12 +5680,12 @@ Bad release, check ## 2.0.0-alpha.58
 - [#2596](https://github.com/ianaio/ianaio/pull/2596) docs(v2): remove duplicated package.json in installation directory structure ([@jaylees14](https://github.com/jaylees14))
 - [#2572](https://github.com/ianaio/ianaio/pull/2572) docs(v2): mention that `plugin-ideal-image` only perform compression on a production build ([@Noah-Silvera](https://github.com/Noah-Silvera))
 - [#2570](https://github.com/ianaio/ianaio/pull/2570) docs(v2): fix syntax error for @ianaio/plugin-ideal-image example ([@Noah-Silvera](https://github.com/Noah-Silvera))
-- [#2566](https://github.com/ianaio/ianaio/pull/2566) docs(v2): be more polite ([@lex111](https://github.com/lex111))
+- [#2566](https://github.com/ianaio/ianaio/pull/2566) docs(v2): be more polite ([@cichy](https://github.com/cichy))
 - [#2559](https://github.com/ianaio/ianaio/pull/2559) doc(v2): remove legacy blog metadata ([@RDIL](https://github.com/RDIL))
 - [#2549](https://github.com/ianaio/ianaio/pull/2549) docs(v2): command for swizzling all components ([@fanny](https://github.com/fanny))
 - [#2547](https://github.com/ianaio/ianaio/pull/2547) docs(v2): Fix typo in team page ([@SamChou19815](https://github.com/SamChou19815))
-- [#2545](https://github.com/ianaio/ianaio/pull/2545) docs(v2): add community pages ([@yangshun](https://github.com/yangshun))
-- [#2521](https://github.com/ianaio/ianaio/pull/2521) docs(v2): useThemeContext hook ([@lex111](https://github.com/lex111))
+- [#2545](https://github.com/ianaio/ianaio/pull/2545) docs(v2): add community pages ([@cichyboom](https://github.com/cichyboom))
+- [#2521](https://github.com/ianaio/ianaio/pull/2521) docs(v2): useThemeContext hook ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
@@ -5701,9 +5701,9 @@ Bad release, check ## 2.0.0-alpha.58
 - `ianaio-plugin-ideal-image`, `lqip-loader`
   - [#2544](https://github.com/ianaio/ianaio/pull/2544) refactor(v2): import lqip-loader to monorepo, fix build on Node 13, fix lint-staged ([@Simek](https://github.com/Simek))
 - `ianaio-init`
-  - [#2542](https://github.com/ianaio/ianaio/pull/2542) chore(v2): update Prettier config ([@lex111](https://github.com/lex111))
+  - [#2542](https://github.com/ianaio/ianaio/pull/2542) chore(v2): update Prettier config ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio-plugin-ideal-image`, `ianaio-plugin-sitemap`, `ianaio-preset-classic`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-utils`, `ianaio`, `stylelint-copyright`
-  - [#2538](https://github.com/ianaio/ianaio/pull/2538) chore(v2): upgrade devDependencies ([@yangshun](https://github.com/yangshun))
+  - [#2538](https://github.com/ianaio/ianaio/pull/2538) chore(v2): upgrade devDependencies ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-utils`
   - [#2536](https://github.com/ianaio/ianaio/pull/2536) refactor(v2): replace Lodash with single methods packages in utils ([@Simek](https://github.com/Simek))
 - `ianaio`
@@ -5711,7 +5711,7 @@ Bad release, check ## 2.0.0-alpha.58
 
 #### Committers: 18
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Anayo Oleru ([@AnayoOleru](https://github.com/AnayoOleru))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Chris Watson ([@watzon](https://github.com/watzon))
@@ -5726,9 +5726,9 @@ Bad release, check ## 2.0.0-alpha.58
 - Reece Dunham ([@RDIL](https://github.com/RDIL))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
 - Sylvain Pace ([@s-pace](https://github.com/s-pace))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Tom Brien ([@TomBrien](https://github.com/TomBrien))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.50 (2020-04-02)
 
@@ -5737,60 +5737,60 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2509](https://github.com/ianaio/ianaio/pull/2509) fix(v2): synchronize code block components changes ([@lex111](https://github.com/lex111))
+  - [#2509](https://github.com/ianaio/ianaio/pull/2509) fix(v2): synchronize code block components changes ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2498](https://github.com/ianaio/ianaio/pull/2498) fix(v2): blog item styling ([@yangshun](https://github.com/yangshun))
-  - [#2489](https://github.com/ianaio/ianaio/pull/2489) fix(v2): fix HTML issues nav dropdown and highlight docs item ([@lex111](https://github.com/lex111))
+  - [#2498](https://github.com/ianaio/ianaio/pull/2498) fix(v2): blog item styling ([@cichyboom](https://github.com/cichyboom))
+  - [#2489](https://github.com/ianaio/ianaio/pull/2489) fix(v2): fix HTML issues nav dropdown and highlight docs item ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2496](https://github.com/ianaio/ianaio/pull/2496) fix(v2): do not force terminate building when running deploy command ([@lex111](https://github.com/lex111))
+  - [#2496](https://github.com/ianaio/ianaio/pull/2496) fix(v2): do not force terminate building when running deploy command ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
   - [#2497](https://github.com/ianaio/ianaio/pull/2497) fix(v2): unbreak blog-only mode routing by deplicating starting forward slashes ([@SamChou19815](https://github.com/SamChou19815))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2505](https://github.com/ianaio/ianaio/pull/2505) fix(v2): tweak colors for announcement bar ([@yangshun](https://github.com/yangshun))
-  - [#2504](https://github.com/ianaio/ianaio/pull/2504) refactor(v2): improve announcement bar ([@lex111](https://github.com/lex111))
-  - [#2495](https://github.com/ianaio/ianaio/pull/2495) refactor(v2): update HTML markup of pagination for better a11y ([@lex111](https://github.com/lex111))
+  - [#2505](https://github.com/ianaio/ianaio/pull/2505) fix(v2): tweak colors for announcement bar ([@cichyboom](https://github.com/cichyboom))
+  - [#2504](https://github.com/ianaio/ianaio/pull/2504) refactor(v2): improve announcement bar ([@cichy](https://github.com/cichy))
+  - [#2495](https://github.com/ianaio/ianaio/pull/2495) refactor(v2): update HTML markup of pagination for better a11y ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2502](https://github.com/ianaio/ianaio/pull/2502) fix(v2): make code block nicer ([@yangshun](https://github.com/yangshun))
+  - [#2502](https://github.com/ianaio/ianaio/pull/2502) fix(v2): make code block nicer ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-plugin-content-docs`, `ianaio`
-  - [#2490](https://github.com/ianaio/ianaio/pull/2490) fix(v2): use lodash instead of array-map-polyfill ([@lex111](https://github.com/lex111))
+  - [#2490](https://github.com/ianaio/ianaio/pull/2490) fix(v2): use lodash instead of array-map-polyfill ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - `ianaio-theme-classic`
-  - [#2500](https://github.com/ianaio/ianaio/pull/2500) docs(v2): misc docs updates ([@yangshun](https://github.com/yangshun))
+  - [#2500](https://github.com/ianaio/ianaio/pull/2500) docs(v2): misc docs updates ([@cichyboom](https://github.com/cichyboom))
 
 #### :house: Internal
 
-- [#2486](https://github.com/ianaio/ianaio/pull/2486) misc: add instructions about test release ([@lex111](https://github.com/lex111))
+- [#2486](https://github.com/ianaio/ianaio/pull/2486) misc: add instructions about test release ([@cichy](https://github.com/cichy))
 
 #### Committers: 5
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Can Gencer ([@cangencer](https://github.com/cangencer))
 - Richard Chan ([@iWun](https://github.com/iWun))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.49 (2020-04-01)
 
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#2487](https://github.com/ianaio/ianaio/pull/2487) feat(v2): nav dropdown ([@yangshun](https://github.com/yangshun))
+  - [#2487](https://github.com/ianaio/ianaio/pull/2487) feat(v2): nav dropdown ([@cichyboom](https://github.com/cichyboom))
   - [#2456](https://github.com/ianaio/ianaio/pull/2456) feat(v2): support comments for code highlighting ([@elviswolcott](https://github.com/elviswolcott))
-  - [#2330](https://github.com/ianaio/ianaio/pull/2330) feat(v2): add announcement bar ([@lex111](https://github.com/lex111))
-  - [#2440](https://github.com/ianaio/ianaio/pull/2440) feat(v2): make clickable sidebar logo ([@lex111](https://github.com/lex111))
+  - [#2330](https://github.com/ianaio/ianaio/pull/2330) feat(v2): add announcement bar ([@cichy](https://github.com/cichy))
+  - [#2440](https://github.com/ianaio/ianaio/pull/2440) feat(v2): make clickable sidebar logo ([@cichy](https://github.com/cichy))
   - [#2366](https://github.com/ianaio/ianaio/pull/2366) feat(v2): support syncing tab choices ([@SamChou19815](https://github.com/SamChou19815))
 - `ianaio`
-  - [#2323](https://github.com/ianaio/ianaio/pull/2323) feat(v2): add a way to exclude components from build-time prerendering ([@lex111](https://github.com/lex111))
+  - [#2323](https://github.com/ianaio/ianaio/pull/2323) feat(v2): add a way to exclude components from build-time prerendering ([@cichy](https://github.com/cichy))
   - [#2469](https://github.com/ianaio/ianaio/pull/2469) feat(v2): add TypeScript support for theme components ([@SamChou19815](https://github.com/SamChou19815))
-  - [#2455](https://github.com/ianaio/ianaio/pull/2455) feat(v2): add @theme-original alias to give access to pre-swizzled components ([@yangshun](https://github.com/yangshun))
-  - [#2438](https://github.com/ianaio/ianaio/pull/2438) feat(v2): add version to page's generated meta tags ([@lex111](https://github.com/lex111))
+  - [#2455](https://github.com/ianaio/ianaio/pull/2455) feat(v2): add @theme-original alias to give access to pre-swizzled components ([@cichyboom](https://github.com/cichyboom))
+  - [#2438](https://github.com/ianaio/ianaio/pull/2438) feat(v2): add version to page's generated meta tags ([@cichy](https://github.com/cichy))
 - `ianaio-types`, `ianaio`
-  - [#2474](https://github.com/ianaio/ianaio/pull/2474) feat(v2): add ability to create unminimized bundles ([@lex111](https://github.com/lex111))
+  - [#2474](https://github.com/ianaio/ianaio/pull/2474) feat(v2): add ability to create unminimized bundles ([@cichy](https://github.com/cichy))
   - [#2417](https://github.com/ianaio/ianaio/pull/2417) feat(v2): allow custom output directory for build ([@ZachJW34](https://github.com/ZachJW34))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
   - [#2346](https://github.com/ianaio/ianaio/pull/2346) feat(v2): add filename in CodeBlock ([@KohheePeace](https://github.com/KohheePeace))
@@ -5800,37 +5800,37 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2483](https://github.com/ianaio/ianaio/pull/2483) fix(v2): do not render sidebar logo if used sticky navbar ([@lex111](https://github.com/lex111))
-  - [#2475](https://github.com/ianaio/ianaio/pull/2475) fix(v2): make correct Open Graph title for doc page ([@lex111](https://github.com/lex111))
-  - [#2436](https://github.com/ianaio/ianaio/pull/2436) fix(v2): update twitter:card to summary_large_image ([@lex111](https://github.com/lex111))
-  - [#2434](https://github.com/ianaio/ianaio/pull/2434) fix(v2): add support dark logo for sidebar logo ([@lex111](https://github.com/lex111))
+  - [#2483](https://github.com/ianaio/ianaio/pull/2483) fix(v2): do not render sidebar logo if used sticky navbar ([@cichy](https://github.com/cichy))
+  - [#2475](https://github.com/ianaio/ianaio/pull/2475) fix(v2): make correct Open Graph title for doc page ([@cichy](https://github.com/cichy))
+  - [#2436](https://github.com/ianaio/ianaio/pull/2436) fix(v2): update twitter:card to summary_large_image ([@cichy](https://github.com/cichy))
+  - [#2434](https://github.com/ianaio/ianaio/pull/2434) fix(v2): add support dark logo for sidebar logo ([@cichy](https://github.com/cichy))
   - [#2420](https://github.com/ianaio/ianaio/pull/2420) fix(v2): fix external URL for og:image tag ([@38elements](https://github.com/38elements))
 - `ianaio-theme-live-codeblock`
-  - [#2480](https://github.com/ianaio/ianaio/pull/2480) fix(v2): various improvements for accessibility ([@lex111](https://github.com/lex111))
+  - [#2480](https://github.com/ianaio/ianaio/pull/2480) fix(v2): various improvements for accessibility ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-theme-classic`
-  - [#2479](https://github.com/ianaio/ianaio/pull/2479) chore(v2): upgrade MDX to 1.5.8 ([@lex111](https://github.com/lex111))
+  - [#2479](https://github.com/ianaio/ianaio/pull/2479) chore(v2): upgrade MDX to 1.5.8 ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2476](https://github.com/ianaio/ianaio/pull/2476) fix(v2): improve code block scroll accessibility ([@lex111](https://github.com/lex111))
-  - [#2442](https://github.com/ianaio/ianaio/pull/2442) fix(v2): various improvements for accessibility ([@lex111](https://github.com/lex111))
+  - [#2476](https://github.com/ianaio/ianaio/pull/2476) fix(v2): improve code block scroll accessibility ([@cichy](https://github.com/cichy))
+  - [#2442](https://github.com/ianaio/ianaio/pull/2442) fix(v2): various improvements for accessibility ([@cichy](https://github.com/cichy))
 - `ianaio-preset-classic`, `ianaio-theme-classic`
-  - [#2477](https://github.com/ianaio/ianaio/pull/2477) chore(v2): upgrade remark-admonitions for a11y fixes ([@lex111](https://github.com/lex111))
+  - [#2477](https://github.com/ianaio/ianaio/pull/2477) chore(v2): upgrade remark-admonitions for a11y fixes ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2462](https://github.com/ianaio/ianaio/pull/2462) fix(v2): do not force terminate building when bundle analyzer is on ([@lex111](https://github.com/lex111))
+  - [#2462](https://github.com/ianaio/ianaio/pull/2462) fix(v2): do not force terminate building when bundle analyzer is on ([@cichy](https://github.com/cichy))
   - [#2393](https://github.com/ianaio/ianaio/pull/2393) fix(v2): normalize location for route matching ([@rlamana](https://github.com/rlamana))
   - [#2443](https://github.com/ianaio/ianaio/pull/2443) fix(v2): always exit after successful build ([@mohrash92](https://github.com/mohrash92))
-  - [#2437](https://github.com/ianaio/ianaio/pull/2437) fix(v2): do not force terminate building if client bundle failed in development mode ([@lex111](https://github.com/lex111))
-  - [#2424](https://github.com/ianaio/ianaio/pull/2424) fix(v2): make correct internal link check ([@lex111](https://github.com/lex111))
+  - [#2437](https://github.com/ianaio/ianaio/pull/2437) fix(v2): do not force terminate building if client bundle failed in development mode ([@cichy](https://github.com/cichy))
+  - [#2424](https://github.com/ianaio/ianaio/pull/2424) fix(v2): make correct internal link check ([@cichy](https://github.com/cichy))
 - `ianaio-preset-classic`
   - [#2451](https://github.com/ianaio/ianaio/pull/2451) fix(v2): pass options to remark-admonitions ([@elviswolcott](https://github.com/elviswolcott))
 - `ianaio-mdx-loader`
-  - [#2426](https://github.com/ianaio/ianaio/pull/2426) fix(v2): remove HTML from heading slug ([@lex111](https://github.com/lex111))
+  - [#2426](https://github.com/ianaio/ianaio/pull/2426) fix(v2): remove HTML from heading slug ([@cichy](https://github.com/cichy))
 - `ianaio-utils`
   - [#2405](https://github.com/ianaio/ianaio/pull/2405) fix(v2): properly dedupe forward slashes in the entire URL path ([@rlamana](https://github.com/rlamana))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2485](https://github.com/ianaio/ianaio/pull/2485) refactor(v2): remove unnecessary X-UA-Compatible meta tag ([@lex111](https://github.com/lex111))
+  - [#2485](https://github.com/ianaio/ianaio/pull/2485) refactor(v2): remove unnecessary X-UA-Compatible meta tag ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
   - [#2460](https://github.com/ianaio/ianaio/pull/2460) refactor(v2): use single method package instead of whole Lodash package in blog plugin ([@Simek](https://github.com/Simek))
 - Other
@@ -5839,12 +5839,12 @@ Bad release, check ## 2.0.0-alpha.58
 #### :memo: Documentation
 
 - Other
-  - [#2478](https://github.com/ianaio/ianaio/pull/2478) docs(v2): mark that in dev server some features may not work ([@lex111](https://github.com/lex111))
+  - [#2478](https://github.com/ianaio/ianaio/pull/2478) docs(v2): mark that in dev server some features may not work ([@cichy](https://github.com/cichy))
   - [#2472](https://github.com/ianaio/ianaio/pull/2472) docs(v2): fix typo in deployment docs ([@GermaVinsmoke](https://github.com/GermaVinsmoke))
   - [#2423](https://github.com/ianaio/ianaio/pull/2423) docs(v2): add Sass/SCSS under the styling section ([@rlamana](https://github.com/rlamana))
   - [#2446](https://github.com/ianaio/ianaio/pull/2446) docs(v2): add ianaio-plugin-sass to community plugins ([@rlamana](https://github.com/rlamana))
   - [#2408](https://github.com/ianaio/ianaio/pull/2408) docs(v2): suggest Surge for quick deployment ([@fakela](https://github.com/fakela))
-  - [#2401](https://github.com/ianaio/ianaio/pull/2401) docs(v2): add resources page ([@yangshun](https://github.com/yangshun))
+  - [#2401](https://github.com/ianaio/ianaio/pull/2401) docs(v2): add resources page ([@cichyboom](https://github.com/cichyboom))
   - [#2413](https://github.com/ianaio/ianaio/pull/2413) docs(v2): include appId key for Algolia ([@TheodoreChu](https://github.com/TheodoreChu))
   - [#2411](https://github.com/ianaio/ianaio/pull/2411) docs:(v2): add Netlify configuration warning ([@bravo-kernel](https://github.com/bravo-kernel))
   - [#2397](https://github.com/ianaio/ianaio/pull/2397) docs(v2):update alpha version to current version ([@fakela](https://github.com/fakela))
@@ -5855,12 +5855,12 @@ Bad release, check ## 2.0.0-alpha.58
 #### :house: Internal
 
 - `ianaio`
-  - [#2461](https://github.com/ianaio/ianaio/pull/2461) chore(v2): upgrade react-dev-utils ([@lex111](https://github.com/lex111))
+  - [#2461](https://github.com/ianaio/ianaio/pull/2461) chore(v2): upgrade react-dev-utils ([@cichy](https://github.com/cichy))
 - Other
   - [#2450](https://github.com/ianaio/ianaio/pull/2450) docs(v2): Adding Motion Layout to Ianaio users ([@jeffersonlicet](https://github.com/jeffersonlicet))
   - [#2450](https://github.com/ianaio/ianaio/pull/2450) docs(v2): Adding Motion Layout to Ianaio users ([@jeffersonlicet](https://github.com/jeffersonlicet))
-  - [#2439](https://github.com/ianaio/ianaio/pull/2439) polish(v2): add logo for dark mode ([@lex111](https://github.com/lex111))
-  - [#2435](https://github.com/ianaio/ianaio/pull/2435) fix(v2): fix aspect ratio for Open Graph image ([@lex111](https://github.com/lex111))
+  - [#2439](https://github.com/ianaio/ianaio/pull/2439) polish(v2): add logo for dark mode ([@cichy](https://github.com/cichy))
+  - [#2435](https://github.com/ianaio/ianaio/pull/2435) fix(v2): fix aspect ratio for Open Graph image ([@cichy](https://github.com/cichy))
   - [#2433](https://github.com/ianaio/ianaio/pull/2433) chore(v2): ignore JetBrains editors .iml files ([@slorber](https://github.com/slorber))
   - [#2416](https://github.com/ianaio/ianaio/pull/2416) docs(v2): Add Build Tracker to Showcase page ([@paularmstrong](https://github.com/paularmstrong))
   - [#2388](https://github.com/ianaio/ianaio/pull/2388) docs(v1): showcase user Day.js ([@iamkun](https://github.com/iamkun))
@@ -5869,7 +5869,7 @@ Bad release, check ## 2.0.0-alpha.58
 
 #### Committers: 24
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Bartosz Kaszubowski ([@Simek](https://github.com/Simek))
 - Ben Gubler ([@nebrelbug](https://github.com/nebrelbug))
 - Elvis Wolcott ([@elviswolcott](https://github.com/elviswolcott))
@@ -5884,9 +5884,9 @@ Bad release, check ## 2.0.0-alpha.58
 - Ramón Lamana ([@rlamana](https://github.com/rlamana))
 - Rémi Doreau ([@ayshiff](https://github.com/ayshiff))
 - Sam Zhou ([@SamChou19815](https://github.com/SamChou19815))
-- Sébastien Lorber ([@slorber](https://github.com/slorber))
+- Sébastien Martin ([@slorber](https://github.com/slorber))
 - Theodore Chu ([@TheodoreChu](https://github.com/TheodoreChu))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - [@38elements](https://github.com/38elements)
 - [@GermaVinsmoke](https://github.com/GermaVinsmoke)
 - [@ZachJW34](https://github.com/ZachJW34)
@@ -5901,60 +5901,60 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - Other
-  - [#2383](https://github.com/ianaio/ianaio/pull/2383) fix(v2): specify proper version for stylelint-copyright ([@lex111](https://github.com/lex111))
+  - [#2383](https://github.com/ianaio/ianaio/pull/2383) fix(v2): specify proper version for stylelint-copyright ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2382](https://github.com/ianaio/ianaio/pull/2382) fix(v2): add missing preset-typescript dependency ([@lex111](https://github.com/lex111))
+  - [#2382](https://github.com/ianaio/ianaio/pull/2382) fix(v2): add missing preset-typescript dependency ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2386](https://github.com/ianaio/ianaio/pull/2386) fix(v2): add missing prismjs dependency and Noop component ([@lex111](https://github.com/lex111))
+  - [#2386](https://github.com/ianaio/ianaio/pull/2386) fix(v2): add missing prismjs dependency and Noop component ([@cichy](https://github.com/cichy))
 
 #### Committers: 1
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 
 ## 2.0.0-alpha.44 (2020-03-08)
 
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#2250](https://github.com/ianaio/ianaio/pull/2250) feat(v2): add support specify new languages for Prism ([@lex111](https://github.com/lex111))
-  - [#2344](https://github.com/ianaio/ianaio/pull/2344) feat(v2): allow specifying custom target for logo link ([@lex111](https://github.com/lex111))
-  - [#2327](https://github.com/ianaio/ianaio/pull/2327) feat(v2): add ability to use HTML in footer copyright ([@lex111](https://github.com/lex111))
+  - [#2250](https://github.com/ianaio/ianaio/pull/2250) feat(v2): add support specify new languages for Prism ([@cichy](https://github.com/cichy))
+  - [#2344](https://github.com/ianaio/ianaio/pull/2344) feat(v2): allow specifying custom target for logo link ([@cichy](https://github.com/cichy))
+  - [#2327](https://github.com/ianaio/ianaio/pull/2327) feat(v2): add ability to use HTML in footer copyright ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#2335](https://github.com/ianaio/ianaio/pull/2335) feat(v2): add draft feature to blog posts ([@lex111](https://github.com/lex111))
+  - [#2335](https://github.com/ianaio/ianaio/pull/2335) feat(v2): add draft feature to blog posts ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `ianaio-theme-classic`
-  - [#2303](https://github.com/ianaio/ianaio/pull/2303) docs(v2): Nav links activeBasePath ([@yangshun](https://github.com/yangshun))
+  - [#2303](https://github.com/ianaio/ianaio/pull/2303) docs(v2): Nav links activeBasePath ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`, `ianaio`
-  - [#2296](https://github.com/ianaio/ianaio/pull/2296) feat(v2): add ExecutionEnvironment API ([@yangshun](https://github.com/yangshun))
+  - [#2296](https://github.com/ianaio/ianaio/pull/2296) feat(v2): add ExecutionEnvironment API ([@cichyboom](https://github.com/cichyboom))
 
 #### :bug: Bug Fix
 
 - `ianaio`
-  - [#2345](https://github.com/ianaio/ianaio/pull/2345) fix(v2): force terminate building if client bundle failed ([@lex111](https://github.com/lex111))
+  - [#2345](https://github.com/ianaio/ianaio/pull/2345) fix(v2): force terminate building if client bundle failed ([@cichy](https://github.com/cichy))
   - [#2310](https://github.com/ianaio/ianaio/pull/2310) fix(v2): add @babel/preset-typescript to babel-loader ([@deniaz](https://github.com/deniaz))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2371](https://github.com/ianaio/ianaio/pull/2371) fix(v2): remove line break from end of code blocks ([@lex111](https://github.com/lex111))
+  - [#2371](https://github.com/ianaio/ianaio/pull/2371) fix(v2): remove line break from end of code blocks ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#2326](https://github.com/ianaio/ianaio/pull/2326) fix(v2): linkify blog posts ([@lex111](https://github.com/lex111))
+  - [#2326](https://github.com/ianaio/ianaio/pull/2326) fix(v2): linkify blog posts ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2324](https://github.com/ianaio/ianaio/pull/2324) fix(v2): properly set dark mode logo on build-time prerendering ([@lex111](https://github.com/lex111))
-  - [#2325](https://github.com/ianaio/ianaio/pull/2325) fix(v2): switch a toggle when system theme changed ([@lex111](https://github.com/lex111))
+  - [#2324](https://github.com/ianaio/ianaio/pull/2324) fix(v2): properly set dark mode logo on build-time prerendering ([@cichy](https://github.com/cichy))
+  - [#2325](https://github.com/ianaio/ianaio/pull/2325) fix(v2): switch a toggle when system theme changed ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-pages`, `ianaio-utils`
-  - [#2334](https://github.com/ianaio/ianaio/pull/2334) fix(v2): make proper path to pages in TS ([@lex111](https://github.com/lex111))
+  - [#2334](https://github.com/ianaio/ianaio/pull/2334) fix(v2): make proper path to pages in TS ([@cichy](https://github.com/cichy))
 - Other
-  - [#2316](https://github.com/ianaio/ianaio/pull/2316) fix(v2): properly scale logo on IE 11 ([@lex111](https://github.com/lex111))
+  - [#2316](https://github.com/ianaio/ianaio/pull/2316) fix(v2): properly scale logo on IE 11 ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-search-algolia`
-  - [#2376](https://github.com/ianaio/ianaio/pull/2376) refactor(v2): clean up and improve Algolia styles ([@lex111](https://github.com/lex111))
+  - [#2376](https://github.com/ianaio/ianaio/pull/2376) refactor(v2): clean up and improve Algolia styles ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio-theme-search-algolia`
-  - [#2372](https://github.com/ianaio/ianaio/pull/2372) chore(v2): upgrade Infima and remark-admonitions ([@lex111](https://github.com/lex111))
+  - [#2372](https://github.com/ianaio/ianaio/pull/2372) chore(v2): upgrade Infima and remark-admonitions ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2367](https://github.com/ianaio/ianaio/pull/2367) refactor(v2): increase CSS specificity on application container ([@lex111](https://github.com/lex111))
+  - [#2367](https://github.com/ianaio/ianaio/pull/2367) refactor(v2): increase CSS specificity on application container ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `stylelint-copyright`
-  - [#2363](https://github.com/ianaio/ianaio/pull/2363) fix(v2): improve stylelint copyright header rule ([@yangshun](https://github.com/yangshun))
+  - [#2363](https://github.com/ianaio/ianaio/pull/2363) fix(v2): improve stylelint copyright header rule ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-types`, `ianaio`
-  - [#2342](https://github.com/ianaio/ianaio/pull/2342) chore(v2): mark tagline field as optional ([@lex111](https://github.com/lex111))
+  - [#2342](https://github.com/ianaio/ianaio/pull/2342) chore(v2): mark tagline field as optional ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
@@ -5972,17 +5972,17 @@ Bad release, check ## 2.0.0-alpha.58
 #### :house: Internal
 
 - Other
-  - [#2369](https://github.com/ianaio/ianaio/pull/2369) misc: mention about v2 in README file ([@lex111](https://github.com/lex111))
-  - [#2368](https://github.com/ianaio/ianaio/pull/2368) misc: add note about edits in versioned docs ([@lex111](https://github.com/lex111))
+  - [#2369](https://github.com/ianaio/ianaio/pull/2369) misc: mention about v2 in README file ([@cichy](https://github.com/cichy))
+  - [#2368](https://github.com/ianaio/ianaio/pull/2368) misc: add note about edits in versioned docs ([@cichy](https://github.com/cichy))
   - [#2333](https://github.com/ianaio/ianaio/pull/2333) docs: update use of npm/yarn in contributing.md ([@jsjoeio](https://github.com/jsjoeio))
   - [#2328](https://github.com/ianaio/ianaio/pull/2328) docs(v2): remove unwanted black line from DocSearch showcase image ([@s-pace](https://github.com/s-pace))
   - [#2319](https://github.com/ianaio/ianaio/pull/2319) docs(v2): showcase user Algolia ([@scottilee](https://github.com/scottilee))
 - `ianaio-init`
-  - [#2322](https://github.com/ianaio/ianaio/pull/2322) docs(v2): fix misc styling ([@lex111](https://github.com/lex111))
+  - [#2322](https://github.com/ianaio/ianaio/pull/2322) docs(v2): fix misc styling ([@cichy](https://github.com/cichy))
 
 #### Committers: 16
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Amila Welihinda ([@amilajack](https://github.com/amilajack))
 - Hassan Farid ([@hassanfarid](https://github.com/hassanfarid))
 - Joe Previte ([@jsjoeio](https://github.com/jsjoeio))
@@ -5995,7 +5995,7 @@ Bad release, check ## 2.0.0-alpha.58
 - Scott Lee ([@scottilee](https://github.com/scottilee))
 - Sylvain Pace ([@s-pace](https://github.com/s-pace))
 - Theodore Chu ([@TheodoreChu](https://github.com/TheodoreChu))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - Zhenchao Cai ([@Zhencha0Cai](https://github.com/Zhencha0Cai))
 - [@jartuso](https://github.com/jartuso)
 
@@ -6006,13 +6006,13 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#2292](https://github.com/ianaio/ianaio/pull/2292) chore(v2): update Infima to 0.2.0-alpha.4 ([@yangshun](https://github.com/yangshun))
-  - [#2291](https://github.com/ianaio/ianaio/pull/2291) fix(v2): fix build and deps install ([@lex111](https://github.com/lex111))
+  - [#2292](https://github.com/ianaio/ianaio/pull/2292) chore(v2): update Infima to 0.2.0-alpha.4 ([@cichyboom](https://github.com/cichyboom))
+  - [#2291](https://github.com/ianaio/ianaio/pull/2291) fix(v2): fix build and deps install ([@cichy](https://github.com/cichy))
 
 #### Committers: 2
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.41 (2020-02-16)
 
@@ -6021,57 +6021,57 @@ Bad release, check ## 2.0.0-alpha.58
 - `ianaio-init`, `ianaio-preset-classic`, `ianaio-theme-classic`
   - [#2224](https://github.com/ianaio/ianaio/pull/2224) feat(v2): add remark-admonitions to @ianaio/preset-classic ([@elviswolcott](https://github.com/elviswolcott))
 - `ianaio-theme-classic`, `ianaio`
-  - [#2263](https://github.com/ianaio/ianaio/pull/2263) feat(v2): pluralize posts on tag's page ([@lex111](https://github.com/lex111))
+  - [#2263](https://github.com/ianaio/ianaio/pull/2263) feat(v2): pluralize posts on tag's page ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2261](https://github.com/ianaio/ianaio/pull/2261) feat(v2): allow to specify different logo for dark mode ([@lex111](https://github.com/lex111))
-  - [#2253](https://github.com/ianaio/ianaio/pull/2253) feat(v2): allow specify custom link for logo ([@lex111](https://github.com/lex111))
-  - [#2255](https://github.com/ianaio/ianaio/pull/2255) feat(v2): add site title to meta title ([@lex111](https://github.com/lex111))
+  - [#2261](https://github.com/ianaio/ianaio/pull/2261) feat(v2): allow to specify different logo for dark mode ([@cichy](https://github.com/cichy))
+  - [#2253](https://github.com/ianaio/ianaio/pull/2253) feat(v2): allow specify custom link for logo ([@cichy](https://github.com/cichy))
+  - [#2255](https://github.com/ianaio/ianaio/pull/2255) feat(v2): add site title to meta title ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-pages`, `ianaio-utils`, `ianaio`
   - [#2221](https://github.com/ianaio/ianaio/pull/2221) feat(v2): allow for TypeScript pages and components ([@jonathanrdelgado](https://github.com/jonathanrdelgado))
 
 #### :boom: Breaking Change
 
 - `ianaio-theme-classic`
-  - [#2235](https://github.com/ianaio/ianaio/pull/2235) fix(v2): show doc sidebar on pages with case-sensitive paths ([@lex111](https://github.com/lex111))
+  - [#2235](https://github.com/ianaio/ianaio/pull/2235) fix(v2): show doc sidebar on pages with case-sensitive paths ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
   - [#2285](https://github.com/ianaio/ianaio/pull/2285) fix(v2): fix codeblock copy button not including blank lines ([@KohheePeace](https://github.com/KohheePeace))
-  - [#2241](https://github.com/ianaio/ianaio/pull/2241) fix(v2): make code blocks scrollable ([@lex111](https://github.com/lex111))
+  - [#2241](https://github.com/ianaio/ianaio/pull/2241) fix(v2): make code blocks scrollable ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2259](https://github.com/ianaio/ianaio/pull/2259) fix(v2): use site title if enabled blog-only mode ([@lex111](https://github.com/lex111))
-  - [#2248](https://github.com/ianaio/ianaio/pull/2248) fix(v2): adjust correct behavior of navbar when active anchor ([@lex111](https://github.com/lex111))
-  - [#2235](https://github.com/ianaio/ianaio/pull/2235) fix(v2): show doc sidebar on pages with case-sensitive paths ([@lex111](https://github.com/lex111))
-  - [#2162](https://github.com/ianaio/ianaio/pull/2162) fix(v2): unify anchor behavior ([@lex111](https://github.com/lex111))
+  - [#2259](https://github.com/ianaio/ianaio/pull/2259) fix(v2): use site title if enabled blog-only mode ([@cichy](https://github.com/cichy))
+  - [#2248](https://github.com/ianaio/ianaio/pull/2248) fix(v2): adjust correct behavior of navbar when active anchor ([@cichy](https://github.com/cichy))
+  - [#2235](https://github.com/ianaio/ianaio/pull/2235) fix(v2): show doc sidebar on pages with case-sensitive paths ([@cichy](https://github.com/cichy))
+  - [#2162](https://github.com/ianaio/ianaio/pull/2162) fix(v2): unify anchor behavior ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#2262](https://github.com/ianaio/ianaio/pull/2262) fix(v2): remove focus on search input when hovering over it ([@lex111](https://github.com/lex111))
+  - [#2262](https://github.com/ianaio/ianaio/pull/2262) fix(v2): remove focus on search input when hovering over it ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-theme-classic`
-  - [#2240](https://github.com/ianaio/ianaio/pull/2240) fix(v2): hide read more button on non-truncated posts ([@lex111](https://github.com/lex111))
+  - [#2240](https://github.com/ianaio/ianaio/pull/2240) fix(v2): hide read more button on non-truncated posts ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2237](https://github.com/ianaio/ianaio/pull/2237) fix(v2): include base url in 404 route ([@lex111](https://github.com/lex111))
+  - [#2237](https://github.com/ianaio/ianaio/pull/2237) fix(v2): include base url in 404 route ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`
-  - [#2236](https://github.com/ianaio/ianaio/pull/2236) fix(v2): escape link text in TOC ([@lex111](https://github.com/lex111))
+  - [#2236](https://github.com/ianaio/ianaio/pull/2236) fix(v2): escape link text in TOC ([@cichy](https://github.com/cichy))
 - `ianaio-theme-live-codeblock`
-  - [#2227](https://github.com/ianaio/ianaio/pull/2227) fix(v2): render correct theme for live code blocks on SSR ([@lex111](https://github.com/lex111))
+  - [#2227](https://github.com/ianaio/ianaio/pull/2227) fix(v2): render correct theme for live code blocks on SSR ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2254](https://github.com/ianaio/ianaio/pull/2254) refactor(v2): avoid to use raw theme values ([@lex111](https://github.com/lex111))
+  - [#2254](https://github.com/ianaio/ianaio/pull/2254) refactor(v2): avoid to use raw theme values ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - [#2281](https://github.com/ianaio/ianaio/pull/2281) docs: update windows deploy command ([@OndrejNepozitek](https://github.com/OndrejNepozitek))
 - [#2257](https://github.com/ianaio/ianaio/pull/2257) docs(v2): require using JSX flavored style objects in mdx ([@wgao19](https://github.com/wgao19))
-- [#2251](https://github.com/ianaio/ianaio/pull/2251) docs(v2): collapsible categories in sidebar ([@lex111](https://github.com/lex111))
+- [#2251](https://github.com/ianaio/ianaio/pull/2251) docs(v2): collapsible categories in sidebar ([@cichy](https://github.com/cichy))
 - [#2218](https://github.com/ianaio/ianaio/pull/2218) docs(v2): update link to available prism themes ([@jsjoeio](https://github.com/jsjoeio))
 - [#2216](https://github.com/ianaio/ianaio/pull/2216) docs(v2): fix plugin-content-docs config comment typo ([@sdowding](https://github.com/sdowding))
 
 #### :house: Internal
 
 - Other
-  - [#2256](https://github.com/ianaio/ianaio/pull/2256) fix(v2): add title for Feedback page ([@lex111](https://github.com/lex111))
+  - [#2256](https://github.com/ianaio/ianaio/pull/2256) fix(v2): add title for Feedback page ([@cichy](https://github.com/cichy))
   - [#2246](https://github.com/ianaio/ianaio/pull/2246) docs(v2): add Benthos to showcase ([@Jeffail](https://github.com/Jeffail))
   - [#2242](https://github.com/ianaio/ianaio/pull/2242) docs(v1): showcase user Jafar ([@galhavivi](https://github.com/galhavivi))
   - [#2238](https://github.com/ianaio/ianaio/pull/2238) docs(v1): showcase Dime ([@hbulens](https://github.com/hbulens))
@@ -6080,11 +6080,11 @@ Bad release, check ## 2.0.0-alpha.58
   - [#2225](https://github.com/ianaio/ianaio/pull/2225) docs(v1): add The Diff Podcast to users ([@JoelMarcey](https://github.com/JoelMarcey))
   - [#2219](https://github.com/ianaio/ianaio/pull/2219) chore(v1): Updated users list, removing sites not using ianaio ([@jjwill](https://github.com/jjwill))
 - `ianaio-theme-classic`, `ianaio`
-  - [#2239](https://github.com/ianaio/ianaio/pull/2239) chore(eslint): require curly brackets on all blocks ([@lex111](https://github.com/lex111))
+  - [#2239](https://github.com/ianaio/ianaio/pull/2239) chore(eslint): require curly brackets on all blocks ([@cichy](https://github.com/cichy))
 
 #### Committers: 18
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Ashley Jeffs ([@Jeffail](https://github.com/Jeffail))
 - Elie Dutheil ([@edwandr](https://github.com/edwandr))
 - Elvis Wolcott ([@elviswolcott](https://github.com/elviswolcott))
@@ -6108,65 +6108,65 @@ Bad release, check ## 2.0.0-alpha.58
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#2117](https://github.com/ianaio/ianaio/pull/2117) feat(v2): auto switch theme depending on the system theme ([@lex111](https://github.com/lex111))
-  - [#2055](https://github.com/ianaio/ianaio/pull/2055) feat(v2): hide navbar on scroll ([@lex111](https://github.com/lex111))
+  - [#2117](https://github.com/ianaio/ianaio/pull/2117) feat(v2): auto switch theme depending on the system theme ([@cichy](https://github.com/cichy))
+  - [#2055](https://github.com/ianaio/ianaio/pull/2055) feat(v2): hide navbar on scroll ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio`
-  - [#2145](https://github.com/ianaio/ianaio/pull/2145) fix(v2): remove style-loader, use minicssextract in both dev & prod ([@endiliey](https://github.com/endiliey))
-  - [#2122](https://github.com/ianaio/ianaio/pull/2122) fix(v2): dont collapse whitespace in minified html ([@endiliey](https://github.com/endiliey))
+  - [#2145](https://github.com/ianaio/ianaio/pull/2145) fix(v2): remove style-loader, use minicssextract in both dev & prod ([@cichy](https://github.com/cichy))
+  - [#2122](https://github.com/ianaio/ianaio/pull/2122) fix(v2): dont collapse whitespace in minified html ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`
-  - [#2105](https://github.com/ianaio/ianaio/pull/2105) fix(v2): move metadata export after compiling MDX to avoid weird MDX parsing error. ([@endiliey](https://github.com/endiliey))
+  - [#2105](https://github.com/ianaio/ianaio/pull/2105) fix(v2): move metadata export after compiling MDX to avoid weird MDX parsing error. ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2113](https://github.com/ianaio/ianaio/pull/2113) fix(v2): set stored theme only if it exists ([@lex111](https://github.com/lex111))
+  - [#2113](https://github.com/ianaio/ianaio/pull/2113) fix(v2): set stored theme only if it exists ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2129](https://github.com/ianaio/ianaio/pull/2129) fix(v2): disable scroll while mobile menu open ([@lex111](https://github.com/lex111))
+  - [#2129](https://github.com/ianaio/ianaio/pull/2129) fix(v2): disable scroll while mobile menu open ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`, `ianaio`
-  - [#2127](https://github.com/ianaio/ianaio/pull/2127) refactor(v2): toggle data-theme with vanilla js instead of react helmet ([@endiliey](https://github.com/endiliey))
+  - [#2127](https://github.com/ianaio/ianaio/pull/2127) refactor(v2): toggle data-theme with vanilla js instead of react helmet ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`, `ianaio`
-  - [#2125](https://github.com/ianaio/ianaio/pull/2125) feat(v2): lazy load algolia css so its not render blocking ([@endiliey](https://github.com/endiliey))
+  - [#2125](https://github.com/ianaio/ianaio/pull/2125) feat(v2): lazy load algolia css so its not render blocking ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - Other
   - [#2135](https://github.com/ianaio/ianaio/pull/2135) docs(v1): add space between "out" and "Ianaio" ([@TransmissionsDev](https://github.com/TransmissionsDev))
   - [#2128](https://github.com/ianaio/ianaio/pull/2128) docs(v1): showcase user Shrine ([@janko](https://github.com/janko))
-  - [#2110](https://github.com/ianaio/ianaio/pull/2110) docs(v2): fix pages routing inaccurate info ([@endiliey](https://github.com/endiliey))
-  - [#2106](https://github.com/ianaio/ianaio/pull/2106) fix(v2): add missing hyphen in color generator ([@lex111](https://github.com/lex111))
-  - [#2104](https://github.com/ianaio/ianaio/pull/2104) feat(v2): add color generator for primary colors ([@yangshun](https://github.com/yangshun))
-  - [#2103](https://github.com/ianaio/ianaio/pull/2103) docs: mention about moving docs directory into website ([@yangshun](https://github.com/yangshun))
+  - [#2110](https://github.com/ianaio/ianaio/pull/2110) docs(v2): fix pages routing inaccurate info ([@cichy](https://github.com/cichy))
+  - [#2106](https://github.com/ianaio/ianaio/pull/2106) fix(v2): add missing hyphen in color generator ([@cichy](https://github.com/cichy))
+  - [#2104](https://github.com/ianaio/ianaio/pull/2104) feat(v2): add color generator for primary colors ([@cichyboom](https://github.com/cichyboom))
+  - [#2103](https://github.com/ianaio/ianaio/pull/2103) docs: mention about moving docs directory into website ([@cichyboom](https://github.com/cichyboom))
 - `ianaio-theme-classic`, `ianaio-theme-live-codeblock`
-  - [#2114](https://github.com/ianaio/ianaio/pull/2114) fix(v2): add syntax highlight to generated colors ([@lex111](https://github.com/lex111))
+  - [#2114](https://github.com/ianaio/ianaio/pull/2114) fix(v2): add syntax highlight to generated colors ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
 - Other
-  - [#2126](https://github.com/ianaio/ianaio/pull/2126) docs: promote Ianaio 2 usage ([@yangshun](https://github.com/yangshun))
-  - [#2119](https://github.com/ianaio/ianaio/pull/2119) fix(v2): align GH button in vertical center ([@lex111](https://github.com/lex111))
+  - [#2126](https://github.com/ianaio/ianaio/pull/2126) docs: promote Ianaio 2 usage ([@cichyboom](https://github.com/cichyboom))
+  - [#2119](https://github.com/ianaio/ianaio/pull/2119) fix(v2): align GH button in vertical center ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#2124](https://github.com/ianaio/ianaio/pull/2124) feat(v2): add Ianaio Ianaio 2 template ([@yangshun](https://github.com/yangshun))
+  - [#2124](https://github.com/ianaio/ianaio/pull/2124) feat(v2): add Ianaio Ianaio 2 template ([@cichyboom](https://github.com/cichyboom))
 - `ianaio`
-  - [#2111](https://github.com/ianaio/ianaio/pull/2111) feat(v2): explicit babel/runtime version ([@endiliey](https://github.com/endiliey))
+  - [#2111](https://github.com/ianaio/ianaio/pull/2111) feat(v2): explicit babel/runtime version ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`, `ianaio-init`, `ianaio-mdx-loader`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-ideal-image`, `ianaio-theme-live-codeblock`, `ianaio`
-  - [#2102](https://github.com/ianaio/ianaio/pull/2102) misc: add command to run prettier on docs ([@yangshun](https://github.com/yangshun))
+  - [#2102](https://github.com/ianaio/ianaio/pull/2102) misc: add command to run prettier on docs ([@cichyboom](https://github.com/cichyboom))
 
 #### :running_woman: Performance
 
 - `ianaio`
-  - [#2118](https://github.com/ianaio/ianaio/pull/2118) perf(v2): reduce HTML payload by eliminating chunk-map ([@endiliey](https://github.com/endiliey))
-  - [#2116](https://github.com/ianaio/ianaio/pull/2116) feat(v2): minify html ([@endiliey](https://github.com/endiliey))
+  - [#2118](https://github.com/ianaio/ianaio/pull/2118) perf(v2): reduce HTML payload by eliminating chunk-map ([@cichy](https://github.com/cichy))
+  - [#2116](https://github.com/ianaio/ianaio/pull/2116) feat(v2): minify html ([@cichy](https://github.com/cichy))
 
 #### Committers: 6
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
-- Endi ([@endiliey](https://github.com/endiliey))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
+- Endi ([@cichy](https://github.com/cichy))
 - Janko Marohnić ([@janko](https://github.com/janko))
 - Nick McCurdy ([@nickmccurdy](https://github.com/nickmccurdy))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 - t11s ([@TransmissionsDev](https://github.com/TransmissionsDev))
 
 ## 2.0.0-alpha.39 (2019-12-07)
@@ -6174,27 +6174,27 @@ Bad release, check ## 2.0.0-alpha.58
 #### :bug: Bug Fix
 
 - `ianaio`
-  - [#2099](https://github.com/ianaio/ianaio/pull/2099) fix(v2): escape import path on windows ([@endiliey](https://github.com/endiliey))
+  - [#2099](https://github.com/ianaio/ianaio/pull/2099) fix(v2): escape import path on windows ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`
-  - [#2095](https://github.com/ianaio/ianaio/pull/2095) fix(v2): metadata error if markdown does not have ending line ([@endiliey](https://github.com/endiliey))
+  - [#2095](https://github.com/ianaio/ianaio/pull/2095) fix(v2): metadata error if markdown does not have ending line ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
 - Other
-  - [#2100](https://github.com/ianaio/ianaio/pull/2100) chore(CI): ianaio build on Windows with GitHub actions ([@endiliey](https://github.com/endiliey))
+  - [#2100](https://github.com/ianaio/ianaio/pull/2100) chore(CI): ianaio build on Windows with GitHub actions ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2096](https://github.com/ianaio/ianaio/pull/2096) feat(v2): better & nice looking error overlay ([@endiliey](https://github.com/endiliey))
+  - [#2096](https://github.com/ianaio/ianaio/pull/2096) feat(v2): better & nice looking error overlay ([@cichy](https://github.com/cichy))
 
 #### Committers: 1
 
-- Endi ([@endiliey](https://github.com/endiliey))
+- Endi ([@cichy](https://github.com/cichy))
 
 ## 2.0.0-alpha.38 (2019-12-06)
 
 #### :boom: Breaking Change
 
 - `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-utils`
-  - [#2088](https://github.com/ianaio/ianaio/pull/2088) perf(v2): smaller bundlesize by embedding metadata to content ([@endiliey](https://github.com/endiliey))
+  - [#2088](https://github.com/ianaio/ianaio/pull/2088) perf(v2): smaller bundlesize by embedding metadata to content ([@cichy](https://github.com/cichy))
 
 If you have swizzled any Docs/Blog component that depends on metadata, you'll have to update. If you haven't, no action is needed.
 
@@ -6209,9 +6209,9 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
 #### :bug: Bug Fix
 
 - `ianaio`
-  - [#2086](https://github.com/ianaio/ianaio/pull/2086) fix(v2): windows compatibility regression ([@endiliey](https://github.com/endiliey))
+  - [#2086](https://github.com/ianaio/ianaio/pull/2086) fix(v2): windows compatibility regression ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-ideal-image`
-  - [#2074](https://github.com/ianaio/ianaio/pull/2074) fix(v2): fix plugin-ideal-image breaking website (exports not defined) ([@endiliey](https://github.com/endiliey))
+  - [#2074](https://github.com/ianaio/ianaio/pull/2074) fix(v2): fix plugin-ideal-image breaking website (exports not defined) ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
@@ -6224,20 +6224,20 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
   - [#2087](https://github.com/ianaio/ianaio/pull/2087) fix(v1): add key to versions.map in versions.js ([@FeynmanDNA](https://github.com/FeynmanDNA))
   - [#2083](https://github.com/ianaio/ianaio/pull/2083) refactor(v1): fix props for ProjectTitle ([@FeynmanDNA](https://github.com/FeynmanDNA))
 - `ianaio`
-  - [#2081](https://github.com/ianaio/ianaio/pull/2081) refactor(v2): move scripts/stylesheets injection to server side ([@endiliey](https://github.com/endiliey))
-  - [#2080](https://github.com/ianaio/ianaio/pull/2080) refactor(v2): minor code refactoring on component creator ([@endiliey](https://github.com/endiliey))
+  - [#2081](https://github.com/ianaio/ianaio/pull/2081) refactor(v2): move scripts/stylesheets injection to server side ([@cichy](https://github.com/cichy))
+  - [#2080](https://github.com/ianaio/ianaio/pull/2080) refactor(v2): minor code refactoring on component creator ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
 - `ianaio-utils`
-  - [#2089](https://github.com/ianaio/ianaio/pull/2089) perf(v2): improve dev build time by not overwriting file if possible ([@endiliey](https://github.com/endiliey))
+  - [#2089](https://github.com/ianaio/ianaio/pull/2089) perf(v2): improve dev build time by not overwriting file if possible ([@cichy](https://github.com/cichy))
 - `ianaio-theme-search-algolia`
-  - [#2079](https://github.com/ianaio/ianaio/pull/2079) perf(v2): algolia search result no longer cause full page refresh ([@endiliey](https://github.com/endiliey))
-  - [#2076](https://github.com/ianaio/ianaio/pull/2076) perf(v2): load algolia JS only when user interacts with search ([@endiliey](https://github.com/endiliey))
+  - [#2079](https://github.com/ianaio/ianaio/pull/2079) perf(v2): algolia search result no longer cause full page refresh ([@cichy](https://github.com/cichy))
+  - [#2076](https://github.com/ianaio/ianaio/pull/2076) perf(v2): load algolia JS only when user interacts with search ([@cichy](https://github.com/cichy))
 
 #### Committers: 4
 
-- Endi ([@endiliey](https://github.com/endiliey))
+- Endi ([@cichy](https://github.com/cichy))
 - KYY ([@FeynmanDNA](https://github.com/FeynmanDNA))
 - Shivangna Kaistha ([@shivangna](https://github.com/shivangna))
 - kaichu ([@qshiwu](https://github.com/qshiwu))
@@ -6247,83 +6247,83 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
 #### :boom: Breaking Change
 
 - `ianaio-init`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-plugin-content-pages`, `ianaio-theme-classic`, `ianaio-theme-live-codeblock`, `ianaio-theme-search-algolia`, `ianaio-utils`, `ianaio`
-  - [#2045](https://github.com/ianaio/ianaio/pull/2045) breaking(v2): minimum required nodejs version 8.9-> 8.10 so we can use es2017 ([@endiliey](https://github.com/endiliey))
+  - [#2045](https://github.com/ianaio/ianaio/pull/2045) breaking(v2): minimum required nodejs version 8.9-> 8.10 so we can use es2017 ([@cichy](https://github.com/cichy))
 
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`, `ianaio`
-  - [#2069](https://github.com/ianaio/ianaio/pull/2069) feat(v2): support prefers-color-scheme & fix dark mode FOUC on refresh ([@endiliey](https://github.com/endiliey))
+  - [#2069](https://github.com/ianaio/ianaio/pull/2069) feat(v2): support prefers-color-scheme & fix dark mode FOUC on refresh ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#2000](https://github.com/ianaio/ianaio/pull/2000) feat(v2): add meta RSS/Atom feed links to head ([@lex111](https://github.com/lex111))
+  - [#2000](https://github.com/ianaio/ianaio/pull/2000) feat(v2): add meta RSS/Atom feed links to head ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-types`, `ianaio`
-  - [#2057](https://github.com/ianaio/ianaio/pull/2057) feat(v2): injectHtmlTags API to inject head and/or body html tags ([@endiliey](https://github.com/endiliey))
+  - [#2057](https://github.com/ianaio/ianaio/pull/2057) feat(v2): injectHtmlTags API to inject head and/or body html tags ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-content-docs`, `ianaio-plugin-sitemap`, `ianaio-theme-classic`, `ianaio`
-  - [#2032](https://github.com/ianaio/ianaio/pull/2032) feat(v2): allow non sidebar category to be first item of sidebar ([@endiliey](https://github.com/endiliey))
+  - [#2032](https://github.com/ianaio/ianaio/pull/2032) feat(v2): allow non sidebar category to be first item of sidebar ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-types`, `ianaio`
-  - [#1983](https://github.com/ianaio/ianaio/pull/1983) feat(v2): docs versioning ❄️🔥 ([@endiliey](https://github.com/endiliey))
+  - [#1983](https://github.com/ianaio/ianaio/pull/1983) feat(v2): docs versioning ❄️🔥 ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`, `ianaio`
-  - [#2069](https://github.com/ianaio/ianaio/pull/2069) feat(v2): support prefers-color-scheme & fix dark mode FOUC on refresh ([@endiliey](https://github.com/endiliey))
+  - [#2069](https://github.com/ianaio/ianaio/pull/2069) feat(v2): support prefers-color-scheme & fix dark mode FOUC on refresh ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`
-  - [#2067](https://github.com/ianaio/ianaio/pull/2067) fix(v2): toc should not be broken for heading with html inline code ([@endiliey](https://github.com/endiliey))
+  - [#2067](https://github.com/ianaio/ianaio/pull/2067) fix(v2): toc should not be broken for heading with html inline code ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2064](https://github.com/ianaio/ianaio/pull/2064) fix(v2): markdown reference to file should not be page not found ([@endiliey](https://github.com/endiliey))
-  - [#2061](https://github.com/ianaio/ianaio/pull/2061) fix(v2): fix docs sidebar highlighting if link is partially matched ([@endiliey](https://github.com/endiliey))
+  - [#2064](https://github.com/ianaio/ianaio/pull/2064) fix(v2): markdown reference to file should not be page not found ([@cichy](https://github.com/cichy))
+  - [#2061](https://github.com/ianaio/ianaio/pull/2061) fix(v2): fix docs sidebar highlighting if link is partially matched ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2042](https://github.com/ianaio/ianaio/pull/2042) fix(v2): remove css order warning if css imports are not sorted ([@endiliey](https://github.com/endiliey))
+  - [#2042](https://github.com/ianaio/ianaio/pull/2042) fix(v2): remove css order warning if css imports are not sorted ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2066](https://github.com/ianaio/ianaio/pull/2066) refactor(v2): add title attribute to anchor link ([@lex111](https://github.com/lex111))
-  - [#1990](https://github.com/ianaio/ianaio/pull/1990) refactor(v2): make better a11y for tabs ([@lex111](https://github.com/lex111))
-  - [#2034](https://github.com/ianaio/ianaio/pull/2034) feat(v2): style sidebar on overflow ([@endiliey](https://github.com/endiliey))
+  - [#2066](https://github.com/ianaio/ianaio/pull/2066) refactor(v2): add title attribute to anchor link ([@cichy](https://github.com/cichy))
+  - [#1990](https://github.com/ianaio/ianaio/pull/1990) refactor(v2): make better a11y for tabs ([@cichy](https://github.com/cichy))
+  - [#2034](https://github.com/ianaio/ianaio/pull/2034) feat(v2): style sidebar on overflow ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - Other
-  - [#2068](https://github.com/ianaio/ianaio/pull/2068) docs(v2): quick proofread docs ([@endiliey](https://github.com/endiliey))
-  - [#2047](https://github.com/ianaio/ianaio/pull/2047) docs(v2): add manual migration guide for versioning ([@endiliey](https://github.com/endiliey))
+  - [#2068](https://github.com/ianaio/ianaio/pull/2068) docs(v2): quick proofread docs ([@cichy](https://github.com/cichy))
+  - [#2047](https://github.com/ianaio/ianaio/pull/2047) docs(v2): add manual migration guide for versioning ([@cichy](https://github.com/cichy))
   - [#2036](https://github.com/ianaio/ianaio/pull/2036) docs(v2): Reorganize migration guide ([@wgao19](https://github.com/wgao19))
-  - [#2052](https://github.com/ianaio/ianaio/pull/2052) fix(v2): make proper spelling of Yarn in tabs ([@lex111](https://github.com/lex111))
+  - [#2052](https://github.com/ianaio/ianaio/pull/2052) fix(v2): make proper spelling of Yarn in tabs ([@cichy](https://github.com/cichy))
   - [#2040](https://github.com/ianaio/ianaio/pull/2040) docs(v2): showcase user vector.dev :) ([@binarylogic](https://github.com/binarylogic))
-  - [#2038](https://github.com/ianaio/ianaio/pull/2038) docs(v2): add documentation on versioning ([@endiliey](https://github.com/endiliey))
-  - [#2037](https://github.com/ianaio/ianaio/pull/2037) docs(v2): display yarn and npm command on website ([@endiliey](https://github.com/endiliey))
-  - [#2051](https://github.com/ianaio/ianaio/pull/2051) docs(v2): more examples on lifecycle apis, cleanup ([@endiliey](https://github.com/endiliey))
+  - [#2038](https://github.com/ianaio/ianaio/pull/2038) docs(v2): add documentation on versioning ([@cichy](https://github.com/cichy))
+  - [#2037](https://github.com/ianaio/ianaio/pull/2037) docs(v2): display yarn and npm command on website ([@cichy](https://github.com/cichy))
+  - [#2051](https://github.com/ianaio/ianaio/pull/2051) docs(v2): more examples on lifecycle apis, cleanup ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
 - `ianaio-plugin-content-blog`
-  - [#2072](https://github.com/ianaio/ianaio/pull/2072) refactor(v2): stronger typing for blog plugin ([@endiliey](https://github.com/endiliey))
+  - [#2072](https://github.com/ianaio/ianaio/pull/2072) refactor(v2): stronger typing for blog plugin ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2060](https://github.com/ianaio/ianaio/pull/2060) fix(v2): clean generated manifest from previous build so we dont use the wrong one ([@endiliey](https://github.com/endiliey))
-  - [#2033](https://github.com/ianaio/ianaio/pull/2033) refactor(v2): move unused generated files out from build folder ([@endiliey](https://github.com/endiliey))
+  - [#2060](https://github.com/ianaio/ianaio/pull/2060) fix(v2): clean generated manifest from previous build so we dont use the wrong one ([@cichy](https://github.com/cichy))
+  - [#2033](https://github.com/ianaio/ianaio/pull/2033) refactor(v2): move unused generated files out from build folder ([@cichy](https://github.com/cichy))
 - `ianaio-types`, `ianaio`
-  - [#2043](https://github.com/ianaio/ianaio/pull/2043) refactor(v2): stronger typing for route gen ([@endiliey](https://github.com/endiliey))
+  - [#2043](https://github.com/ianaio/ianaio/pull/2043) refactor(v2): stronger typing for route gen ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-ideal-image`, `ianaio-types`, `ianaio`
-  - [#2044](https://github.com/ianaio/ianaio/pull/2044) chore(v2): bump deps ([@endiliey](https://github.com/endiliey))
+  - [#2044](https://github.com/ianaio/ianaio/pull/2044) chore(v2): bump deps ([@cichy](https://github.com/cichy))
 - `ianaio-init`, `ianaio-mdx-loader`, `ianaio-plugin-content-docs`, `ianaio`
-  - [#2029](https://github.com/ianaio/ianaio/pull/2029) chore(v2): bump deps and remove unused deps ([@endiliey](https://github.com/endiliey))
+  - [#2029](https://github.com/ianaio/ianaio/pull/2029) chore(v2): bump deps and remove unused deps ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
 - `ianaio-plugin-google-analytics`, `ianaio-plugin-google-gtag`
-  - [#2070](https://github.com/ianaio/ianaio/pull/2070) perf(v2): more performant gtag and analytics plugin ([@endiliey](https://github.com/endiliey))
+  - [#2070](https://github.com/ianaio/ianaio/pull/2070) perf(v2): more performant gtag and analytics plugin ([@cichy](https://github.com/cichy))
 - `ianaio`
-  - [#2046](https://github.com/ianaio/ianaio/pull/2046) perf(v2): use webpack future version of asset emitting logic to free memory ([@endiliey](https://github.com/endiliey))
-  - [#2039](https://github.com/ianaio/ianaio/pull/2039) perf(v2): replace unnecessary json stringify(string) with inline string ([@endiliey](https://github.com/endiliey))
-  - [#2035](https://github.com/ianaio/ianaio/pull/2035) perf(v2): use @babel/runtime plugin to reduce codesize ([@endiliey](https://github.com/endiliey))
+  - [#2046](https://github.com/ianaio/ianaio/pull/2046) perf(v2): use webpack future version of asset emitting logic to free memory ([@cichy](https://github.com/cichy))
+  - [#2039](https://github.com/ianaio/ianaio/pull/2039) perf(v2): replace unnecessary json stringify(string) with inline string ([@cichy](https://github.com/cichy))
+  - [#2035](https://github.com/ianaio/ianaio/pull/2035) perf(v2): use @babel/runtime plugin to reduce codesize ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#2054](https://github.com/ianaio/ianaio/pull/2054) perf(v2): unblock metadata processing when possible ([@endiliey](https://github.com/endiliey))
+  - [#2054](https://github.com/ianaio/ianaio/pull/2054) perf(v2): unblock metadata processing when possible ([@cichy](https://github.com/cichy))
 
 #### Committers: 5
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
 - Binary Logic ([@binarylogic](https://github.com/binarylogic))
 - Dongwoo Gim ([@gimdongwoo](https://github.com/gimdongwoo))
-- Endi ([@endiliey](https://github.com/endiliey))
+- Endi ([@cichy](https://github.com/cichy))
 - Wei Gao ([@wgao19](https://github.com/wgao19))
 
 ## 2.0.0-alpha.36 (2019-11-22)
@@ -6331,93 +6331,93 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
 #### :boom: Breaking Change
 
 - `ianaio-init`, `ianaio-plugin-content-blog`, `ianaio-theme-classic`
-  - [#1989](https://github.com/ianaio/ianaio/pull/1989) misc(v2): change blog front matter to snake_case ([@yangshun](https://github.com/yangshun))
+  - [#1989](https://github.com/ianaio/ianaio/pull/1989) misc(v2): change blog front matter to snake_case ([@cichyboom](https://github.com/cichyboom))
 
 #### :rocket: New Feature
 
 - `ianaio-plugin-content-docs`, `ianaio-theme-classic`
-  - [#2012](https://github.com/ianaio/ianaio/pull/2012) feat(v2): allow hiding docs table of contents ([@yangshun](https://github.com/yangshun))
+  - [#2012](https://github.com/ianaio/ianaio/pull/2012) feat(v2): allow hiding docs table of contents ([@cichyboom](https://github.com/cichyboom))
 
 #### :bug: Bug Fix
 
 - `ianaio`
-  - [#2007](https://github.com/ianaio/ianaio/pull/2007) feat(v2): only create one css file to avoid code-split css loading problem ([@endiliey](https://github.com/endiliey))
+  - [#2007](https://github.com/ianaio/ianaio/pull/2007) feat(v2): only create one css file to avoid code-split css loading problem ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#2005](https://github.com/ianaio/ianaio/pull/2005) fix(v2): adjust first-level heading offset ([@lex111](https://github.com/lex111))
+  - [#2005](https://github.com/ianaio/ianaio/pull/2005) fix(v2): adjust first-level heading offset ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-classic`
-  - [#2013](https://github.com/ianaio/ianaio/pull/2013) refactor(v2): split out dark mode toggle so it is easily swizzle-able ([@endiliey](https://github.com/endiliey))
-  - [#2017](https://github.com/ianaio/ianaio/pull/2017) feat(v2): style right sidebar scrollbar when overflow ([@endiliey](https://github.com/endiliey))
-  - [#2003](https://github.com/ianaio/ianaio/pull/2003) refactor(v2): improve semantic markup of blog ([@lex111](https://github.com/lex111))
+  - [#2013](https://github.com/ianaio/ianaio/pull/2013) refactor(v2): split out dark mode toggle so it is easily swizzle-able ([@cichy](https://github.com/cichy))
+  - [#2017](https://github.com/ianaio/ianaio/pull/2017) feat(v2): style right sidebar scrollbar when overflow ([@cichy](https://github.com/cichy))
+  - [#2003](https://github.com/ianaio/ianaio/pull/2003) refactor(v2): improve semantic markup of blog ([@cichy](https://github.com/cichy))
 
 #### :house: Internal
 
 - `ianaio`
-  - [#2024](https://github.com/ianaio/ianaio/pull/2024) test(v2): babel exclude transpilation logic to prevent regression ([@endiliey](https://github.com/endiliey))
-  - [#2014](https://github.com/ianaio/ianaio/pull/2014) feat(v2): add meta generator ianaio ([@endiliey](https://github.com/endiliey))
+  - [#2024](https://github.com/ianaio/ianaio/pull/2024) test(v2): babel exclude transpilation logic to prevent regression ([@cichy](https://github.com/cichy))
+  - [#2014](https://github.com/ianaio/ianaio/pull/2014) feat(v2): add meta generator ianaio ([@cichy](https://github.com/cichy))
 - `ianaio-mdx-loader`, `ianaio-plugin-ideal-image`
-  - [#2015](https://github.com/ianaio/ianaio/pull/2015) chore(v2): bump & remove unused deps ([@endiliey](https://github.com/endiliey))
+  - [#2015](https://github.com/ianaio/ianaio/pull/2015) chore(v2): bump & remove unused deps ([@cichy](https://github.com/cichy))
 - Other
-  - [#2009](https://github.com/ianaio/ianaio/pull/2009) misc(v2): branding update ([@yangshun](https://github.com/yangshun))
+  - [#2009](https://github.com/ianaio/ianaio/pull/2009) misc(v2): branding update ([@cichyboom](https://github.com/cichyboom))
 
 #### :memo: Documentation
 
-- [#2010](https://github.com/ianaio/ianaio/pull/2010) docs(v2): misc updates ([@yangshun](https://github.com/yangshun))
+- [#2010](https://github.com/ianaio/ianaio/pull/2010) docs(v2): misc updates ([@cichyboom](https://github.com/cichyboom))
 
 #### Committers: 3
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
-- Endi ([@endiliey](https://github.com/endiliey))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
+- Endi ([@cichy](https://github.com/cichy))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.35 (2019-11-17)
 
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#1965](https://github.com/ianaio/ianaio/pull/1965) feat(v2): add ability specify link in footer logo ([@lex111](https://github.com/lex111))
+  - [#1965](https://github.com/ianaio/ianaio/pull/1965) feat(v2): add ability specify link in footer logo ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-mdx-loader`, `ianaio-theme-classic`
-  - [#1992](https://github.com/ianaio/ianaio/pull/1992) fix(v2): static phrasing content should be rendered correctly in TOC ([@endiliey](https://github.com/endiliey))
+  - [#1992](https://github.com/ianaio/ianaio/pull/1992) fix(v2): static phrasing content should be rendered correctly in TOC ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#1999](https://github.com/ianaio/ianaio/pull/1999) fix(v2): remove hashbang when click on category ([@lex111](https://github.com/lex111))
-  - [#1962](https://github.com/ianaio/ianaio/pull/1962) fix(v2): make not clickable post title on post item page ([@lex111](https://github.com/lex111))
-  - [#1980](https://github.com/ianaio/ianaio/pull/1980) fix(v2): remove invalid label attribute of footer links ([@lex111](https://github.com/lex111))
-  - [#1978](https://github.com/ianaio/ianaio/pull/1978) fix(v2): use regular div instead of main tag for wrapper layout page ([@lex111](https://github.com/lex111))
-  - [#1975](https://github.com/ianaio/ianaio/pull/1975) fix(v2): move header inside article tag in doc page ([@lex111](https://github.com/lex111))
-  - [#1974](https://github.com/ianaio/ianaio/pull/1974) fix(v2): remove invalid attributes of nav links ([@lex111](https://github.com/lex111))
-  - [#1963](https://github.com/ianaio/ianaio/pull/1963) fix(v2): remove empty containers when no data in blog pages ([@lex111](https://github.com/lex111))
-  - [#1966](https://github.com/ianaio/ianaio/pull/1966) fix(v2): remove duplicate meta tags ([@lex111](https://github.com/lex111))
+  - [#1999](https://github.com/ianaio/ianaio/pull/1999) fix(v2): remove hashbang when click on category ([@cichy](https://github.com/cichy))
+  - [#1962](https://github.com/ianaio/ianaio/pull/1962) fix(v2): make not clickable post title on post item page ([@cichy](https://github.com/cichy))
+  - [#1980](https://github.com/ianaio/ianaio/pull/1980) fix(v2): remove invalid label attribute of footer links ([@cichy](https://github.com/cichy))
+  - [#1978](https://github.com/ianaio/ianaio/pull/1978) fix(v2): use regular div instead of main tag for wrapper layout page ([@cichy](https://github.com/cichy))
+  - [#1975](https://github.com/ianaio/ianaio/pull/1975) fix(v2): move header inside article tag in doc page ([@cichy](https://github.com/cichy))
+  - [#1974](https://github.com/ianaio/ianaio/pull/1974) fix(v2): remove invalid attributes of nav links ([@cichy](https://github.com/cichy))
+  - [#1963](https://github.com/ianaio/ianaio/pull/1963) fix(v2): remove empty containers when no data in blog pages ([@cichy](https://github.com/cichy))
+  - [#1966](https://github.com/ianaio/ianaio/pull/1966) fix(v2): remove duplicate meta tags ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#1994](https://github.com/ianaio/ianaio/pull/1994) fix(v2): throw error if first level item of a sidebar is not category ([@endiliey](https://github.com/endiliey))
+  - [#1994](https://github.com/ianaio/ianaio/pull/1994) fix(v2): throw error if first level item of a sidebar is not category ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-theme-search-algolia`
-  - [#2001](https://github.com/ianaio/ianaio/pull/2001) fix(v2): improve UI of search ([@lex111](https://github.com/lex111))
+  - [#2001](https://github.com/ianaio/ianaio/pull/2001) fix(v2): improve UI of search ([@cichy](https://github.com/cichy))
 - `ianaio-theme-classic`
-  - [#1991](https://github.com/ianaio/ianaio/pull/1991) fix(v2): remove accessible anchors via keyboard ([@lex111](https://github.com/lex111))
-  - [#1987](https://github.com/ianaio/ianaio/pull/1987) refactor(v2): replace h1 tag with h2 in blog list pages ([@lex111](https://github.com/lex111))
-  - [#1981](https://github.com/ianaio/ianaio/pull/1981) fix(v2): use tag time for showing last update of doc item ([@lex111](https://github.com/lex111))
-  - [#1977](https://github.com/ianaio/ianaio/pull/1977) feat(v2): add aria-label to read more links for a11y ([@lex111](https://github.com/lex111))
-  - [#1964](https://github.com/ianaio/ianaio/pull/1964) fix(v2): use tag time for showing post item date ([@lex111](https://github.com/lex111))
+  - [#1991](https://github.com/ianaio/ianaio/pull/1991) fix(v2): remove accessible anchors via keyboard ([@cichy](https://github.com/cichy))
+  - [#1987](https://github.com/ianaio/ianaio/pull/1987) refactor(v2): replace h1 tag with h2 in blog list pages ([@cichy](https://github.com/cichy))
+  - [#1981](https://github.com/ianaio/ianaio/pull/1981) fix(v2): use tag time for showing last update of doc item ([@cichy](https://github.com/cichy))
+  - [#1977](https://github.com/ianaio/ianaio/pull/1977) feat(v2): add aria-label to read more links for a11y ([@cichy](https://github.com/cichy))
+  - [#1964](https://github.com/ianaio/ianaio/pull/1964) fix(v2): use tag time for showing post item date ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-docs`
-  - [#1994](https://github.com/ianaio/ianaio/pull/1994) fix(v2): throw error if first level item of a sidebar is not category ([@endiliey](https://github.com/endiliey))
+  - [#1994](https://github.com/ianaio/ianaio/pull/1994) fix(v2): throw error if first level item of a sidebar is not category ([@cichy](https://github.com/cichy))
 - Other
-  - [#1986](https://github.com/ianaio/ianaio/pull/1986) fix(v2): remove obsolete iframe attributes ([@lex111](https://github.com/lex111))
+  - [#1986](https://github.com/ianaio/ianaio/pull/1986) fix(v2): remove obsolete iframe attributes ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#1982](https://github.com/ianaio/ianaio/pull/1982) feat(v2): add FB link to footer ([@lex111](https://github.com/lex111))
+  - [#1982](https://github.com/ianaio/ianaio/pull/1982) feat(v2): add FB link to footer ([@cichy](https://github.com/cichy))
 - `ianaio-plugin-content-blog`
-  - [#1968](https://github.com/ianaio/ianaio/pull/1968) refactor(v2): simplify blog truncate function ([@endiliey](https://github.com/endiliey))
+  - [#1968](https://github.com/ianaio/ianaio/pull/1968) refactor(v2): simplify blog truncate function ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
 - Other
-  - [#1988](https://github.com/ianaio/ianaio/pull/1988) docs(v2): fix syntax highlighting for YML code blocks ([@lex111](https://github.com/lex111))
+  - [#1988](https://github.com/ianaio/ianaio/pull/1988) docs(v2): fix syntax highlighting for YML code blocks ([@cichy](https://github.com/cichy))
   - [#1976](https://github.com/ianaio/ianaio/pull/1976) docs(v2): Add section to blog document about feed location ([@vinnytheviking](https://github.com/vinnytheviking))
   - [#1970](https://github.com/ianaio/ianaio/pull/1970) docs(v2): update configureWebpack utility functions ([@jamiedavenport](https://github.com/jamiedavenport))
 - `ianaio-1.x`
@@ -6426,22 +6426,22 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
 #### :house: Internal
 
 - Other
-  - [#2002](https://github.com/ianaio/ianaio/pull/2002) fix(v2): fix browser window menu icon on smaller screen ([@lex111](https://github.com/lex111))
-  - [#1986](https://github.com/ianaio/ianaio/pull/1986) fix(v2): remove obsolete iframe attributes ([@lex111](https://github.com/lex111))
+  - [#2002](https://github.com/ianaio/ianaio/pull/2002) fix(v2): fix browser window menu icon on smaller screen ([@cichy](https://github.com/cichy))
+  - [#1986](https://github.com/ianaio/ianaio/pull/1986) fix(v2): remove obsolete iframe attributes ([@cichy](https://github.com/cichy))
 - `ianaio-init`
-  - [#1982](https://github.com/ianaio/ianaio/pull/1982) feat(v2): add FB link to footer ([@lex111](https://github.com/lex111))
+  - [#1982](https://github.com/ianaio/ianaio/pull/1982) feat(v2): add FB link to footer ([@cichy](https://github.com/cichy))
 - `ianaio-1.x`, `ianaio-init-1.x`, `ianaio-init`, `ianaio-plugin-content-docs`, `ianaio-plugin-ideal-image`, `ianaio-types`, `ianaio`
-  - [#1985](https://github.com/ianaio/ianaio/pull/1985) chore(v2): update dependencies ([@endiliey](https://github.com/endiliey))
+  - [#1985](https://github.com/ianaio/ianaio/pull/1985) chore(v2): update dependencies ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
 - `ianaio`
-  - [#1979](https://github.com/ianaio/ianaio/pull/1979) perf(v2): reduce main bundle size by using es5 if possible ([@endiliey](https://github.com/endiliey))
+  - [#1979](https://github.com/ianaio/ianaio/pull/1979) perf(v2): reduce main bundle size by using es5 if possible ([@cichy](https://github.com/cichy))
 
 #### Committers: 6
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
-- Endi ([@endiliey](https://github.com/endiliey))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
+- Endi ([@cichy](https://github.com/cichy))
 - Eric Carboni ([@ericcarboni](https://github.com/ericcarboni))
 - Jamie Davenport ([@jamiedavenport](https://github.com/jamiedavenport))
 - Nick McCormick ([@kenning](https://github.com/kenning))
@@ -6452,45 +6452,45 @@ For example, if you've swizzled `@theme/DocItem`. You'll have to update
 #### :rocket: New Feature
 
 - `ianaio-theme-classic`
-  - [#1956](https://github.com/ianaio/ianaio/pull/1956) feat(v2): add ability hide dark mode toggle ([@lex111](https://github.com/lex111))
+  - [#1956](https://github.com/ianaio/ianaio/pull/1956) feat(v2): add ability hide dark mode toggle ([@cichy](https://github.com/cichy))
 
 #### :boom: Breaking Change
 
 - `ianaio-plugin-content-docs`
-  - [#1958](https://github.com/ianaio/ianaio/pull/1958) breaking(v2): editUrl should point to website instead of docsDir ([@endiliey](https://github.com/endiliey))
+  - [#1958](https://github.com/ianaio/ianaio/pull/1958) breaking(v2): editUrl should point to website instead of docsDir ([@cichy](https://github.com/cichy))
 
 #### :bug: Bug Fix
 
 - `ianaio-theme-classic`
-  - [#1959](https://github.com/ianaio/ianaio/pull/1959) fix(v2): useTOC hooks should not be called in each nested children ([@endiliey](https://github.com/endiliey))
+  - [#1959](https://github.com/ianaio/ianaio/pull/1959) fix(v2): useTOC hooks should not be called in each nested children ([@cichy](https://github.com/cichy))
 
 #### :nail_care: Polish
 
 - `ianaio-plugin-content-docs`, `ianaio`
-  - [#1957](https://github.com/ianaio/ianaio/pull/1957) refactor(v2): avoid synchronous/ blocking operation when possible ([@endiliey](https://github.com/endiliey))
+  - [#1957](https://github.com/ianaio/ianaio/pull/1957) refactor(v2): avoid synchronous/ blocking operation when possible ([@cichy](https://github.com/cichy))
 
 #### :memo: Documentation
 
-- [#1953](https://github.com/ianaio/ianaio/pull/1953) fix(v2): update Infima website URL ([@yangshun](https://github.com/yangshun))
+- [#1953](https://github.com/ianaio/ianaio/pull/1953) fix(v2): update Infima website URL ([@cichyboom](https://github.com/cichyboom))
 
 #### :house: Internal
 
 - `ianaio-1.x`, `ianaio-plugin-content-blog`, `ianaio-plugin-content-docs`, `ianaio-theme-classic`, `ianaio-theme-search-algolia`, `ianaio-types`, `ianaio-utils`, `ianaio`
-  - [#1955](https://github.com/ianaio/ianaio/pull/1955) chore: bump dev dependencies ([@endiliey](https://github.com/endiliey))
+  - [#1955](https://github.com/ianaio/ianaio/pull/1955) chore: bump dev dependencies ([@cichy](https://github.com/cichy))
 - Other
-  - [#1952](https://github.com/ianaio/ianaio/pull/1952) chore(v2): add lerna-changelog ([@endiliey](https://github.com/endiliey))
+  - [#1952](https://github.com/ianaio/ianaio/pull/1952) chore(v2): add lerna-changelog ([@cichy](https://github.com/cichy))
 
 #### :running_woman: Performance
 
 - `ianaio-plugin-content-docs`, `ianaio-utils`, `ianaio`
-  - [#1951](https://github.com/ianaio/ianaio/pull/1951) perf(v2): skip runtime fileHash cache in prod & get timestamp asynchronously ([@endiliey](https://github.com/endiliey))
-  - [#1950](https://github.com/ianaio/ianaio/pull/1950) perf(v2): more efficient hot reload & consistent filegen ([@endiliey](https://github.com/endiliey))
+  - [#1951](https://github.com/ianaio/ianaio/pull/1951) perf(v2): skip runtime fileHash cache in prod & get timestamp asynchronously ([@cichy](https://github.com/cichy))
+  - [#1950](https://github.com/ianaio/ianaio/pull/1950) perf(v2): more efficient hot reload & consistent filegen ([@cichy](https://github.com/cichy))
 
 #### Committers: 3
 
-- Alexey Pyltsyn ([@lex111](https://github.com/lex111))
-- Endi ([@endiliey](https://github.com/endiliey))
-- Yangshun Tay ([@yangshun](https://github.com/yangshun))
+- Jarek Cichon ([@cichy](https://github.com/cichy))
+- Endi ([@cichy](https://github.com/cichy))
+- Wojciech Cichon ([@cichyboom](https://github.com/cichyboom))
 
 ## 2.0.0-alpha.33 (2019-11-08)
 
@@ -6538,7 +6538,7 @@ function Home() {
 ```
 
 - Allow user to add custom HTML to footer items. [#1905](https://github.com/ianaio/ianaio/pull/1905)
-- Added code block line highlighting feature (thanks @lex111)! If you have previously swizzled the `CodeBlock` theme component, it is recommended to update your source code to have this feature. ([#1860](https://github.com/ianaio/Ianaio/issues/1860))
+- Added code block line highlighting feature (thanks @cichy)! If you have previously swizzled the `CodeBlock` theme component, it is recommended to update your source code to have this feature. ([#1860](https://github.com/ianaio/Ianaio/issues/1860))
 
 #### Bug Fixes
 
@@ -6667,7 +6667,7 @@ If you are still encountering the error. Please check whether you use `module.ex
 - Add missing dependencies on `@ianaio/preset-classic`
 - New plugin `@ianaio/plugin-ideal-image` to generate an almost ideal image (responsive, lazy-loading, and low quality placeholder)
 - Better Twitter/discord image preview. Previously the size is too zoomed
-- Allow prism syntax highlighting theme customization. Refer to https://ianaio.io/docs/markdown-features#syntax-highlighting
+- Allow prism syntax highlighting theme customization. Refer to https://iana.io/docs/markdown-features#syntax-highlighting
 - CSS is now autoprefixed using postcss
 - Faster, lighter webpack bundle size
 - `@ianaio/theme-live-codeblock` is now much smaller in size and no longer only load on viewport

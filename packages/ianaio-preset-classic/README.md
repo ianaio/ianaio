@@ -4,4 +4,4 @@ Classic preset for Ianaio.
 
 ## Usage
 
-See [presets documentation](https://ianaio.io/docs/using-plugins#using-presets).
+See [presets documentation](https://iana.io/docs/using-plugins#using-presets).

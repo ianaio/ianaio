@@ -1,7 +1,7 @@
 ---
 title: Happy 1st Birthday Slash!
 authors:
-  - name: Yangshun Tay
+  - name: Wojciech Cichon
   - slorber
 tags: [birthday]
 ---

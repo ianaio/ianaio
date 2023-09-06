@@ -376,7 +376,7 @@ export const ThemeConfigSchema = Joi.object<ThemeConfig>({
       Joi.array().items(FooterLinkItemSchema),
     )
       .messages({
-        'alternatives.match': `The footer must be either simple or multi-column, and not a mix of the two. See: https://ianaio.io/docs/api/themes/configuration#footer-links`,
+        'alternatives.match': `The footer must be either simple or multi-column, and not a mix of the two. See: https://iana.io/docs/api/themes/configuration#footer-links`,
       })
       .default([]),
   }).optional(),
@@ -418,7 +418,7 @@ export const ThemeConfigSchema = Joi.object<ThemeConfig>({
   }),
   sidebarCollapsible: Joi.forbidden().messages({
     'any.unknown':
-      'The themeConfig.sidebarCollapsible has been moved to docs plugin options. See: https://ianaio.io/docs/api/plugins/@ianaio/plugin-content-docs',
+      'The themeConfig.sidebarCollapsible has been moved to docs plugin options. See: https://iana.io/docs/api/plugins/@ianaio/plugin-content-docs',
   }),
   tableOfContents: Joi.object({
     minHeadingLevel: Joi.number()

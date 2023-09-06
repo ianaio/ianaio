@@ -108,7 +108,7 @@ ${actionsTable()}
 ${logger.bold('Swizzle safety statuses')}:
 ${statusTable()}
 
-${logger.bold('Swizzle guide')}: https://ianaio.io/docs/swizzling`;
+${logger.bold('Swizzle guide')}: https://iana.io/docs/swizzling`;
 }
 
 export function themeComponentsTable(themeComponents: ThemeComponents): string {

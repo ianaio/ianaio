@@ -35,11 +35,11 @@ describe('getBlogPostAuthors', () => {
     expect(
       getBlogPostAuthors({
         frontMatter: {
-          author: 'Sébastien Lorber',
+          author: 'Sébastien Martin',
         },
         authorsMap: undefined,
       }),
-    ).toEqual([{name: 'Sébastien Lorber'}]);
+    ).toEqual([{name: 'Sébastien Martin'}]);
     expect(
       getBlogPostAuthors({
         frontMatter: {
@@ -59,7 +59,7 @@ describe('getBlogPostAuthors', () => {
     expect(
       getBlogPostAuthors({
         frontMatter: {
-          author: 'Sébastien Lorber',
+          author: 'Sébastien Martin',
           author_title: 'maintainer1',
           authorTitle: 'maintainer2',
           author_image_url: 'https://github.com/slorber1.png',
@@ -71,7 +71,7 @@ describe('getBlogPostAuthors', () => {
       }),
     ).toEqual([
       {
-        name: 'Sébastien Lorber',
+        name: 'Sébastien Martin',
         title: 'maintainer1',
         imageURL: 'https://github.com/slorber1.png',
         url: 'https://github.com/slorber1',
@@ -85,25 +85,25 @@ describe('getBlogPostAuthors', () => {
         frontMatter: {
           authors: 'slorber',
         },
-        authorsMap: {slorber: {name: 'Sébastien Lorber'}},
+        authorsMap: {slorber: {name: 'Sébastien Martin'}},
       }),
-    ).toEqual([{key: 'slorber', name: 'Sébastien Lorber'}]);
+    ).toEqual([{key: 'slorber', name: 'Sébastien Martin'}]);
   });
 
   it('can read authors string[]', () => {
     expect(
       getBlogPostAuthors({
         frontMatter: {
-          authors: ['slorber', 'yangshun'],
+          authors: ['slorber', 'cichyboom'],
         },
         authorsMap: {
-          slorber: {name: 'Sébastien Lorber', title: 'maintainer'},
-          yangshun: {name: 'Yangshun Tay'},
+          slorber: {name: 'Sébastien Martin', title: 'maintainer'},
+          cichyboom: {name: 'Wojciech Cichon'},
         },
       }),
     ).toEqual([
-      {key: 'slorber', name: 'Sébastien Lorber', title: 'maintainer'},
-      {key: 'yangshun', name: 'Yangshun Tay'},
+      {key: 'slorber', name: 'Sébastien Martin', title: 'maintainer'},
+      {key: 'cichyboom', name: 'Wojciech Cichon'},
     ]);
   });
 
@@ -111,11 +111,11 @@ describe('getBlogPostAuthors', () => {
     expect(
       getBlogPostAuthors({
         frontMatter: {
-          authors: {name: 'Sébastien Lorber', title: 'maintainer'},
+          authors: {name: 'Sébastien Martin', title: 'maintainer'},
         },
         authorsMap: undefined,
       }),
-    ).toEqual([{name: 'Sébastien Lorber', title: 'maintainer'}]);
+    ).toEqual([{name: 'Sébastien Martin', title: 'maintainer'}]);
   });
 
   it('can read authors Author[]', () => {
@@ -123,15 +123,15 @@ describe('getBlogPostAuthors', () => {
       getBlogPostAuthors({
         frontMatter: {
           authors: [
-            {name: 'Sébastien Lorber', title: 'maintainer'},
-            {name: 'Yangshun Tay'},
+            {name: 'Sébastien Martin', title: 'maintainer'},
+            {name: 'Wojciech Cichon'},
           ],
         },
         authorsMap: undefined,
       }),
     ).toEqual([
-      {name: 'Sébastien Lorber', title: 'maintainer'},
-      {name: 'Yangshun Tay'},
+      {name: 'Sébastien Martin', title: 'maintainer'},
+      {name: 'Wojciech Cichon'},
     ]);
   });
 
@@ -142,7 +142,7 @@ describe('getBlogPostAuthors', () => {
           authors: [
             'slorber',
             {
-              key: 'yangshun',
+              key: 'cichyboom',
               title: 'Yangshun title local override',
               extra: 42,
             },
@@ -150,15 +150,15 @@ describe('getBlogPostAuthors', () => {
           ],
         },
         authorsMap: {
-          slorber: {name: 'Sébastien Lorber', title: 'maintainer'},
-          yangshun: {name: 'Yangshun Tay', title: 'Yangshun title original'},
+          slorber: {name: 'Sébastien Martin', title: 'maintainer'},
+          cichyboom: {name: 'Wojciech Cichon', title: 'Yangshun title original'},
         },
       }),
     ).toEqual([
-      {key: 'slorber', name: 'Sébastien Lorber', title: 'maintainer'},
+      {key: 'slorber', name: 'Sébastien Martin', title: 'maintainer'},
       {
-        key: 'yangshun',
-        name: 'Yangshun Tay',
+        key: 'cichyboom',
+        name: 'Wojciech Cichon',
         title: 'Yangshun title local override',
         extra: 42,
       },
@@ -202,14 +202,14 @@ describe('getBlogPostAuthors', () => {
         },
 
         authorsMap: {
-          yangshun: {name: 'Yangshun Tay'},
+          cichyboom: {name: 'Wojciech Cichon'},
           jmarcey: {name: 'Joel Marcey'},
         },
       }),
     ).toThrowErrorMatchingInlineSnapshot(`
       "Blog author with key "slorber" not found in the authors map file.
       Valid author keys are:
-      - yangshun
+      - cichyboom
       - jmarcey"
     `);
   });
@@ -218,18 +218,18 @@ describe('getBlogPostAuthors', () => {
     expect(() =>
       getBlogPostAuthors({
         frontMatter: {
-          authors: ['yangshun', 'jmarcey', 'slorber'],
+          authors: ['cichyboom', 'jmarcey', 'slorber'],
         },
 
         authorsMap: {
-          yangshun: {name: 'Yangshun Tay'},
+          cichyboom: {name: 'Wojciech Cichon'},
           jmarcey: {name: 'Joel Marcey'},
         },
       }),
     ).toThrowErrorMatchingInlineSnapshot(`
       "Blog author with key "slorber" not found in the authors map file.
       Valid author keys are:
-      - yangshun
+      - cichyboom
       - jmarcey"
     `);
   });
@@ -238,18 +238,18 @@ describe('getBlogPostAuthors', () => {
     expect(() =>
       getBlogPostAuthors({
         frontMatter: {
-          authors: [{key: 'yangshun'}, {key: 'jmarcey'}, {key: 'slorber'}],
+          authors: [{key: 'cichyboom'}, {key: 'jmarcey'}, {key: 'slorber'}],
         },
 
         authorsMap: {
-          yangshun: {name: 'Yangshun Tay'},
+          cichyboom: {name: 'Wojciech Cichon'},
           jmarcey: {name: 'Joel Marcey'},
         },
       }),
     ).toThrowErrorMatchingInlineSnapshot(`
       "Blog author with key "slorber" not found in the authors map file.
       Valid author keys are:
-      - yangshun
+      - cichyboom
       - jmarcey"
     `);
   });
@@ -258,8 +258,8 @@ describe('getBlogPostAuthors', () => {
     expect(() =>
       getBlogPostAuthors({
         frontMatter: {
-          authors: [{name: 'Sébastien Lorber'}],
-          author: 'Yangshun Tay',
+          authors: [{name: 'Sébastien Martin'}],
+          author: 'Wojciech Cichon',
         },
         authorsMap: undefined,
       }),
@@ -274,7 +274,7 @@ describe('getBlogPostAuthors', () => {
           authors: [{key: 'slorber'}],
           author_title: 'legacy title',
         },
-        authorsMap: {slorber: {name: 'Sébastien Lorber'}},
+        authorsMap: {slorber: {name: 'Sébastien Martin'}},
       }),
     ).toThrowErrorMatchingInlineSnapshot(`
       "To declare blog post authors, use the 'authors' front matter in priority.
@@ -322,14 +322,14 @@ describe('validateAuthorsMap', () => {
   it('accept valid authors map', () => {
     const authorsMap: AuthorsMap = {
       slorber: {
-        name: 'Sébastien Lorber',
+        name: 'Sébastien Martin',
         title: 'maintainer',
-        url: 'https://sebastienlorber.com',
+        url: 'https://wojciechcichon.com',
         imageURL: 'https://github.com/slorber.png',
       },
-      yangshun: {
-        name: 'Yangshun Tay',
-        imageURL: 'https://github.com/yangshun.png',
+      cichyboom: {
+        name: 'Wojciech Cichon',
+        imageURL: 'https://github.com/cichyboom.png',
         randomField: 42,
       },
       jmarcey: {
@@ -344,13 +344,13 @@ describe('validateAuthorsMap', () => {
   it('rename snake case image_url to camelCase imageURL', () => {
     const authorsMap: AuthorsMap = {
       slorber: {
-        name: 'Sébastien Lorber',
+        name: 'Sébastien Martin',
         image_url: 'https://github.com/slorber.png',
       },
     };
     expect(validateAuthorsMap(authorsMap)).toEqual({
       slorber: {
-        name: 'Sébastien Lorber',
+        name: 'Sébastien Martin',
         imageURL: 'https://github.com/slorber.png',
       },
     });

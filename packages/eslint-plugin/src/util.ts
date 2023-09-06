@@ -63,5 +63,5 @@ export function isTextLabelChild(
 
 export const createRule = ESLintUtils.RuleCreator(
   (name) =>
-    `https://ianaio.io/docs/api/misc/@ianaio/eslint-plugin/${name}`,
+    `https://iana.io/docs/api/misc/@ianaio/eslint-plugin/${name}`,
 );

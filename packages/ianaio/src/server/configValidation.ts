@@ -330,7 +330,7 @@ export function validateConfig(
       '',
     );
     formattedError = unknownFields
-      ? `${formattedError}These field(s) (${unknownFields}) are not recognized in ${siteConfigPath}.\nIf you still want these fields to be in your configuration, put them in the "customFields" field.\nSee https://ianaio.io/docs/api/ianaio-config/#customfields`
+      ? `${formattedError}These field(s) (${unknownFields}) are not recognized in ${siteConfigPath}.\nIf you still want these fields to be in your configuration, put them in the "customFields" field.\nSee https://iana.io/docs/api/ianaio-config/#customfields`
       : formattedError;
     throw new Error(formattedError);
   } else {

@@ -14,7 +14,7 @@ import {translate} from '@ianaio/Translate';
 
 import type {Props} from '@theme/IdealImage';
 
-// Adopted from https://github.com/endiliey/react-ideal-image/blob/master/src/components/helpers.js#L59-L65
+// Adopted from https://github.com/cichy/react-ideal-image/blob/master/src/components/helpers.js#L59-L65
 function bytesToSize(bytes: number) {
   const sizes = ['B', 'KB', 'MB', 'GB', 'TB'];
   if (bytes === 0) {
@@ -27,7 +27,7 @@ function bytesToSize(bytes: number) {
   return `${(bytes / 1024 ** scale).toFixed(1)} ${sizes[scale]!}`;
 }
 
-// Adopted from https://github.com/endiliey/react-ideal-image/blob/master/src/components/IdealImage/index.js#L43-L75
+// Adopted from https://github.com/cichy/react-ideal-image/blob/master/src/components/IdealImage/index.js#L43-L75
 function getMessage(icon: IconKey, state: State) {
   switch (icon) {
     case 'noicon':

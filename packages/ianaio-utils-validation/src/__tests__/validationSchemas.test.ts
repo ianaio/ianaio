@@ -143,8 +143,8 @@ describe('validation schemas', () => {
   it('uRISchema', () => {
     const {testFail, testOK} = createTestHelpers({schema: URISchema});
 
-    const validURL = 'https://ianaio.io';
-    const doubleHash = 'https://ianaio.io#github#/:';
+    const validURL = 'https://iana.io';
+    const doubleHash = 'https://iana.io#github#/:';
     const invalidURL = 'spaces are invalid in a URL';
     const relativeURL = 'relativeURL';
     const relativeURLWithParent = '../relativeURLWithParent';
@@ -156,8 +156,8 @@ describe('validation schemas', () => {
     testOK(relativeURLWithParent);
     testOK(urlFromIssue);
 
-    const protocolRelativeUrl1 = '//ianaio.io/path';
-    const protocolRelativeUrl2 = '//ianaio.io/docs/doc1#hash';
+    const protocolRelativeUrl1 = '//iana.io/path';
+    const protocolRelativeUrl2 = '//iana.io/docs/doc1#hash';
     testOK(protocolRelativeUrl1);
     testOK(protocolRelativeUrl2);
   });

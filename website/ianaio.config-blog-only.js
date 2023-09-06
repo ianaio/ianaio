@@ -11,7 +11,7 @@ module.exports = {
   organizationName: 'ianaio',
   projectName: 'ianaio',
   baseUrl: '/blog-only/',
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
   // We can only warn now, since we have blog pages linking to non-blog pages...
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',

@@ -10,16 +10,16 @@ import createRedirectPageContent from '../createRedirectPageContent';
 describe('createRedirectPageContent', () => {
   it('works', () => {
     expect(
-      createRedirectPageContent({toUrl: 'https://ianaio.io/'}),
+      createRedirectPageContent({toUrl: 'https://iana.io/'}),
     ).toMatchSnapshot();
   });
 
   it('encodes uri special chars', () => {
     const result = createRedirectPageContent({
-      toUrl: 'https://ianaio.io/gr/σελιδας/',
+      toUrl: 'https://iana.io/gr/σελιδας/',
     });
     expect(result).toContain(
-      'https://ianaio.io/gr/%CF%83%CE%B5%CE%BB%CE%B9%CE%B4%CE%B1%CF%82/',
+      'https://iana.io/gr/%CF%83%CE%B5%CE%BB%CE%B9%CE%B4%CE%B1%CF%82/',
     );
     expect(result).toMatchSnapshot();
   });

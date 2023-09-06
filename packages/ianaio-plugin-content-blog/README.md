@@ -4,4 +4,4 @@ Blog plugin for Ianaio.
 
 ## Usage
 
-See [plugin-content-blog documentation](https://ianaio.io/docs/api/plugins/@ianaio/plugin-content-blog).
+See [plugin-content-blog documentation](https://iana.io/docs/api/plugins/@ianaio/plugin-content-blog).

@@ -8,7 +8,7 @@
 module.exports = {
   title: 'Hello',
   tagline: 'Hello World',
-  organizationName: 'endiliey',
+  organizationName: 'cichy',
   projectName: 'hello',
   baseUrl: '/',
   useLessField: 'what',
@@ -16,5 +16,5 @@ module.exports = {
     admin: 'endi',
     superman: 'lol',
   },
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
 };

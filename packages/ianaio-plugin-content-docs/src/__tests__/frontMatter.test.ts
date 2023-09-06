@@ -148,7 +148,7 @@ describe('validateDocFrontMatter image', () => {
   testField({
     prefix: 'image',
     validFrontMatters: [
-      {image: 'https://ianaio.io/blog/image.png'},
+      {image: 'https://iana.io/blog/image.png'},
       {image: '/absolute/image.png'},
       {image: '../relative/image.png'},
     ],

@@ -80,7 +80,7 @@ const getPlugin = async (
   const siteConfig = {
     title: 'Hello',
     baseUrl: '/',
-    url: 'https://ianaio.io',
+    url: 'https://iana.io',
   } as IanaioConfig;
   return pluginContentBlog(
     {
@@ -190,12 +190,12 @@ describe('blog plugin', () => {
       description: `Happy birthday! (translated)`,
       authors: [
         {
-          name: 'Yangshun Tay (translated)',
+          name: 'Wojciech Cichon (translated)',
         },
         {
           email: 'lorber.sebastien@gmail.com',
           key: 'slorber',
-          name: 'Sébastien Lorber (translated)',
+          name: 'Sébastien Martin (translated)',
           title: 'Ianaio maintainer (translated)',
         },
       ],
@@ -204,7 +204,7 @@ describe('blog plugin', () => {
       frontMatter: {
         authors: [
           {
-            name: 'Yangshun Tay (translated)',
+            name: 'Wojciech Cichon (translated)',
           },
           'slorber',
         ],
@@ -269,9 +269,9 @@ describe('blog plugin', () => {
       description: `simple url slug`,
       authors: [
         {
-          name: 'Sébastien Lorber',
+          name: 'Sébastien Martin',
           title: 'Ianaio maintainer',
-          url: 'https://sebastienlorber.com',
+          url: 'https://wojciechcichon.com',
           imageURL: undefined,
         },
       ],
@@ -283,9 +283,9 @@ describe('blog plugin', () => {
       date: new Date('2020-08-15'),
       formattedDate: 'August 15, 2020',
       frontMatter: {
-        author: 'Sébastien Lorber',
+        author: 'Sébastien Martin',
         author_title: 'Ianaio maintainer',
-        author_url: 'https://sebastienlorber.com',
+        author_url: 'https://wojciechcichon.com',
         date: new Date('2020-08-15'),
         slug: '/simple/slug',
         title: 'Simple Slug',

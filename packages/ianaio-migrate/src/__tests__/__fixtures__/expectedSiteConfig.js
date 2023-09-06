@@ -8,7 +8,7 @@
 module.exports = {
   title: 'Ianaio',
   tagline: 'Easy to Maintain Open Source Documentation Websites',
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
   baseUrl: '/',
   organizationName: 'ianaio',
   projectName: 'ianaio',

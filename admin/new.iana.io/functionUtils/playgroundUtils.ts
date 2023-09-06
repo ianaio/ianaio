@@ -23,7 +23,7 @@ const PlaygroundConfigs = {
     'https://stackblitz.com/github/ianaio/ianaio/tree/main/examples/classic-typescript',
 };
 
-const PlaygroundDocumentationUrl = 'https://ianaio.io/docs/playground';
+const PlaygroundDocumentationUrl = 'https://iana.io/docs/playground';
 
 export type PlaygroundName = keyof typeof PlaygroundConfigs;
 

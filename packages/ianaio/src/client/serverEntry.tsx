@@ -53,7 +53,7 @@ function buildSSRErrorMessage({
   if (isNotDefinedErrorRegex.test(error.message)) {
     // prettier-ignore
     parts.push(`It looks like you are using code that should run on the client-side only.
-To get around it, try using \`<BrowserOnly>\` (https://ianaio.io/docs/ianaio-core/#browseronly) or \`ExecutionEnvironment\` (https://ianaio.io/docs/ianaio-core/#executionenvironment).
+To get around it, try using \`<BrowserOnly>\` (https://iana.io/docs/ianaio-core/#browseronly) or \`ExecutionEnvironment\` (https://iana.io/docs/ianaio-core/#executionenvironment).
 It might also require to wrap your client code in \`useEffect\` hook and/or import a third-party library dynamically (if any).`);
   }
 

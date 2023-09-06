@@ -1,11 +1,11 @@
-# new.ianaio.io + ianaio.new
+# new.iana.io + ianaio.new
 
 This is a Netlify deployment to handle the Ianaio playgrounds shortcuts:
 
 - [ianaio.new](https://ianaio.new) (main one, as of today domain is owned by StackBlitz but may be transferred to FB)
-- [new.ianaio.io](https://new.ianaio.io) (legacy one)
+- [new.iana.io](https://new.iana.io) (legacy one)
 
-See also the [Playground doc page](https://ianaio.io/docs/playground)
+See also the [Playground doc page](https://iana.io/docs/playground)
 
 We use serverless functions because we want to persist the latest choice of the user in a cookie, so that it redirects directly to the preferred playground next time user visits this link. This is better to do it server-side with cookies and 302 redirects than with client redirects and localStorage.
 

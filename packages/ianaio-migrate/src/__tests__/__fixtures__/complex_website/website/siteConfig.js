@@ -17,11 +17,11 @@ const users =   {
 const siteConfig = {
   title: 'Ianaio',
   tagline: 'Easy to Maintain Open Source Documentation Websites',
-  url: 'https://ianaio.io',
+  url: 'https://iana.io',
   baseUrl: '/',
   organizationName: 'ianaio',
   projectName: 'ianaio',
-  cname: 'ianaio.io',
+  cname: 'iana.io',
   noIndex: false,
   users,
   editUrl: 'https://github.com/ianaio/ianaio/edit/main/docs/',

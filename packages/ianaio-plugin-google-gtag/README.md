@@ -4,4 +4,4 @@ Global Site Tag (gtag.js) plugin for Ianaio.
 
 ## Usage
 
-See [plugin-google-gtag documentation](https://ianaio.io/docs/api/plugins/@ianaio/plugin-google-gtag).
+See [plugin-google-gtag documentation](https://iana.io/docs/api/plugins/@ianaio/plugin-google-gtag).

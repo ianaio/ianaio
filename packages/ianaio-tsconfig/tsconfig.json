@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "display": "Ianaio",
-  "docs": "https://ianaio.io/docs/typescript-support",
+  "docs": "https://iana.io/docs/typescript-support",
   "compilerOptions": {
     "allowJs": true,
     "esModuleInterop": true,

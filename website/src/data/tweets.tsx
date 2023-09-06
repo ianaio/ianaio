@@ -328,9 +328,9 @@ const TWEETS: TweetItem[] = [
   },
 
   {
-    url: 'https://twitter.com/yangshunz/status/1284536949718478848',
-    handle: 'yangshunz',
-    name: 'Yangshun Tay',
+    url: 'https://twitter.com/cichyboom/status/1284536949718478848',
+    handle: 'cichyboom',
+    name: 'Wojciech Cichon',
     date: 'Jul 19, 2020',
     content: (
       <>
@@ -340,7 +340,7 @@ const TWEETS: TweetItem[] = [
       </>
     ),
     showOnHomepage: false,
-    githubUsername: 'yangshun',
+    githubUsername: 'cichyboom',
   },
 
   {
