@@ -20,8 +20,8 @@
   },
   "license": "Ianaio",
   "dependencies": {
-    "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.9",
+    "@babel/core": "^7.22.15",
+    "@babel/preset-env": "^7.22.15",
     "@ianaio/core": "0.0.1",
     "@ianaio/theme-common": "0.0.1",
     "@ianaio/theme-translations": "0.0.1",
@@ -52,3 +52,4 @@
     "node": ">=16.14"
   }
 }
+

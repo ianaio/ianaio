@@ -1,25 +1,12 @@
-endi:
-  name: Jarek Cichon
-  title: Maintainer of Ianaio
-  url: https://github.com/cichy
-  image_url: https://github.com/cichy.png
-
-cichyboom:
-  name: Wojciech Cichon
-  title: Front End Engineer @ Ianaio
-  url: https://github.com/cichyboom
-  image_url: https://github.com/cichyboom.png
-
-slorber:
-  name: Sébastien Martin
-  title: Ianaio maintainer
-  url: https://wojciechcichon.com
-  image_url: https://github.com/slorber.png
-
 Change all this to mine and wojtek
 zmienic cichyboom@gmail.com na wojtekcichon@iana.io
 Zrobic mu konto na github < zapytac czy ma!
 	
 wojciechcichon.com.com
 wolna domena niech se kupi.
+
+W katalogu packets napisac skryp sh do zmiany versji i wyszukania ich bo sa problemy Nie wiem zmienic bo wyszukuje dobrze ale zle zmienia w css jakies trajektoria obiektu.
+
+Stworzyc github repo dla tych co nie ma.
+Sprawdzic package.json name
 

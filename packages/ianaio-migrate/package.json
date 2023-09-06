@@ -22,8 +22,8 @@
     "ianaio-migrate": "bin/index.mjs"
   },
   "dependencies": {
-    "@babel/core": "^7.22.9",
-    "@babel/preset-env": "^7.22.9",
+    "@babel/core": "^7.22.15",
+    "@babel/preset-env": "^7.22.15",
     "@ianaio/logger": "0.0.1",
     "@ianaio/utils": "0.0.1",
     "@mapbox/hast-util-to-jsx": "^2.0.0",
@@ -46,3 +46,4 @@
     "@types/jscodeshift": "^0.11.6"
   }
 }
+

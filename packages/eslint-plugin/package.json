@@ -4,9 +4,9 @@
   "description": "ESLint plugin to enforce best Ianaio practices.",
   "main": "lib/index.js",
   "keywords": [
-    "eslint",
-    "eslintplugin",
-    "eslint-plugin"
+    "ianaioeslint",
+    "ianaioeslintplugin",
+    "ianaioeslint-plugin"
   ],
   "repository": {
     "type": "git",
@@ -21,16 +21,17 @@
     "build": "tsc"
   },
   "dependencies": {
-    "@typescript-eslint/utils": "^5.62.0",
-    "tslib": "^2.6.0"
+    "@typescript-eslint/utils": "^6.6.0",
+    "tslib": "^2.6.2"
   },
   "devDependencies": {
-    "eslint-plugin-eslint-plugin": "^5.1.0"
+    "eslint-plugin-eslint-plugin": "^5.1.1"
   },
   "peerDependencies": {
     "eslint": ">=6"
   },
   "engines": {
-    "node": ">=16.14"
+    "node": ">=20.5.1"
   }
 }
+
