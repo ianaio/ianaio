@@ -12,14 +12,14 @@
     "directory": "packages/ianaio-module-type-aliases"
   },
   "dependencies": {
-    "@ianaio/react-loadable": "5.5.2",
+    "@ianaio/react-loadable": "0.0.1",
     "@ianaio/types": "0.0.1",
     "@types/history": "^4.7.11",
     "@types/react": "*",
     "@types/react-router-config": "*",
     "@types/react-router-dom": "*",
     "react-helmet-async": "*",
-    "react-loadable": "npm:@ianaio/react-loadable@5.5.2"
+    "react-loadable": "npm:@ianaio/react-loadable@0.0.1"
   },
   "peerDependencies": {
     "react": "*",
@@ -27,3 +27,4 @@
   },
   "license": "Ianaio"
 }
+

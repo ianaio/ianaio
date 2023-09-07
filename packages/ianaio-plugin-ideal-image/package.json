@@ -22,24 +22,24 @@
   "dependencies": {
     "@ianaio/core": "0.0.1",
     "@ianaio/lqip-loader": "0.0.1",
-    "@ianaio/responsive-loader": "^1.7.0",
+    "@ianaio/responsive-loader": "^0.0.1",
     "@ianaio/theme-translations": "0.0.1",
     "@ianaio/types": "0.0.1",
     "@ianaio/utils-validation": "0.0.1",
-    "@slorber/react-ideal-image": "^0.0.12",
+    "@slorber/react-ideal-image": "^2.4.1",
     "react-waypoint": "^10.3.0",
-    "sharp": "^0.32.3",
-    "tslib": "^2.6.0",
-    "webpack": "^5.88.1"
+    "sharp": "^0.32.5",
+    "tslib": "^2.6.2",
+    "webpack": "^5.88.2"
   },
   "devDependencies": {
     "@ianaio/module-type-aliases": "0.0.1",
-    "fs-extra": "^11.1.0"
+    "fs-extra": "^11.1.1"
   },
   "peerDependencies": {
     "jimp": "*",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "peerDependenciesMeta": {
     "jimp": {
@@ -47,6 +47,7 @@
     }
   },
   "engines": {
-    "node": ">=16.14"
+    "node": ">=20.5.1"
   }
 }
+

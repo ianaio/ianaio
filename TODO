@@ -9,6 +9,23 @@ W katalogu packets napisac skryp sh do zmiany versji i wyszukania ich bo sa prob
 
 Stworzyc github repo dla tych co nie ma.
 Sprawdzic package.json name
-
+i ianaio wszystkie versje musza sie zgadzac zanim npm login publish
 Wyszukac wszystkich plikow .png i zamienic.
+
+
+
+
+
+@slorber/react-ideal-image //przepisac na @cichy/react-ideal-image.
+zmienic wszystki na ver. 2.4.1 bo
+https://npm.io/package/@docusaurus/plugin-ideal-image
+
+
+History depandencies remove because that has been already implemented with remix
+https://www.npmjs.com/package/@types/history
+
+pakiet npm-to-yarn //uzyc jako przyklad zlego opisania updateu na stronie npmjs.com czy org bo jest roznica w opisie google versja 2.0.0 a na stronie najnowasza wersja jest 2.1.0
+
+Na tym skonczylem teraz to
+ianaio-theme-common
 
