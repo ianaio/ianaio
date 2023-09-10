@@ -85,8 +85,8 @@ export async function migrateIanaioProject(
       '@ianaio/core': IANAIO-VERSION,
       '@ianaio/preset-classic': IANAIO-VERSION,
       clsx: '^1.1.1',
-      react: '^17.0.2',
-      'react-dom': '^17.0.2',
+      react: '^18.2.0',
+      'react-dom': '^18.2.0',
     };
     const partialMigrationContext = {
       siteDir,
@@ -761,3 +761,4 @@ export async function migrateMDToMDX(
   );
   logger.success`Successfully migrated path=${siteDir} to path=${newDir}`;
 }
+
