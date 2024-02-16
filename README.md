@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Ianaio</p>
-  <a href="https://www.iana.io"><img src="https:///img/slash-introducing.svg" alt="Ianaio"></a>
+  <a href="https://www.iana.io"><img src="https://www.iana.io/img/ianaio-logo.webp" alt="Ianaio"></a>
 </h1>
 
 <p align="center">
