@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p align="center">Iana Systems and Software</p>
+  <p align="center">Iana Systems</p>
   <a href="https://www.iana.io"><img src="https://www.iana.io/img/ianaio-logo.webp" alt="Ianaio"></a>
 </h1>
 
